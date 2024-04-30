@@ -1435,7 +1435,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2023,Private Contributions,595630.6,0.0,"Stripe, Ireland",XPRV,Private Contributions,0,0,0,0,0,0
 2023,Member State,200000.0,0.0,Türkiye,TR,Member State,0,0,0,0,0,0
 2024,Member State,874758.62,0.0,Iceland,IS,Member State,0,0,0,0,0,0
-2024,Member State,0.0,9850000.0,United States of America,US,Member State,0,0,0,0,0,0
+2024,Member State,9850000.0,0.0,United States of America,US,Member State,0,0,0,0,0,0
 2024,Member State,108410.0,0.0,Croatia,HR,Member State,0,0,0,0,0,0
 2024,Member State,50000.0,0.0,Turkmenistan,TM,Member State,0,0,0,0,0,0
 2024,Member State,5464000.0,0.0,Luxembourg,LU,Member State,0,0,0,0,0,0
@@ -1446,6 +1446,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2024,Member State,59273500.0,0.0,Netherlands,NL,Member State,0,0,0,0,0,0
 2024,Regional/ Local Authorities,266180.27,0.0,Basque Agency for Development Cooperation,XBADC,Regional/ Local Authorities,0,0,0,0,0,0
 2024,Member State,0.0,8000.0,Cyprus,CY,Member State,0,0,0,0,0,0
+2024,Member State,328587.08,0.0,Liechtenstein,LI,Member State,0,0,0,0,0,0
 2024,Member State,0.0,4828326.1802,Spain,ES,Member State,0,0,0,0,0,0
 2024,Member State,12414233.57,0.0,Ireland,IE,Member State,0,0,0,0,0,0
 2024,Member State,18320900.0,0.0,Belgium,BE,Member State,0,0,0,0,0,0
