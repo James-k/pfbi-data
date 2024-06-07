@@ -8943,13 +8943,15 @@ Mali,2024,Rapid Response,5013,24-RR-HCR-011,Multi-sector refugee assistance,Mult
 Mali,2024,Rapid Response,5014,24-RR-CEF-026,Nutrition,Nutrition,100.0,2500000.0,CERF
 Mali,2024,Rapid Response,5015,24-RR-WFP-022,Food Assistance,Food Assistance,85.0,3995000.0,CERF
 Mali,2024,Rapid Response,5015,24-RR-WFP-022,Nutrition,Nutrition,15.0,705000.0,CERF
-Syrian Arab Republic,2024,Underfunded Emergencies,5067,24-UF-SYR-64075(TBD),To be determined,To be determined,100.0,20000000.0,CERF
-Bangladesh,2024,Rapid Response,5068,24-RR-BGD-63521(TBD),To be determined,To be determined,100.0,7430821.0,CERF
+Chad,2024,Underfunded Emergencies,5016,24-UF-WHO-015,Health,Health,100.0,1999236.0,CERF
+Niger,2024,Underfunded Emergencies,5021,24-UF-FAO-016,Agriculture,Agriculture,0.0,0.0,CERF
+Niger,2024,Underfunded Emergencies,5042,24-UF-WOM-001,Agriculture,Agriculture,0.0,0.0,CERF
+Syrian Arab Republic,2024,Underfunded Emergencies,5068,24-UF-SYR-64075(TBD),To be determined,To be determined,100.0,20000000.0,CERF
 Republic of the Sudan,2024,Underfunded Emergencies,5069,24-UF-SDN-64063(TBD),To be determined,To be determined,0,0.0,CERF
 Democratic Republic of the Congo,2024,Underfunded Emergencies,5070,24-UF-COD-64076(TBD),To be determined,To be determined,100.0,5541038.0,CERF
 Lebanon,2024,Underfunded Emergencies,5071,24-UF-LBN-64069(TBD),To be determined,To be determined,100.0,9000000.0,CERF
-Chad,2024,Underfunded Emergencies,5072,24-UF-TCD-64070(TBD),To be determined,To be determined,100.0,15000000.0,CERF
-Niger,2024,Underfunded Emergencies,5073,24-UF-NER-64077(TBD),To be determined,To be determined,100.0,10000000.0,CERF
+Chad,2024,Underfunded Emergencies,5072,24-UF-TCD-64070(TBD),To be determined,To be determined,100.0,13000764.0,CERF
+Niger,2024,Underfunded Emergencies,5073,24-UF-NER-64077(TBD),To be determined,To be determined,100.0,8600000.0,CERF
 Comoros,2024,Rapid Response,5074,24-RR-COM-64823(TBD),To be determined,To be determined,100.0,1000000.0,CERF
 Kenya,2024,Rapid Response,5075,24-RR-KEN-64873(TBD),To be determined,To be determined,100.0,3000000.0,CERF
 Angola,2024,Rapid Response,5076,24-RR-AGO-64769(TBD),To be determined,To be determined,100.0,3000000.0,CERF
@@ -21688,8 +21690,17 @@ Sudan,2023,Reserve,27263,CBPF-SUD-23-R-UN-27263,Water Sanitation Hygiene,,100.0,
 Sudan,2024,Reserve,27589,CBPF-SUD-24-R-INGO-27589,Food Security,,100.0,642000.01,CBPF
 Sudan,2024,Reserve,27592,CBPF-SUD-24-R-INGO-27592,Food Security,,70.0,524298.075,CBPF
 Sudan,2024,Reserve,27592,CBPF-SUD-24-R-INGO-27592,Nutrition,,30.0,224699.175,CBPF
+Sudan,2024,Reserve,27594,CBPF-SUD-24-R-INGO-27594,Food Security,,58.0,1241200.0,CBPF
+Sudan,2024,Reserve,27594,CBPF-SUD-24-R-INGO-27594,Health,,24.0,513600.0,CBPF
+Sudan,2024,Reserve,27594,CBPF-SUD-24-R-INGO-27594,Nutrition,,18.0,385200.0,CBPF
+Sudan,2024,Reserve,27597,CBPF-SUD-24-R-INGO-27597,Food Security,,45.0,710058.744,CBPF
+Sudan,2024,Reserve,27597,CBPF-SUD-24-R-INGO-27597,Nutrition,,45.0,710058.744,CBPF
+Sudan,2024,Reserve,27597,CBPF-SUD-24-R-INGO-27597,Water Sanitation Hygiene,,10.0,157790.832,CBPF
 Sudan,2024,Reserve,27598,CBPF-SUD-24-R-INGO-27598,Food Security,,80.0,809190.496,CBPF
 Sudan,2024,Reserve,27598,CBPF-SUD-24-R-INGO-27598,Water Sanitation Hygiene,,20.0,202297.624,CBPF
+Sudan,2024,Reserve,27599,CBPF-SUD-24-R-INGO-27599,Food Security,,36.0,616320.0,CBPF
+Sudan,2024,Reserve,27599,CBPF-SUD-24-R-INGO-27599,Health,,17.0,291040.0,CBPF
+Sudan,2024,Reserve,27599,CBPF-SUD-24-R-INGO-27599,Nutrition,,47.0,804640.0,CBPF
 Sudan,2024,Reserve,27600,CBPF-SUD-24-R-INGO-27600,Food Security,,63.0,1008028.917,CBPF
 Sudan,2024,Reserve,27600,CBPF-SUD-24-R-INGO-27600,Nutrition,,30.0,480013.77,CBPF
 Sudan,2024,Reserve,27600,CBPF-SUD-24-R-INGO-27600,Water Sanitation Hygiene,,7.0,112003.213,CBPF
@@ -21697,6 +21708,9 @@ Sudan,2024,Reserve,27601,CBPF-SUD-24-R-INGO-27601,Food Security,,42.0,348285.0,C
 Sudan,2024,Reserve,27601,CBPF-SUD-24-R-INGO-27601,Nutrition,,42.0,348285.0,CBPF
 Sudan,2024,Reserve,27601,CBPF-SUD-24-R-INGO-27601,Water Sanitation Hygiene,,16.0,132680.0,CBPF
 Sudan,2024,Reserve,27602,CBPF-SUD-24-R-INGO-27602,Food Security,,100.0,1605000.0,CBPF
+Sudan,2024,Reserve,27603,CBPF-SUD-24-R-INGO-27603,Food Security,,66.0,942289.92,CBPF
+Sudan,2024,Reserve,27603,CBPF-SUD-24-R-INGO-27603,Nutrition,,13.0,185602.56,CBPF
+Sudan,2024,Reserve,27603,CBPF-SUD-24-R-INGO-27603,Water Sanitation Hygiene,,21.0,299819.52,CBPF
 Sudan,2024,Reserve,27605,CBPF-SUD-24-R-INGO-27605,Food Security,,100.0,799134.85,CBPF
 Sudan,2024,Reserve,27607,CBPF-SUD-24-R-INGO-27607,Food Security,,35.0,885959.179,CBPF
 Sudan,2024,Reserve,27607,CBPF-SUD-24-R-INGO-27607,Health,,25.0,632827.985,CBPF
@@ -21705,6 +21719,9 @@ Sudan,2024,Reserve,27607,CBPF-SUD-24-R-INGO-27607,Water Sanitation Hygiene,,15.0
 Sudan,2024,Reserve,27608,CBPF-SUD-24-R-INGO-27608,Food Security,,65.0,1616022.0115,CBPF
 Sudan,2024,Reserve,27608,CBPF-SUD-24-R-INGO-27608,Nutrition,,24.0,596685.0504,CBPF
 Sudan,2024,Reserve,27608,CBPF-SUD-24-R-INGO-27608,Water Sanitation Hygiene,,11.0,273480.6481,CBPF
+Sudan,2024,Reserve,27611,CBPF-SUD-24-R-INGO-27611,Food Security,,58.0,1179140.0,CBPF
+Sudan,2024,Reserve,27611,CBPF-SUD-24-R-INGO-27611,Health,,24.0,487920.0,CBPF
+Sudan,2024,Reserve,27611,CBPF-SUD-24-R-INGO-27611,Nutrition,,18.0,365940.0,CBPF
 Sudan,2024,Reserve,27615,CBPF-SUD-24-R-INGO-27615,Food Security,,80.0,861112.416,CBPF
 Sudan,2024,Reserve,27615,CBPF-SUD-24-R-INGO-27615,Protection,,20.0,215278.104,CBPF
 Sudan,2024,Reserve,27618,CBPF-SUD-24-R-INGO-27618,Emergency Shelter and NFI,,10.0,321000.0,CBPF
@@ -21715,6 +21732,7 @@ Sudan,2024,Reserve,27618,CBPF-SUD-24-R-INGO-27618,Water Sanitation Hygiene,,15.0
 Sudan,2024,Reserve,27619,CBPF-SUD-24-R-INGO-27619,Food Security,,40.0,1653370.912,CBPF
 Sudan,2024,Reserve,27619,CBPF-SUD-24-R-INGO-27619,Health,,25.0,1033356.82,CBPF
 Sudan,2024,Reserve,27619,CBPF-SUD-24-R-INGO-27619,Nutrition,,35.0,1446699.548,CBPF
+Sudan,2024,Reserve,27622,CBPF-SUD-24-R-INGO-27622,Protection,,100.0,1070000.0,CBPF
 Sudan,2020,Reserve,17951,SUD-20/HSD20/ RA5/FSL/INGO/17951,Food Security,,100.0,1455500.8,CBPF
 Sudan,2020,Reserve,17948,SUD-20/HSD20/ RA5/H-N/INGO/17948,Health,,50.0,250000.15,CBPF
 Sudan,2020,Reserve,17948,SUD-20/HSD20/ RA5/H-N/INGO/17948,Nutrition,,50.0,250000.15,CBPF
