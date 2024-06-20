@@ -8877,7 +8877,7 @@ Republic of the Sudan,2024,Underfunded Emergencies,4968,24-UF-FPA-004,Health,Hea
 Republic of the Sudan,2024,Underfunded Emergencies,4969,24-UF-CEF-016,Health,Health,28.999999999999996,1015000.0
 Republic of the Sudan,2024,Underfunded Emergencies,4969,24-UF-CEF-016,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",71.0,2485000.0
 Republic of the Sudan,2024,Underfunded Emergencies,4970,24-UF-WHO-009,Health,Health,100.0,1000000.0
-Republic of the Sudan,2024,Underfunded Emergencies,4971,24-UF-FAO-009,Agriculture,Agriculture,100.0,5000000.0
+Republic of the Sudan,2024,Underfunded Emergencies,4971,24-UF-FAO-009,Agriculture,Agriculture,50.0,5000000.0
 Republic of the Sudan,2024,Underfunded Emergencies,4972,24-UF-HCR-005,Protection,Protection,91.0,3185000.0
 Republic of the Sudan,2024,Underfunded Emergencies,4972,24-UF-HCR-005,Camp Coordination and Camp Management,Camp Coordination and Camp Management,9.0,315000.0
 Mozambique,2024,Rapid Response,4973,24-RR-CEF-017,Protection,Protection,24.0,489600.0
@@ -8943,9 +8943,10 @@ Mali,2024,Rapid Response,5013,24-RR-HCR-011,Multi-sector refugee assistance,Mult
 Mali,2024,Rapid Response,5014,24-RR-CEF-026,Nutrition,Nutrition,100.0,2500000.0
 Mali,2024,Rapid Response,5015,24-RR-WFP-022,Food Assistance,Food Assistance,85.0,3995000.0
 Mali,2024,Rapid Response,5015,24-RR-WFP-022,Nutrition,Nutrition,15.0,705000.0
+Zimbabwe,2024,Rapid Response,5055,24-RR-WFP-033,Food Assistance,Food Assistance,0.0,0.0
 Syrian Arab Republic,2024,Underfunded Emergencies,5071,24-UF-SYR-64075(TBD),To be determined,To be determined,100.0,20000000.0
 Bangladesh,2024,Rapid Response,5072,24-RR-BGD-63521(TBD),To be determined,To be determined,100.0,7430821.0
-Republic of the Sudan,2024,Underfunded Emergencies,5073,24-UF-SDN-64063(TBD),To be determined,To be determined,0,0.0
+Republic of the Sudan,2024,Underfunded Emergencies,5073,24-UF-SDN-64063(TBD),To be determined,To be determined,100.0,-5000000.0
 Honduras,2024,Underfunded Emergencies,5074,24-UF-HND-64078(TBD),To be determined,To be determined,100.0,7330.0
 Democratic Republic of the Congo,2024,Underfunded Emergencies,5075,24-UF-COD-64076(TBD),To be determined,To be determined,100.0,5541038.0
 Lebanon,2024,Underfunded Emergencies,5076,24-UF-LBN-64069(TBD),To be determined,To be determined,100.0,9000000.0
@@ -8955,6 +8956,6 @@ Comoros,2024,Rapid Response,5079,24-RR-COM-64823(TBD),To be determined,To be det
 Kenya,2024,Rapid Response,5080,24-RR-KEN-64873(TBD),To be determined,To be determined,100.0,3000000.0
 Angola,2024,Rapid Response,5081,24-RR-AGO-64769(TBD),To be determined,To be determined,100.0,3000000.0
 Malawi,2024,Rapid Response,5082,24-RR-MWI-64768(TBD),To be determined,To be determined,100.0,2000000.0
-Zimbabwe,2024,Rapid Response,5083,24-RR-ZWE-64774(TBD),To be determined,To be determined,100.0,3000000.0
-Burkina Faso,2024,Rapid Response,5084,24-RR-BFA-65175(TBD),To be determined,To be determined,100.0,1349996.0
-Burundi,2024,Rapid Response,5085,24-RR-BDI-65155(TBD),To be determined,To be determined,100.0,2299229.0
+Zimbabwe,2024,Rapid Response,5083,24-RR-ZWE-64774(TBD),To be determined,To be determined,100.0,1000031.0
+Burkina Faso,2024,Rapid Response,5084,24-RR-BFA-65175(TBD),To be determined,To be determined,100.0,599996.0
+Burundi,2024,Rapid Response,5085,24-RR-BDI-65155(TBD),To be determined,To be determined,100.0,1499229.0
