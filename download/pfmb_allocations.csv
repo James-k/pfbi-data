@@ -8763,8 +8763,10 @@ Venezuela,2023,Underfunded Emergencies,4869,23-UF-FAO-041,Agriculture,Agricultur
 Venezuela,2023,Underfunded Emergencies,4870,23-UF-IOM-049,Protection,Protection,69.99996666662963,629999.0,CERF
 Venezuela,2023,Underfunded Emergencies,4870,23-UF-IOM-049,Shelter and Non-Food Items,Shelter and Non-Food Items,15.000016666685184,135000.0,CERF
 Venezuela,2023,Underfunded Emergencies,4870,23-UF-IOM-049,Health,Health,15.000016666685184,135000.0,CERF
-Venezuela,2023,Underfunded Emergencies,4871,23-UF-HCR-046,Protection,Protection,30.0,315000.0,CERF
+Venezuela,2023,Underfunded Emergencies,4871,23-UF-HCR-046,Protection,Protection,10.0,105000.0,CERF
 Venezuela,2023,Underfunded Emergencies,4871,23-UF-HCR-046,Shelter and Non-Food Items,Shelter and Non-Food Items,70.0,735000.0,CERF
+Venezuela,2023,Underfunded Emergencies,4871,23-UF-HCR-046,Protection,Protection,10.0,105000.0,CERF
+Venezuela,2023,Underfunded Emergencies,4871,23-UF-HCR-046,Protection,Protection,10.0,105000.0,CERF
 Venezuela,2023,Underfunded Emergencies,4872,23-UF-CEF-073,Health,Health,46.0,460000.0,CERF
 Venezuela,2023,Underfunded Emergencies,4872,23-UF-CEF-073,Nutrition,Nutrition,27.0,270000.0,CERF
 Venezuela,2023,Underfunded Emergencies,4872,23-UF-CEF-073,Protection,Protection,27.0,270000.0,CERF
@@ -8843,6 +8845,14 @@ Republic of Congo,2024,Rapid Response,4925,24-RR-CEF-005,Protection,Protection,1
 Republic of Congo,2024,Rapid Response,4925,24-RR-CEF-005,Education,Education,14.00007451116378,146556.0,CERF
 Republic of Congo,2024,Rapid Response,4926,24-RR-FPA-001,Health,Health,55.00000000000001,247500.0,CERF
 Republic of Congo,2024,Rapid Response,4926,24-RR-FPA-001,Protection,Protection,45.0,202500.0,CERF
+Bangladesh,2024,Rapid Response,4927,24-RR-FAO-002,Agriculture,Agriculture,100.0,783743.0,CERF
+Bangladesh,2024,Rapid Response,4928,24-RR-FPA-002,Protection,Protection,47.00009263977025,202937.0,CERF
+Bangladesh,2024,Rapid Response,4928,24-RR-FPA-002,Health,Health,52.99990736022975,228843.0,CERF
+Bangladesh,2024,Rapid Response,4929,24-RR-WFP-004,Multi-Purpose Cash,Multi-Purpose Cash,100.0,3900000.0,CERF
+Bangladesh,2024,Rapid Response,4930,24-RR-CEF-006,Education,Education,3.0,68994.0,CERF
+Bangladesh,2024,Rapid Response,4930,24-RR-CEF-006,Common Services,Common Services,11.0,252978.0,CERF
+Bangladesh,2024,Rapid Response,4930,24-RR-CEF-006,Multi-Purpose Cash,Multi-Purpose Cash,10.0,229980.0,CERF
+Bangladesh,2024,Rapid Response,4930,24-RR-CEF-006,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",76.0,1747848.0,CERF
 Zambia,2024,Rapid Response,4931,24-RR-CEF-007,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",46.99998483538813,929796.0,CERF
 Zambia,2024,Rapid Response,4931,24-RR-CEF-007,Health,Health,30.0,593487.0,CERF
 Zambia,2024,Rapid Response,4931,24-RR-CEF-007,Protection,Protection,12.000010109741241,237395.0,CERF
@@ -8877,7 +8887,7 @@ Republic of the Sudan,2024,Underfunded Emergencies,4968,24-UF-FPA-004,Health,Hea
 Republic of the Sudan,2024,Underfunded Emergencies,4969,24-UF-CEF-016,Health,Health,28.999999999999996,1015000.0,CERF
 Republic of the Sudan,2024,Underfunded Emergencies,4969,24-UF-CEF-016,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",71.0,2485000.0,CERF
 Republic of the Sudan,2024,Underfunded Emergencies,4970,24-UF-WHO-009,Health,Health,100.0,1000000.0,CERF
-Republic of the Sudan,2024,Underfunded Emergencies,4971,24-UF-FAO-009,Agriculture,Agriculture,100.0,5000000.0,CERF
+Republic of the Sudan,2024,Underfunded Emergencies,4971,24-UF-FAO-009,Agriculture,Agriculture,100.0,10000000.0,CERF
 Republic of the Sudan,2024,Underfunded Emergencies,4972,24-UF-HCR-005,Protection,Protection,91.0,3185000.0,CERF
 Republic of the Sudan,2024,Underfunded Emergencies,4972,24-UF-HCR-005,Camp Coordination and Camp Management,Camp Coordination and Camp Management,9.0,315000.0,CERF
 Mozambique,2024,Rapid Response,4973,24-RR-CEF-017,Protection,Protection,24.0,489600.0,CERF
@@ -8930,9 +8940,25 @@ Democratic Republic of the Congo,2024,Underfunded Emergencies,4998,24-UF-IOM-007
 Democratic Republic of the Congo,2024,Underfunded Emergencies,4999,24-UF-FPA-008,Protection,Protection,100.0,1500001.0,CERF
 Democratic Republic of the Congo,2024,Underfunded Emergencies,5000,24-UF-CEF-023,Protection,Protection,47.99999550818185,2137219.0,CERF
 Democratic Republic of the Congo,2024,Underfunded Emergencies,5000,24-UF-CEF-023,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",52.00000449181815,2315321.0,CERF
+Democratic Republic of the Congo,2024,Underfunded Emergencies,5001,24-UF-HCR-008,Shelter and Non-Food Items,Shelter and Non-Food Items,52.0,2860000.0,CERF
+Democratic Republic of the Congo,2024,Underfunded Emergencies,5001,24-UF-HCR-008,Protection,Protection,25.0,1375000.0,CERF
+Democratic Republic of the Congo,2024,Underfunded Emergencies,5001,24-UF-HCR-008,Camp Coordination and Camp Management,Camp Coordination and Camp Management,23.0,1265000.0,CERF
 Democratic Republic of the Congo,2024,Underfunded Emergencies,5002,24-UF-WFP-019,Food Assistance,Food Assistance,50.0,2000000.0,CERF
 Democratic Republic of the Congo,2024,Underfunded Emergencies,5002,24-UF-WFP-019,Common Services,Common Services,31.0,1240000.0,CERF
 Democratic Republic of the Congo,2024,Underfunded Emergencies,5002,24-UF-WFP-019,Common Services,Common Services,19.0,760000.0,CERF
+Lebanon,2024,Underfunded Emergencies,5003,24-UF-IOM-008,Health,Health,23.0,161000.0,CERF
+Lebanon,2024,Underfunded Emergencies,5003,24-UF-IOM-008,Protection,Protection,45.0,315000.0,CERF
+Lebanon,2024,Underfunded Emergencies,5003,24-UF-IOM-008,Protection,Protection,13.0,91000.0,CERF
+Lebanon,2024,Underfunded Emergencies,5003,24-UF-IOM-008,Common Services,Common Services,19.0,133000.0,CERF
+Lebanon,2024,Underfunded Emergencies,5004,24-UF-HCR-009,Protection,Protection,23.00003499998409,506001.0,CERF
+Lebanon,2024,Underfunded Emergencies,5004,24-UF-HCR-009,Multi-Purpose Cash,Multi-Purpose Cash,22.9999895454593,506000.0,CERF
+Lebanon,2024,Underfunded Emergencies,5004,24-UF-HCR-009,Shelter and Non-Food Items,Shelter and Non-Food Items,18.99999136364029,418000.0,CERF
+Lebanon,2024,Underfunded Emergencies,5004,24-UF-HCR-009,Health,Health,34.99998409091632,770000.0,CERF
+Lebanon,2024,Underfunded Emergencies,5005,24-UF-CEF-024,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",55.00000000000001,1210000.0,CERF
+Lebanon,2024,Underfunded Emergencies,5005,24-UF-CEF-024,Nutrition,Nutrition,23.0,506000.0,CERF
+Lebanon,2024,Underfunded Emergencies,5005,24-UF-CEF-024,Protection,Protection,22.0,484000.0,CERF
+Lebanon,2024,Underfunded Emergencies,5006,24-UF-WFP-020,Food Assistance,Food Assistance,100.0,2600000.0,CERF
+Lebanon,2024,Underfunded Emergencies,5007,24-UF-WHO-014,Health,Health,100.0,1300000.0,CERF
 Zambia,2024,Rapid Response,5008,24-RR-FAO-013,Agriculture,Agriculture,100.0,855000.0,CERF
 Zambia,2024,Rapid Response,5009,24-RR-HCR-010,Protection,Protection,100.0,445000.0,CERF
 Zambia,2024,Rapid Response,5010,24-RR-CEF-025,Nutrition,Nutrition,53.00002611109661,954001.0,CERF
@@ -8943,21 +8969,60 @@ Mali,2024,Rapid Response,5013,24-RR-HCR-011,Multi-sector refugee assistance,Mult
 Mali,2024,Rapid Response,5014,24-RR-CEF-026,Nutrition,Nutrition,100.0,2500000.0,CERF
 Mali,2024,Rapid Response,5015,24-RR-WFP-022,Food Assistance,Food Assistance,85.0,3995000.0,CERF
 Mali,2024,Rapid Response,5015,24-RR-WFP-022,Nutrition,Nutrition,15.0,705000.0,CERF
-Syrian Arab Republic,2024,Underfunded Emergencies,5071,24-UF-SYR-64075(TBD),To be determined,To be determined,100.0,20000000.0,CERF
-Bangladesh,2024,Rapid Response,5072,24-RR-BGD-63521(TBD),To be determined,To be determined,100.0,7430821.0,CERF
-Republic of the Sudan,2024,Underfunded Emergencies,5073,24-UF-SDN-64063(TBD),To be determined,To be determined,0,0.0,CERF
-Honduras,2024,Underfunded Emergencies,5074,24-UF-HND-64078(TBD),To be determined,To be determined,100.0,7330.0,CERF
-Democratic Republic of the Congo,2024,Underfunded Emergencies,5075,24-UF-COD-64076(TBD),To be determined,To be determined,100.0,5541038.0,CERF
-Lebanon,2024,Underfunded Emergencies,5076,24-UF-LBN-64069(TBD),To be determined,To be determined,100.0,9000000.0,CERF
-Chad,2024,Underfunded Emergencies,5077,24-UF-TCD-64070(TBD),To be determined,To be determined,100.0,15000000.0,CERF
-Niger,2024,Underfunded Emergencies,5078,24-UF-NER-64077(TBD),To be determined,To be determined,100.0,10000000.0,CERF
-Comoros,2024,Rapid Response,5079,24-RR-COM-64823(TBD),To be determined,To be determined,100.0,1000000.0,CERF
-Kenya,2024,Rapid Response,5080,24-RR-KEN-64873(TBD),To be determined,To be determined,100.0,3000000.0,CERF
-Angola,2024,Rapid Response,5081,24-RR-AGO-64769(TBD),To be determined,To be determined,100.0,3000000.0,CERF
-Malawi,2024,Rapid Response,5082,24-RR-MWI-64768(TBD),To be determined,To be determined,100.0,2000000.0,CERF
-Zimbabwe,2024,Rapid Response,5083,24-RR-ZWE-64774(TBD),To be determined,To be determined,100.0,3000000.0,CERF
-Burkina Faso,2024,Rapid Response,5084,24-RR-BFA-65175(TBD),To be determined,To be determined,100.0,599996.0,CERF
-Burundi,2024,Rapid Response,5085,24-RR-BDI-65155(TBD),To be determined,To be determined,100.0,849229.0,CERF
+Chad,2024,Underfunded Emergencies,5016,24-UF-WHO-015,Health,Health,100.0,1999236.0,CERF
+Chad,2024,Underfunded Emergencies,5017,24-UF-WFP-023,Common Services,Common Services,100.0,1000000.0,CERF
+Chad,2024,Underfunded Emergencies,5018,24-UF-CEF-027,Nutrition,Nutrition,40.0,2000000.0,CERF
+Chad,2024,Underfunded Emergencies,5018,24-UF-CEF-027,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",60.0,3000000.0,CERF
+Chad,2024,Underfunded Emergencies,5020,24-UF-FAO-015,Agriculture,Agriculture,100.0,2000000.0,CERF
+Niger,2024,Underfunded Emergencies,5021,24-UF-FAO-016,Agriculture,Agriculture,100.0,1100000.0,CERF
+Niger,2024,Underfunded Emergencies,5022,24-UF-IOM-009,Shelter and Non-Food Items,Shelter and Non-Food Items,85.0,1700000.0,CERF
+Niger,2024,Underfunded Emergencies,5022,24-UF-IOM-009,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",15.0,300000.0,CERF
+Niger,2024,Underfunded Emergencies,5023,24-UF-FPA-009,Protection,Protection,100.0,600000.0,CERF
+Niger,2024,Underfunded Emergencies,5024,24-UF-CEF-028,Nutrition,Nutrition,55.00000000000001,742500.0,CERF
+Niger,2024,Underfunded Emergencies,5024,24-UF-CEF-028,Protection,Protection,45.0,607500.0,CERF
+Comoros,2024,Rapid Response,5025,24-RR-WHO-016,Health,Health,100.0,500000.0,CERF
+Comoros,2024,Rapid Response,5026,24-RR-CEF-029,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",88.0,439956.0,CERF
+Comoros,2024,Rapid Response,5026,24-RR-CEF-029,Health,Health,12.0,59994.0,CERF
+Kenya,2024,Rapid Response,5027,24-RR-IOM-010,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,650000.0,CERF
+Kenya,2024,Rapid Response,5028,24-RR-HCR-012,Shelter and Non-Food Items,Shelter and Non-Food Items,50.0,150000.0,CERF
+Kenya,2024,Rapid Response,5028,24-RR-HCR-012,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",50.0,150000.0,CERF
+Kenya,2024,Rapid Response,5029,24-RR-CEF-030,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",61.99999809527619,651013.0,CERF
+Kenya,2024,Rapid Response,5029,24-RR-CEF-030,Health,Health,38.00000190472381,399008.0,CERF
+Kenya,2024,Rapid Response,5030,24-RR-WFP-025,Food Assistance,Food Assistance,100.0,600000.0,CERF
+Kenya,2024,Rapid Response,5031,24-RR-WHO-017,Health,Health,100.0,400120.0,CERF
+Angola,2024,Rapid Response,5032,24-RR-CEF-031,Nutrition,Nutrition,63.000029677553385,849127.0,CERF
+Angola,2024,Rapid Response,5032,24-RR-CEF-031,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",36.999970322446615,498693.0,CERF
+Angola,2024,Rapid Response,5033,24-RR-WFP-026,Nutrition,Nutrition,45.0,742500.0,CERF
+Angola,2024,Rapid Response,5033,24-RR-WFP-026,Food Assistance,Food Assistance,55.00000000000001,907500.0,CERF
+Malawi,2024,Rapid Response,5036,24-RR-CEF-032,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",0.0,0.0,CERF
+Malawi,2024,Rapid Response,5036,24-RR-CEF-032,Nutrition,Nutrition,0.0,0.0,CERF
+Malawi,2024,Rapid Response,5036,24-RR-CEF-032,Protection,Protection,18.000051556689804,111722.0,CERF
+Malawi,2024,Rapid Response,5037,24-RR-FAO-017,Agriculture,Agriculture,100.0,625000.0,CERF
+Niger,2024,Underfunded Emergencies,5039,24-UF-WFP-028,Food Assistance,Food Assistance,29.000005488114184,1109671.0,CERF
+Niger,2024,Underfunded Emergencies,5039,24-UF-WFP-028,Nutrition,Nutrition,19.00000810150189,727026.0,CERF
+Niger,2024,Underfunded Emergencies,5039,24-UF-WFP-028,Common Services,Common Services,51.999986410383926,1989754.0,CERF
+Malawi,2024,Rapid Response,5040,24-RR-WFP-029,Food Assistance,Food Assistance,65.0,487500.0,CERF
+Malawi,2024,Rapid Response,5040,24-RR-WFP-029,Nutrition,Nutrition,35.0,262500.0,CERF
+Niger,2024,Underfunded Emergencies,5042,24-UF-WOM-001,Agriculture,Agriculture,100.0,300000.0,CERF
+Zimbabwe,2024,Rapid Response,5054,24-RR-CEF-036,Nutrition,Nutrition,100.0,1000758.0,CERF
+Zimbabwe,2024,Rapid Response,5055,24-RR-WFP-033,Common Services,Common Services,0.0,0.0,CERF
+Burkina Faso,2024,Rapid Response,5056,24-RR-HCR-014,Protection,Protection,100.0,750000.0,CERF
+Burkina Faso,2024,Rapid Response,5057,24-RR-CEF-037,Nutrition,Nutrition,50.0,375002.0,CERF
+Burkina Faso,2024,Rapid Response,5057,24-RR-CEF-037,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",50.0,375002.0,CERF
+Burundi,2024,Rapid Response,5059,24-RR-FPA-014,Protection,Protection,100.0,200771.0,CERF
+Burundi,2024,Rapid Response,5060,24-RR-IOM-011,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,800000.0,CERF
+Burundi,2024,Rapid Response,5061,24-RR-WFP-034,Food Assistance,Food Assistance,100.0,650000.0,CERF
+Burkina Faso,2024,Rapid Response,5062,24-RR-WFP-035,Food Assistance,Food Assistance,26.0,754000.0,CERF
+Burkina Faso,2024,Rapid Response,5062,24-RR-WFP-035,Nutrition,Nutrition,9.0,261000.0,CERF
+Burkina Faso,2024,Rapid Response,5062,24-RR-WFP-035,Common Services,Common Services,65.0,1885000.0,CERF
+Syrian Arab Republic,2024,Underfunded Emergencies,32771,24-UF-SYR-64075(TBD),To be determined,To be determined,100.0,20000000.0,CERF
+Republic of the Sudan,2024,Underfunded Emergencies,32772,24-UF-SDN-64063(TBD),To be determined,To be determined,100.0,-5000000.0,CERF
+Honduras,2024,Underfunded Emergencies,32773,24-UF-HND-64078(TBD),To be determined,To be determined,100.0,7330.0,CERF
+Democratic Republic of the Congo,2024,Underfunded Emergencies,32774,24-UF-COD-64076(TBD),To be determined,To be determined,100.0,41038.0,CERF
+Chad,2024,Underfunded Emergencies,32775,24-UF-TCD-64070(TBD),To be determined,To be determined,100.0,5000764.0,CERF
+Niger,2024,Underfunded Emergencies,32776,24-UF-NER-64077(TBD),To be determined,To be determined,100.0,823549.0,CERF
+Burkina Faso,2024,Rapid Response,32777,24-RR-BFA-65175(TBD),To be determined,To be determined,100.0,599996.0,CERF
+Burundi,2024,Rapid Response,32778,24-RR-BDI-65155(TBD),To be determined,To be determined,100.0,849229.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
