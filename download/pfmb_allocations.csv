@@ -9005,6 +9005,10 @@ Niger,2024,Underfunded Emergencies,5039,24-UF-WFP-028,Common Services,Common Ser
 Malawi,2024,Rapid Response,5040,24-RR-WFP-029,Food Assistance,Food Assistance,65.0,487500.0,CERF
 Malawi,2024,Rapid Response,5040,24-RR-WFP-029,Nutrition,Nutrition,35.0,262500.0,CERF
 Niger,2024,Underfunded Emergencies,5042,24-UF-WOM-001,Agriculture,Agriculture,100.0,300000.0,CERF
+Bangladesh,2024,Rapid Response,5046,24-RR-CEF-034,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,385349.0,CERF
+Bangladesh,2024,Rapid Response,5047,24-RR-FAO-019,Agriculture,Agriculture,100.0,586542.0,CERF
+Bangladesh,2024,Rapid Response,5048,24-RR-FPA-012,Protection,Protection,53.9999567689082,499640.0,CERF
+Bangladesh,2024,Rapid Response,5048,24-RR-FPA-012,Health,Health,46.0000432310918,425620.0,CERF
 Zimbabwe,2024,Rapid Response,5054,24-RR-CEF-036,Nutrition,Nutrition,100.0,1000758.0,CERF
 Zimbabwe,2024,Rapid Response,5055,24-RR-WFP-033,Common Services,Common Services,0.0,0.0,CERF
 Burkina Faso,2024,Rapid Response,5056,24-RR-HCR-014,Protection,Protection,100.0,750000.0,CERF
@@ -9026,7 +9030,7 @@ Honduras,2024,Underfunded Emergencies,32940,24-UF-HND-64078(TBD),To be determine
 Democratic Republic of the Congo,2024,Underfunded Emergencies,32941,24-UF-COD-64076(TBD),To be determined,To be determined,100.0,791038.0,CERF
 Chad,2024,Underfunded Emergencies,32942,24-UF-TCD-64070(TBD),To be determined,To be determined,100.0,764.0,CERF
 Niger,2024,Underfunded Emergencies,32943,24-UF-NER-64077(TBD),To be determined,To be determined,100.0,823549.0,CERF
-Bangladesh,2024,Rapid Response,32944,24-RR-BGD-65078(TBD),To be determined,To be determined,100.0,6200000.0,CERF
+Bangladesh,2024,Rapid Response,32944,24-RR-BGD-65078(TBD),To be determined,To be determined,100.0,4302849.0,CERF
 Nigeria,2024,Rapid Response,32945,CERF-NGA-24-RR-1387(TBD),To be determined,To be determined,100.0,11000000.0,CERF
 Eritrea,2024,Rapid Response,32946,CERF-ERI-24-RR-1389(TBD),To be determined,To be determined,100.0,5000000.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
@@ -18011,10 +18015,12 @@ Somalia,2024,Reserve,27582,CBPF-SOM-24-R-NGO-27582,Water Sanitation Hygiene,,100
 Somalia,2024,Reserve,27584,CBPF-SOM-24-R-NGO-27584,Health,,100.0,324237.52,CBPF
 Somalia,2024,Reserve,27586,CBPF-SOM-24-R-NGO-27586,Water Sanitation Hygiene,,100.0,399991.96,CBPF
 Somalia,2024,Reserve,27587,CBPF-SOM-24-R-NGO-27587,Multi-Purpose cash,,100.0,299877.32,CBPF
+Somalia,2024,Standard,28006,CBPF-SOM-24-S-NGO-28006,Water Sanitation Hygiene,,100.0,400000.0,CBPF
 Somalia,2024,Standard,28030,CBPF-SOM-24-S-NGO-28030,Protection,,50.0,150000.0,CBPF
 Somalia,2024,Standard,28030,CBPF-SOM-24-S-NGO-28030,Protection,,50.0,150000.0,CBPF
 Somalia,2024,Standard,28032,CBPF-SOM-24-S-NGO-28032,Protection,,50.0,224999.975,CBPF
 Somalia,2024,Standard,28032,CBPF-SOM-24-S-NGO-28032,Protection,,50.0,224999.975,CBPF
+Somalia,2024,Standard,28037,CBPF-SOM-24-S-NGO-28037,Water Sanitation Hygiene,,100.0,400000.0,CBPF
 Somalia,2024,Standard,28040,CBPF-SOM-24-S-NGO-28040,Health,,100.0,449999.2,CBPF
 Somalia,2024,Standard,28047,CBPF-SOM-24-S-NGO-28047,Multi-Purpose cash,,100.0,550000.0,CBPF
 Somalia,2024,Standard,28053,CBPF-SOM-24-S-NGO-28053,Health,,100.0,340000.0,CBPF
