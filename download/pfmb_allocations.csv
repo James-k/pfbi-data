@@ -8853,6 +8853,7 @@ Bangladesh,2024,Rapid Response,4930,24-RR-CEF-006,Education,Education,3.0,68994.
 Bangladesh,2024,Rapid Response,4930,24-RR-CEF-006,Common Services,Common Services,11.0,252978.0,CERF
 Bangladesh,2024,Rapid Response,4930,24-RR-CEF-006,Multi-Purpose Cash,Multi-Purpose Cash,10.0,229980.0,CERF
 Bangladesh,2024,Rapid Response,4930,24-RR-CEF-006,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",76.0,1747848.0,CERF
+Bangladesh,2024,Rapid Response,4930,24-RR-CEF-006,Health,Health,0.0,0.0,CERF
 Zambia,2024,Rapid Response,4931,24-RR-CEF-007,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",46.99998483538813,929796.0,CERF
 Zambia,2024,Rapid Response,4931,24-RR-CEF-007,Health,Health,30.0,593487.0,CERF
 Zambia,2024,Rapid Response,4931,24-RR-CEF-007,Protection,Protection,12.000010109741241,237395.0,CERF
@@ -16557,10 +16558,13 @@ Nigeria,2023,Standard,27194,CBPF-NGA-23-S-UN-27194,Nutrition,,100.0,600000.36,CB
 Nigeria,2023,Standard,27406,CBPF-NGA-23-S-UN-27406,Early Recovery,,50.0,248777.225,CBPF
 Nigeria,2023,Standard,27406,CBPF-NGA-23-S-UN-27406,Protection,,50.0,248777.225,CBPF
 Nigeria,2023,Standard,27613,CBPF-NGA-23-S-UN-27613,Coordination and Support Services,,100.0,200000.0,CBPF
+Nigeria,2024,Reserve,32707,CBPF-NGA-24-R-INGO-32707,Water Sanitation Hygiene,,100.0,500000.0,CBPF
 Nigeria,2024,Reserve,32716,CBPF-NGA-24-R-INGO-32716,Nutrition,,100.0,850000.0,CBPF
 Nigeria,2024,Reserve,32717,CBPF-NGA-24-R-INGO-32717,Health,,50.0,500000.0,CBPF
 Nigeria,2024,Reserve,32717,CBPF-NGA-24-R-INGO-32717,Water Sanitation Hygiene,,50.0,500000.0,CBPF
+Nigeria,2024,Reserve,32730,CBPF-NGA-24-R-INGO-32730,Nutrition,,100.0,1000000.0,CBPF
 Nigeria,2024,Reserve,32752,CBPF-NGA-24-R-INGO-32752,Nutrition,,100.0,400000.0,CBPF
+Nigeria,2024,Reserve,32766,CBPF-NGA-24-R-INGO-32766,Nutrition,,100.0,1000000.0,CBPF
 Nigeria,2024,Reserve,32706,CBPF-NGA-24-R-NGO-32706,Water Sanitation Hygiene,,100.0,399999.99,CBPF
 Nigeria,2024,Reserve,32711,CBPF-NGA-24-R-NGO-32711,Water Sanitation Hygiene,,100.0,299999.96,CBPF
 Nigeria,2024,Reserve,32712,CBPF-NGA-24-R-NGO-32712,Water Sanitation Hygiene,,100.0,400000.0,CBPF
@@ -18057,10 +18061,15 @@ Somalia,2024,Reserve,27582,CBPF-SOM-24-R-NGO-27582,Water Sanitation Hygiene,,100
 Somalia,2024,Reserve,27584,CBPF-SOM-24-R-NGO-27584,Health,,100.0,324237.52,CBPF
 Somalia,2024,Reserve,27586,CBPF-SOM-24-R-NGO-27586,Water Sanitation Hygiene,,100.0,399991.96,CBPF
 Somalia,2024,Reserve,27587,CBPF-SOM-24-R-NGO-27587,Multi-Purpose cash,,100.0,299877.32,CBPF
+Somalia,2024,Standard,28082,CBPF-SOM-24-S-INGO-28082,Water Sanitation Hygiene,,100.0,374992.77,CBPF
 Somalia,2024,Standard,28100,CBPF-SOM-24-S-INGO-28100,Health,,100.0,599904.31,CBPF
 Somalia,2024,Standard,28102,CBPF-SOM-24-S-INGO-28102,Multi-Purpose cash,,100.0,449170.97,CBPF
 Somalia,2024,Standard,28129,CBPF-SOM-24-S-INGO-28129,Health,,100.0,449999.63,CBPF
+Somalia,2024,Standard,28193,CBPF-SOM-24-S-INGO-28193,Water Sanitation Hygiene,,100.0,400000.0,CBPF
 Somalia,2024,Standard,28221,CBPF-SOM-24-S-INGO-28221,Water Sanitation Hygiene,,100.0,400074.31,CBPF
+Somalia,2024,Standard,28311,CBPF-SOM-24-S-INGO-28311,Water Sanitation Hygiene,,100.0,400000.0,CBPF
+Somalia,2024,Standard,28000,CBPF-SOM-24-S-NGO-28000,Protection,,50.0,125000.18,CBPF
+Somalia,2024,Standard,28000,CBPF-SOM-24-S-NGO-28000,Protection,,50.0,125000.18,CBPF
 Somalia,2024,Standard,28006,CBPF-SOM-24-S-NGO-28006,Water Sanitation Hygiene,,100.0,400000.0,CBPF
 Somalia,2024,Standard,28024,CBPF-SOM-24-S-NGO-28024,Water Sanitation Hygiene,,100.0,399999.98,CBPF
 Somalia,2024,Standard,28027,CBPF-SOM-24-S-NGO-28027,Water Sanitation Hygiene,,100.0,399999.87,CBPF
@@ -18072,33 +18081,45 @@ Somalia,2024,Standard,28032,CBPF-SOM-24-S-NGO-28032,Protection,,50.0,224999.975,
 Somalia,2024,Standard,28034,CBPF-SOM-24-S-NGO-28034,Water Sanitation Hygiene,,100.0,400000.0,CBPF
 Somalia,2024,Standard,28037,CBPF-SOM-24-S-NGO-28037,Water Sanitation Hygiene,,100.0,400000.0,CBPF
 Somalia,2024,Standard,28040,CBPF-SOM-24-S-NGO-28040,Health,,100.0,449999.2,CBPF
+Somalia,2024,Standard,28045,CBPF-SOM-24-S-NGO-28045,Nutrition,,100.0,500000.0,CBPF
 Somalia,2024,Standard,28047,CBPF-SOM-24-S-NGO-28047,Multi-Purpose cash,,100.0,550000.0,CBPF
 Somalia,2024,Standard,28052,CBPF-SOM-24-S-NGO-28052,Nutrition,,100.0,350000.0,CBPF
 Somalia,2024,Standard,28053,CBPF-SOM-24-S-NGO-28053,Health,,100.0,340000.0,CBPF
 Somalia,2024,Standard,28067,CBPF-SOM-24-S-NGO-28067,Water Sanitation Hygiene,,100.0,400000.25,CBPF
+Somalia,2024,Standard,28068,CBPF-SOM-24-S-NGO-28068,Multi-Purpose cash,,100.0,199999.91,CBPF
+Somalia,2024,Standard,28076,CBPF-SOM-24-S-NGO-28076,Nutrition,,100.0,341840.18,CBPF
 Somalia,2024,Standard,28079,CBPF-SOM-24-S-NGO-28079,Nutrition,,100.0,298124.26,CBPF
 Somalia,2024,Standard,28085,CBPF-SOM-24-S-NGO-28085,Health,,100.0,549998.83,CBPF
 Somalia,2024,Standard,28088,CBPF-SOM-24-S-NGO-28088,Water Sanitation Hygiene,,100.0,300000.0,CBPF
 Somalia,2024,Standard,28091,CBPF-SOM-24-S-NGO-28091,Water Sanitation Hygiene,,100.0,400000.0,CBPF
 Somalia,2024,Standard,28092,CBPF-SOM-24-S-NGO-28092,Multi-Purpose cash,,100.0,450000.0,CBPF
+Somalia,2024,Standard,28109,CBPF-SOM-24-S-NGO-28109,Nutrition,,100.0,349603.03,CBPF
 Somalia,2024,Standard,28119,CBPF-SOM-24-S-NGO-28119,Water Sanitation Hygiene,,100.0,400000.0,CBPF
 Somalia,2024,Standard,28122,CBPF-SOM-24-S-NGO-28122,Multi-Purpose cash,,100.0,350000.0,CBPF
 Somalia,2024,Standard,28133,CBPF-SOM-24-S-NGO-28133,Water Sanitation Hygiene,,100.0,399982.31,CBPF
 Somalia,2024,Standard,28134,CBPF-SOM-24-S-NGO-28134,Nutrition,,100.0,299950.32,CBPF
 Somalia,2024,Standard,28143,CBPF-SOM-24-S-NGO-28143,Multi-Purpose cash,,100.0,298379.12,CBPF
+Somalia,2024,Standard,28162,CBPF-SOM-24-S-NGO-28162,Nutrition,,100.0,399976.4,CBPF
 Somalia,2024,Standard,28164,CBPF-SOM-24-S-NGO-28164,Water Sanitation Hygiene,,100.0,400154.32,CBPF
 Somalia,2024,Standard,28165,CBPF-SOM-24-S-NGO-28165,Protection,,50.0,225000.0,CBPF
 Somalia,2024,Standard,28165,CBPF-SOM-24-S-NGO-28165,Protection,,50.0,225000.0,CBPF
 Somalia,2024,Standard,28178,CBPF-SOM-24-S-NGO-28178,Protection,,50.0,199999.995,CBPF
 Somalia,2024,Standard,28178,CBPF-SOM-24-S-NGO-28178,Protection,,50.0,199999.995,CBPF
+Somalia,2024,Standard,28185,CBPF-SOM-24-S-NGO-28185,Nutrition,,100.0,349999.14,CBPF
 Somalia,2024,Standard,28207,CBPF-SOM-24-S-NGO-28207,Protection,,50.0,124999.755,CBPF
 Somalia,2024,Standard,28207,CBPF-SOM-24-S-NGO-28207,Protection,,50.0,124999.755,CBPF
 Somalia,2024,Standard,28227,CBPF-SOM-24-S-NGO-28227,Water Sanitation Hygiene,,100.0,394039.95,CBPF
 Somalia,2024,Standard,28233,CBPF-SOM-24-S-NGO-28233,Nutrition,,100.0,299971.75,CBPF
 Somalia,2024,Standard,28236,CBPF-SOM-24-S-NGO-28236,Nutrition,,100.0,299996.01,CBPF
+Somalia,2024,Standard,28237,CBPF-SOM-24-S-NGO-28237,Multi-Purpose cash,,100.0,299999.75,CBPF
 Somalia,2024,Standard,28245,CBPF-SOM-24-S-NGO-28245,Health,,100.0,330019.31,CBPF
+Somalia,2024,Standard,28252,CBPF-SOM-24-S-NGO-28252,Health,,100.0,329999.58,CBPF
+Somalia,2024,Standard,28253,CBPF-SOM-24-S-NGO-28253,Protection,,50.0,200000.0,CBPF
+Somalia,2024,Standard,28253,CBPF-SOM-24-S-NGO-28253,Protection,,50.0,200000.0,CBPF
+Somalia,2024,Standard,28256,CBPF-SOM-24-S-NGO-28256,Nutrition,,100.0,299891.04,CBPF
 Somalia,2024,Standard,28271,CBPF-SOM-24-S-NGO-28271,Multi-Purpose cash,,100.0,350000.0,CBPF
 Somalia,2024,Standard,28276,CBPF-SOM-24-S-NGO-28276,Health,,100.0,400000.45,CBPF
+Somalia,2024,Standard,28278,CBPF-SOM-24-S-NGO-28278,Health,,100.0,450000.27,CBPF
 Somalia,2024,Standard,28324,CBPF-SOM-24-S-NGO-28324,Multi-Purpose cash,,100.0,450000.0,CBPF
 Somalia,2024,Standard,27992,CBPF-SOM-24-S-O-27992,Water Sanitation Hygiene,,100.0,399966.93,CBPF
 Somalia,2010,Reserve,36,SOM-10/DMA-0489/ER /H/NGO/36,Health,,100.0,118440.0,CBPF
