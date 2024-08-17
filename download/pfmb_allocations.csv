@@ -9029,6 +9029,8 @@ Burkina Faso,2024,Rapid Response,5062,24-RR-WFP-035,Nutrition,Nutrition,9.0,2610
 Burkina Faso,2024,Rapid Response,5062,24-RR-WFP-035,Common Services,Common Services,65.0,1885000.0,CERF
 Chad,2024,Underfunded Emergencies,5064,24-UF-CEF-039,Protection,Protection,100.0,400000.0,CERF
 Burkina Faso,2024,Rapid Response,5067,24-RR-WHO-018,Health,Health,100.0,600003.0,CERF
+Democratic Republic of the Congo,2024,Underfunded Emergencies,5068,24-UF-CEF-041,Protection,Protection,100.0,750000.0,CERF
+Niger,2024,Underfunded Emergencies,5069,24-UF-HCR-015,Protection,Protection,100.0,600000.0,CERF
 Honduras,2024,Underfunded Emergencies,5070,24-UF-CEF-042,Protection,Protection,100.0,400000.0,CERF
 Nigeria,2024,Rapid Response,32768,CERF-NGA-24-RR-WFP-32768,Food Aid,Food Aid,100.0,5500000.35,CERF
 Nigeria,2024,Rapid Response,32769,CERF-NGA-24-RR-FAO-32769,Agriculture,Agriculture,100.0,2000000.13,CERF
@@ -9051,10 +9053,9 @@ Grenada,2024,Rapid Response,33055,CERF-GRD-24-RR-CEF-33055,"Water, Sanitation an
 Grenada,2024,Rapid Response,33056,CERF-GRD-24-RR-WHO-33056,Health,Health,100.0,150000.09,CERF
 Grenada,2024,Rapid Response,33058,CERF-GRD-24-RR-FAO-33058,Agriculture,Agriculture,100.0,200000.0,CERF
 Republic of the Sudan,2024,Underfunded Emergencies,33356,24-UF-SDN-64063(TBD),To be determined,To be determined,100.0,-5000000.0,CERF
-Democratic Republic of the Congo,2024,Underfunded Emergencies,33357,24-UF-COD-64076(TBD),To be determined,To be determined,100.0,791038.0,CERF
-Niger,2024,Underfunded Emergencies,33358,24-UF-NER-64077(TBD),To be determined,To be determined,100.0,23540.0,CERF
-Libya,2024,Rapid Response,33359,CERF-LBY-24-RR-1390(TBD),To be determined,To be determined,100.0,5300000.0,CERF
-Grenada,2024,Rapid Response,33360,CERF-GRD-24-RR-1393(TBD),To be determined,To be determined,100.0,399999.73,CERF
+Libya,2024,Rapid Response,33357,CERF-LBY-24-RR-1390(TBD),To be determined,To be determined,100.0,5300000.0,CERF
+Grenada,2024,Rapid Response,33358,CERF-GRD-24-RR-1393(TBD),To be determined,To be determined,100.0,399999.73,CERF
+Democratic Republic of the Congo,2024,Rapid Response,33359,CERF-COD-24-RR-1394(TBD),To be determined,To be determined,100.0,10000000.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
@@ -25961,6 +25962,7 @@ Ukraine,2023,Standard,25054,CBPF-UKR-23-S-NGO-25054,Protection,,52.0,335261.602,
 Ukraine,2023,Standard,25054,CBPF-UKR-23-S-NGO-25054,"Water, Sanitation and Hygiene",,6.0,38684.031,CBPF
 Ukraine,2023,Standard,25065,CBPF-UKR-23-S-NGO-25065,Emergency Shelter and NFI,,33.0,328969.3572,CBPF
 Ukraine,2023,Standard,25065,CBPF-UKR-23-S-NGO-25065,Food Security,,67.0,667907.4828,CBPF
+Ukraine,2024,Reserve,32964,CBPF-UKR-24-R-INGO-32964,Emergency Shelter and NFI,,100.0,2491000.0,CBPF
 Ukraine,2024,Reserve,32969,CBPF-UKR-24-R-INGO-32969,Emergency Shelter and NFI,,100.0,1841787.7,CBPF
 Ukraine,2024,Reserve,33093,CBPF-UKR-24-R-INGO-33093,Emergency Shelter and NFI,,100.0,1479750.08,CBPF
 Ukraine,2024,Reserve,32955,CBPF-UKR-24-R-NGO-32955,Emergency Shelter and NFI,,100.0,1125019.51,CBPF
