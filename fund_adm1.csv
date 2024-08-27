@@ -536,7 +536,6 @@ PooledFundId,AllocationSourceId,AllocationYear,AdminLocation1,AdminLocation1Lati
 27,4,2022,Sud-Kivu,-2.500021,28.866667,0,1
 27,4,2022,Tanganyika,-6.255568,29.510771,0,1
 27,4,2023,Ituri,1.562489,30.248427,0,1
-27,3,,Nord-Kivu,-1.6882,29.2371,0,1
 27,3,2014,Equateur,0.047105,18.271124,0,1
 27,3,2014,Tshuapa,-0.216463,20.866667,0,1
 27,3,2016,Ituri,1.562489,30.248427,0,1
@@ -581,6 +580,7 @@ PooledFundId,AllocationSourceId,AllocationYear,AdminLocation1,AdminLocation1Lati
 27,3,2023,Tanganyika,-6.255568,29.510771,0,1
 27,3,2024,Equateur,0.047105,18.271124,0,1
 27,3,2024,Kinshasa,-4.339502,15.309483,0,1
+27,3,2024,Nord-Kivu,-1.6882,29.2371,0,1
 27,3,2024,Sud-Kivu,-2.500021,28.866667,0,1
 27,3,2024,Tshopo,0.518267,25.187572,0,1
 24,3,2016,Me,5.932282,-3.755490982,0,1
