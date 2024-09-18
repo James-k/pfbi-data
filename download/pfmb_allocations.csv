@@ -16735,6 +16735,10 @@ Niger,2023,Standard,25936,CBPF-NER-23-S-NGO-25936,Emergency Shelter and NFI,,55.
 Niger,2023,Standard,25936,CBPF-NER-23-S-NGO-25936,"Water, Sanitation and Hygiene",,45.0,180000.009,CBPF
 Niger,2024,Reserve,27677,CBPF-NER-24-R-NGO-27677,Emergency Shelter and NFI,,30.0,119922.336,CBPF
 Niger,2024,Reserve,27677,CBPF-NER-24-R-NGO-27677,Food Security,,70.0,279818.784,CBPF
+Niger,2024,Reserve,32650,CBPF-NER-24-R-NGO-32650,Food Security,,60.0,239821.746,CBPF
+Niger,2024,Reserve,32650,CBPF-NER-24-R-NGO-32650,Health,,1.0,3997.0291,CBPF
+Niger,2024,Reserve,32650,CBPF-NER-24-R-NGO-32650,Protection,,14.0,55958.4074,CBPF
+Niger,2024,Reserve,32650,CBPF-NER-24-R-NGO-32650,"Water, Sanitation and Hygiene",,25.0,99925.7275,CBPF
 Niger,2024,Reserve,32687,CBPF-NER-24-R-NGO-32687,Emergency Shelter and NFI,,23.0,161000.1702,CBPF
 Niger,2024,Reserve,32687,CBPF-NER-24-R-NGO-32687,Food Security,,62.0,434000.4588,CBPF
 Niger,2024,Reserve,32687,CBPF-NER-24-R-NGO-32687,Health,,15.0,105000.111,CBPF
@@ -20497,8 +20501,14 @@ South Sudan,2024,Reserve,27495,CBPF-SSD-24-R-UN-27495,"Water, Sanitation and Hyg
 South Sudan,2024,Standard,32713,CBPF-SSD-24-S-NGO-32713,Protection,,100.0,360000.0,CBPF
 South Sudan,2024,Standard,32731,CBPF-SSD-24-S-NGO-32731,Health,,44.0,198000.0,CBPF
 South Sudan,2024,Standard,32731,CBPF-SSD-24-S-NGO-32731,Nutrition,,56.0,252000.0,CBPF
+South Sudan,2024,Standard,32734,CBPF-SSD-24-S-NGO-32734,Protection,,100.0,250000.0,CBPF
 South Sudan,2024,Standard,32813,CBPF-SSD-24-S-NGO-32813,Health,,100.0,350000.0,CBPF
 South Sudan,2024,Standard,32840,CBPF-SSD-24-S-NGO-32840,"Water, Sanitation and Hygiene",,100.0,350000.0,CBPF
+South Sudan,2024,Standard,32856,CBPF-SSD-24-S-NGO-32856,Protection,,100.0,400000.0,CBPF
+South Sudan,2024,Standard,32861,CBPF-SSD-24-S-NGO-32861,Education,,70.0,350000.0,CBPF
+South Sudan,2024,Standard,32861,CBPF-SSD-24-S-NGO-32861,"Water, Sanitation and Hygiene",,30.0,150000.0,CBPF
+South Sudan,2024,Standard,32903,CBPF-SSD-24-S-NGO-32903,"Water, Sanitation and Hygiene",,100.0,149999.02,CBPF
+South Sudan,2024,Standard,32919,CBPF-SSD-24-S-NGO-32919,Protection,,100.0,250000.0,CBPF
 South Sudan,2020,Reserve,16404,SSD-20/HSS10/RA1/H/UN/16404,Health,,100.0,4999500.01,CBPF
 South Sudan,2020,Reserve,17639,SSD-20/HSS10/RA2/CCS/UN/17639,Coordination and Support Services,,100.0,500000.0,CBPF
 South Sudan,2020,Reserve,17630,SSD-20/HSS10/RA2/FSL/INGO/17630,Food Security,,100.0,282255.65,CBPF
@@ -24719,6 +24729,7 @@ Syria Cross border,2024,Standard,33064,CBPF-TUR-24-S-O-33064,Coordination and Su
 Syria Cross border,2024,Standard,33195,CBPF-TUR-24-S-O-33195,Nutrition,,100.0,668899.5,CBPF
 Syria Cross border,2024,Standard,32992,CBPF-TUR-24-S-UN-32992,Early Recovery,,80.0,793916.424,CBPF
 Syria Cross border,2024,Standard,32992,CBPF-TUR-24-S-UN-32992,"Water, Sanitation and Hygiene",,20.0,198479.106,CBPF
+Syria Cross border,2024,Standard,33143,CBPF-TUR-24-S-UN-33143,Protection,,100.0,400792.92,CBPF
 Syria Cross border,2024,Standard,33170,CBPF-TUR-24-S-UN-33170,Health,,100.0,583122.67,CBPF
 Syria Cross border,2014,Standard,1125,TUR-14/CP/CCM/INGO/1125,Camp Coordination / Management,,100.0,399741.89,CBPF
 Syria Cross border,2014,Standard,1121,TUR-14/CP/E/NGO/1121,Education,,100.0,156421.16,CBPF
