@@ -8817,7 +8817,6 @@ Myanmar,2023,Rapid Response,4909,23-RR-CEF-078,Protection,Protection,14.00000000
 Myanmar,2023,Rapid Response,4909,23-RR-CEF-078,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",43.0,1204000.0,CERF
 Myanmar,2023,Rapid Response,4910,23-RR-WFP-070,Food Assistance,Food Assistance,100.0,2000000.0,CERF
 Myanmar,2023,Underfunded Emergencies,4911,23-UF-IOM-053,Protection,Protection,100.0,400000.0,CERF
-Nicaragua,2023,Rapid Response,33743,24-RR-NIC-63714(TBD),To be determined,To be determined,100.0,2000000.0,CERF
 Mozambique,2024,Rapid Response,4912,24-RR-CEF-001,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",85.0,726750.0,CERF
 Mozambique,2024,Rapid Response,4912,24-RR-CEF-001,Health,Health,15.0,128250.0,CERF
 Mozambique,2024,Rapid Response,4913,24-RR-WHO-001,Health,Health,100.0,645000.0,CERF
@@ -9078,13 +9077,13 @@ Democratic Republic of the Congo,2024,Rapid Response,33289,CERF-COD-24-RR-CEF-33
 Democratic Republic of the Congo,2024,Rapid Response,33289,CERF-COD-24-RR-CEF-33289,Nutrition,Nutrition,18.499999852000002,462500.0,CERF
 Democratic Republic of the Congo,2024,Rapid Response,33289,CERF-COD-24-RR-CEF-33289,Education,Education,28.500000172,712500.01,CERF
 Democratic Republic of the Congo,2024,Rapid Response,33291,CERF-COD-24-RR-WHO-33291,Health,Health,100.0,1500000.0,CERF
-Democratic Republic of the Congo,2024,Rapid Response,33744,CERF-COD-24-RR-1394(TBD),To be determined,To be determined,100.0,4999999.98,CERF
-Namibia,2024,Rapid Response,33745,CERF-NAM-24-RR-1400(TBD),To be determined,To be determined,100.0,3000000.0,CERF
-South Sudan,2024,Rapid Response,33746,CERF-SSD-24-RR-1401(TBD),To be determined,To be determined,100.0,10000000.0,CERF
-Mauritania,2024,Rapid Response,33747,CERF-MRT-24-RR-1402(TBD),To be determined,To be determined,100.0,3000000.0,CERF
-Chad,2024,Rapid Response,33748,CERF-TCD-24-RR-1416(TBD),To be determined,To be determined,100.0,8000000.0,CERF
-Lesotho,2024,Rapid Response,33749,CERF-LSO-24-RR-1418(TBD),To be determined,To be determined,100.0,2000000.0,CERF
-Bangladesh,2024,Rapid Response,33750,CERF-BGD-24-RR-1421(TBD),To be determined,To be determined,100.0,4000000.0,CERF
+Democratic Republic of the Congo,2024,Rapid Response,33743,CERF-COD-24-RR-1394(TBD),To be determined,To be determined,100.0,4999999.98,CERF
+Namibia,2024,Rapid Response,33744,CERF-NAM-24-RR-1400(TBD),To be determined,To be determined,100.0,3000000.0,CERF
+South Sudan,2024,Rapid Response,33745,CERF-SSD-24-RR-1401(TBD),To be determined,To be determined,100.0,10000000.0,CERF
+Mauritania,2024,Rapid Response,33746,CERF-MRT-24-RR-1402(TBD),To be determined,To be determined,100.0,3000000.0,CERF
+Chad,2024,Rapid Response,33747,CERF-TCD-24-RR-1416(TBD),To be determined,To be determined,100.0,8000000.0,CERF
+Lesotho,2024,Rapid Response,33748,CERF-LSO-24-RR-1418(TBD),To be determined,To be determined,100.0,2000000.0,CERF
+Bangladesh,2024,Rapid Response,33749,CERF-BGD-24-RR-1421(TBD),To be determined,To be determined,100.0,4000000.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
@@ -11757,6 +11756,7 @@ DRC,2024,Standard,27949,CBPF-DRC-24-S-INGO-27949,Nutrition,,100.0,300000.0,CBPF
 DRC,2024,Standard,27953,CBPF-DRC-24-S-INGO-27953,Nutrition,,100.0,600000.0,CBPF
 DRC,2024,Standard,27967,CBPF-DRC-24-S-INGO-27967,Food Security,,100.0,500000.0,CBPF
 DRC,2024,Standard,27977,CBPF-DRC-24-S-INGO-27977,"Water, Sanitation and Hygiene",,100.0,700000.0,CBPF
+DRC,2024,Standard,27983,CBPF-DRC-24-S-INGO-27983,Health,,100.0,750000.0,CBPF
 DRC,2024,Standard,27811,CBPF-DRC-24-S-NGO-27811,Food Security,,100.0,1200000.0,CBPF
 DRC,2024,Standard,27816,CBPF-DRC-24-S-NGO-27816,Health,,100.0,550000.0,CBPF
 DRC,2024,Standard,27819,CBPF-DRC-24-S-NGO-27819,Food Security,,100.0,450000.0,CBPF
@@ -24691,6 +24691,8 @@ Syria Cross border,2024,Standard,33250,CBPF-TUR-24-S-INGO-33250,Multi-purpose CA
 Syria Cross border,2024,Standard,33250,CBPF-TUR-24-S-INGO-33250,Protection,,19.0,228711.1966,CBPF
 Syria Cross border,2024,Standard,33284,CBPF-TUR-24-S-INGO-33284,Protection,,100.0,293678.75,CBPF
 Syria Cross border,2024,Standard,32981,CBPF-TUR-24-S-NGO-32981,Health,,100.0,935925.29,CBPF
+Syria Cross border,2024,Standard,33003,CBPF-TUR-24-S-NGO-33003,Health,,84.0,616191.1308,CBPF
+Syria Cross border,2024,Standard,33003,CBPF-TUR-24-S-NGO-33003,Protection,,16.0,117369.7392,CBPF
 Syria Cross border,2024,Standard,33070,CBPF-TUR-24-S-NGO-33070,Early Recovery,,34.0,489038.1942,CBPF
 Syria Cross border,2024,Standard,33070,CBPF-TUR-24-S-NGO-33070,Education,,66.0,949309.4358,CBPF
 Syria Cross border,2024,Standard,33078,CBPF-TUR-24-S-NGO-33078,Coordination and Support Services,,100.0,299995.64,CBPF
