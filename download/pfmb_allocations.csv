@@ -9071,19 +9071,24 @@ Grenada,2024,Rapid Response,33056,CERF-GRD-24-RR-WHO-33056,Health,Health,100.0,1
 Grenada,2024,Rapid Response,33057,CERF-GRD-24-RR-WFP-33057,Common Services,Common Services,50.0,200000.09,CERF
 Grenada,2024,Rapid Response,33057,CERF-GRD-24-RR-WFP-33057,Food Aid,Food Aid,50.0,200000.09,CERF
 Grenada,2024,Rapid Response,33058,CERF-GRD-24-RR-FAO-33058,Agriculture,Agriculture,100.0,200000.0,CERF
+Democratic Republic of the Congo,2024,Rapid Response,33287,CERF-COD-24-RR-HCR-33287,Protection,Protection,40.0,1000000.0,CERF
+Democratic Republic of the Congo,2024,Rapid Response,33287,CERF-COD-24-RR-HCR-33287,Shelter and Non-Food Items,Shelter and Non-Food Items,60.0,1500000.0,CERF
 Democratic Republic of the Congo,2024,Rapid Response,33288,CERF-COD-24-RR-FPA-33288,Protection,Protection,100.0,1000000.0,CERF
 Democratic Republic of the Congo,2024,Rapid Response,33289,CERF-COD-24-RR-CEF-33289,Protection,Protection,24.499999804,612500.0,CERF
 Democratic Republic of the Congo,2024,Rapid Response,33289,CERF-COD-24-RR-CEF-33289,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",28.500000172,712500.01,CERF
 Democratic Republic of the Congo,2024,Rapid Response,33289,CERF-COD-24-RR-CEF-33289,Nutrition,Nutrition,18.499999852000002,462500.0,CERF
 Democratic Republic of the Congo,2024,Rapid Response,33289,CERF-COD-24-RR-CEF-33289,Education,Education,28.500000172,712500.01,CERF
+Democratic Republic of the Congo,2024,Rapid Response,33290,CERF-COD-24-RR-WFP-33290,Food Aid,Food Aid,100.0,2500000.43,CERF
 Democratic Republic of the Congo,2024,Rapid Response,33291,CERF-COD-24-RR-WHO-33291,Health,Health,100.0,1500000.0,CERF
-Democratic Republic of the Congo,2024,Rapid Response,33743,CERF-COD-24-RR-1394(TBD),To be determined,To be determined,100.0,4999999.98,CERF
+Ethiopia,2024,Rapid Response,33743,CERF-ETH-24-RR-1397(TBD),To be determined,To be determined,100.0,10000000.0,CERF
 Namibia,2024,Rapid Response,33744,CERF-NAM-24-RR-1400(TBD),To be determined,To be determined,100.0,3000000.0,CERF
 South Sudan,2024,Rapid Response,33745,CERF-SSD-24-RR-1401(TBD),To be determined,To be determined,100.0,10000000.0,CERF
 Mauritania,2024,Rapid Response,33746,CERF-MRT-24-RR-1402(TBD),To be determined,To be determined,100.0,3000000.0,CERF
 Chad,2024,Rapid Response,33747,CERF-TCD-24-RR-1416(TBD),To be determined,To be determined,100.0,8000000.0,CERF
-Lesotho,2024,Rapid Response,33748,CERF-LSO-24-RR-1418(TBD),To be determined,To be determined,100.0,2000000.0,CERF
-Bangladesh,2024,Rapid Response,33749,CERF-BGD-24-RR-1421(TBD),To be determined,To be determined,100.0,4000000.0,CERF
+Niger,2024,Rapid Response,33748,CERF-NER-24-RR-1417(TBD),To be determined,To be determined,100.0,7000000.0,CERF
+Lesotho,2024,Rapid Response,33749,CERF-LSO-24-RR-1418(TBD),To be determined,To be determined,100.0,2000000.0,CERF
+Bangladesh,2024,Rapid Response,33750,CERF-BGD-24-RR-1421(TBD),To be determined,To be determined,100.0,4000000.0,CERF
+Viet Nam,2024,Rapid Response,33751,CERF-VNM-24-RR-1424(TBD),To be determined,To be determined,100.0,2000000.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
@@ -11016,6 +11021,22 @@ CAR,2024,Reserve,27569,CBPF-CAR-24-R-NGO-27569,Protection,,100.0,500000.0,CBPF
 CAR,2024,Reserve,27571,CBPF-CAR-24-R-NGO-27571,Protection,,100.0,100000.0,CBPF
 CAR,2024,Reserve,27577,CBPF-CAR-24-R-NGO-27577,Protection,,100.0,360000.43,CBPF
 CAR,2024,Reserve,27576,CBPF-CAR-24-R-UN-27576,Nutrition,,100.0,500000.02,CBPF
+CAR,2024,Standard,33002,CBPF-CAR-24-S-INGO-33002,Protection,,30.0,90000.0,CBPF
+CAR,2024,Standard,33002,CBPF-CAR-24-S-INGO-33002,Protection,,70.0,210000.0,CBPF
+CAR,2024,Standard,33061,CBPF-CAR-24-S-INGO-33061,Protection,,30.0,149999.985,CBPF
+CAR,2024,Standard,33061,CBPF-CAR-24-S-INGO-33061,"Water, Sanitation and Hygiene",,70.0,349999.965,CBPF
+CAR,2024,Standard,33075,CBPF-CAR-24-S-INGO-33075,Emergency Shelter and NFI,,100.0,300000.0,CBPF
+CAR,2024,Standard,33182,CBPF-CAR-24-S-INGO-33182,Nutrition,,50.0,200000.0,CBPF
+CAR,2024,Standard,33182,CBPF-CAR-24-S-INGO-33182,Protection,,50.0,200000.0,CBPF
+CAR,2024,Standard,33175,CBPF-CAR-24-S-NGO-33175,Food Security,,100.0,450000.0,CBPF
+CAR,2024,Standard,33194,CBPF-CAR-24-S-NGO-33194,Camp Coordination / Management,,30.0,90000.0,CBPF
+CAR,2024,Standard,33194,CBPF-CAR-24-S-NGO-33194,Emergency Shelter and NFI,,70.0,210000.0,CBPF
+CAR,2024,Standard,33222,CBPF-CAR-24-S-NGO-33222,Protection,,100.0,100000.0,CBPF
+CAR,2024,Standard,33235,CBPF-CAR-24-S-NGO-33235,Food Security,,20.0,60000.0,CBPF
+CAR,2024,Standard,33235,CBPF-CAR-24-S-NGO-33235,Protection,,80.0,240000.0,CBPF
+CAR,2024,Standard,33242,CBPF-CAR-24-S-NGO-33242,Camp Coordination / Management,,20.0,50000.0,CBPF
+CAR,2024,Standard,33242,CBPF-CAR-24-S-NGO-33242,Emergency Shelter and NFI,,30.0,75000.0,CBPF
+CAR,2024,Standard,33242,CBPF-CAR-24-S-NGO-33242,"Water, Sanitation and Hygiene",,50.0,125000.0,CBPF
 CAR,2014,Reserve,1102,CAR-14/HCF10/R/EDU/INGO/1102,Education,,100.0,74611.1,CBPF
 CAR,2014,Reserve,1104,CAR-14/HCF10/R/EDU/INGO/1104,Education,,100.0,200000.12,CBPF
 CAR,2014,Reserve,1103,CAR-14/HCF10/R/EDU/NGO/1103,Education,,100.0,199999.44,CBPF
@@ -12982,6 +13003,8 @@ Ethiopia,2024,Reserve,33227,CBPF-ETH-24-R-INGO-33227,Food Security,,20.0,120000.
 Ethiopia,2024,Reserve,33227,CBPF-ETH-24-R-INGO-33227,Health,,27.0,162000.0,CBPF
 Ethiopia,2024,Reserve,33227,CBPF-ETH-24-R-INGO-33227,Nutrition,,29.0,174000.0,CBPF
 Ethiopia,2024,Reserve,33227,CBPF-ETH-24-R-INGO-33227,"Water, Sanitation and Hygiene",,24.0,144000.0,CBPF
+Ethiopia,2024,Reserve,33249,CBPF-ETH-24-R-INGO-33249,Emergency Shelter and NFI,,60.0,599999.994,CBPF
+Ethiopia,2024,Reserve,33249,CBPF-ETH-24-R-INGO-33249,"Water, Sanitation and Hygiene",,40.0,399999.996,CBPF
 Ethiopia,2024,Reserve,33260,CBPF-ETH-24-R-INGO-33260,Food Security,,24.0,144000.0,CBPF
 Ethiopia,2024,Reserve,33260,CBPF-ETH-24-R-INGO-33260,Health,,17.0,102000.0,CBPF
 Ethiopia,2024,Reserve,33260,CBPF-ETH-24-R-INGO-33260,Nutrition,,32.0,192000.0,CBPF
@@ -13000,6 +13023,8 @@ Ethiopia,2024,Reserve,33304,CBPF-ETH-24-R-INGO-33304,"Water, Sanitation and Hygi
 Ethiopia,2024,Reserve,33328,CBPF-ETH-24-R-INGO-33328,Emergency Shelter and NFI,,40.0,239999.996,CBPF
 Ethiopia,2024,Reserve,33328,CBPF-ETH-24-R-INGO-33328,Health,,30.0,179999.997,CBPF
 Ethiopia,2024,Reserve,33328,CBPF-ETH-24-R-INGO-33328,"Water, Sanitation and Hygiene",,30.0,179999.997,CBPF
+Ethiopia,2024,Reserve,33329,CBPF-ETH-24-R-INGO-33329,Emergency Shelter and NFI,,50.0,500000.0,CBPF
+Ethiopia,2024,Reserve,33329,CBPF-ETH-24-R-INGO-33329,"Water, Sanitation and Hygiene",,50.0,500000.0,CBPF
 Ethiopia,2024,Reserve,33160,CBPF-ETH-24-R-NGO-33160,Food Security,,20.0,200000.0,CBPF
 Ethiopia,2024,Reserve,33160,CBPF-ETH-24-R-NGO-33160,Health,,15.0,150000.0,CBPF
 Ethiopia,2024,Reserve,33160,CBPF-ETH-24-R-NGO-33160,Nutrition,,35.0,350000.0,CBPF
@@ -16916,6 +16941,8 @@ Nigeria,2024,Reserve,32752,CBPF-NGA-24-R-INGO-32752,Nutrition,,100.0,400000.0,CB
 Nigeria,2024,Reserve,32766,CBPF-NGA-24-R-INGO-32766,Nutrition,,100.0,1000000.0,CBPF
 Nigeria,2024,Reserve,33436,CBPF-NGA-24-R-INGO-33436,"Water, Sanitation and Hygiene",,100.0,400000.0,CBPF
 Nigeria,2024,Reserve,33437,CBPF-NGA-24-R-INGO-33437,Health,,100.0,275000.0,CBPF
+Nigeria,2024,Reserve,33440,CBPF-NGA-24-R-INGO-33440,Health,,85.0,276250.0,CBPF
+Nigeria,2024,Reserve,33440,CBPF-NGA-24-R-INGO-33440,"Water, Sanitation and Hygiene",,15.0,48750.0,CBPF
 Nigeria,2024,Reserve,32706,CBPF-NGA-24-R-NGO-32706,"Water, Sanitation and Hygiene",,100.0,399999.99,CBPF
 Nigeria,2024,Reserve,32711,CBPF-NGA-24-R-NGO-32711,"Water, Sanitation and Hygiene",,100.0,299999.96,CBPF
 Nigeria,2024,Reserve,32712,CBPF-NGA-24-R-NGO-32712,"Water, Sanitation and Hygiene",,100.0,400000.0,CBPF
@@ -20510,11 +20537,16 @@ South Sudan,2024,Standard,32755,CBPF-SSD-24-S-NGO-32755,"Water, Sanitation and H
 South Sudan,2024,Standard,32803,CBPF-SSD-24-S-NGO-32803,Education,,100.0,350000.0,CBPF
 South Sudan,2024,Standard,32813,CBPF-SSD-24-S-NGO-32813,Health,,100.0,350000.0,CBPF
 South Sudan,2024,Standard,32840,CBPF-SSD-24-S-NGO-32840,"Water, Sanitation and Hygiene",,100.0,350000.0,CBPF
+South Sudan,2024,Standard,32844,CBPF-SSD-24-S-NGO-32844,Education,,47.0,352500.0,CBPF
+South Sudan,2024,Standard,32844,CBPF-SSD-24-S-NGO-32844,Protection,,53.0,397500.0,CBPF
 South Sudan,2024,Standard,32856,CBPF-SSD-24-S-NGO-32856,Protection,,100.0,400000.0,CBPF
 South Sudan,2024,Standard,32861,CBPF-SSD-24-S-NGO-32861,Education,,70.0,350000.0,CBPF
 South Sudan,2024,Standard,32861,CBPF-SSD-24-S-NGO-32861,"Water, Sanitation and Hygiene",,30.0,150000.0,CBPF
 South Sudan,2024,Standard,32903,CBPF-SSD-24-S-NGO-32903,"Water, Sanitation and Hygiene",,100.0,149999.02,CBPF
 South Sudan,2024,Standard,32919,CBPF-SSD-24-S-NGO-32919,Protection,,100.0,250000.0,CBPF
+South Sudan,2024,Standard,32810,CBPF-SSD-24-S-UN-32810,Health,,100.0,820000.02,CBPF
+South Sudan,2024,Standard,32925,CBPF-SSD-24-S-UN-32925,Food Security,,100.0,720000.05,CBPF
+South Sudan,2024,Standard,32960,CBPF-SSD-24-S-UN-32960,Health,,100.0,349999.03,CBPF
 South Sudan,2020,Reserve,16404,SSD-20/HSS10/RA1/H/UN/16404,Health,,100.0,4999500.01,CBPF
 South Sudan,2020,Reserve,17639,SSD-20/HSS10/RA2/CCS/UN/17639,Coordination and Support Services,,100.0,500000.0,CBPF
 South Sudan,2020,Reserve,17630,SSD-20/HSS10/RA2/FSL/INGO/17630,Food Security,,100.0,282255.65,CBPF
@@ -22373,6 +22405,8 @@ Sudan,2024,Reserve,33356,CBPF-SUD-24-R-INGO-33356,"Water, Sanitation and Hygiene
 Sudan,2024,Reserve,33368,CBPF-SUD-24-R-INGO-33368,Health,,40.0,599200.0,CBPF
 Sudan,2024,Reserve,33368,CBPF-SUD-24-R-INGO-33368,Multi-purpose CASH,,60.0,898800.0,CBPF
 Sudan,2024,Reserve,33389,CBPF-SUD-24-R-INGO-33389,Protection,,100.0,641518.39,CBPF
+Sudan,2024,Reserve,33400,CBPF-SUD-24-R-INGO-33400,Food Security,,30.0,300000.0,CBPF
+Sudan,2024,Reserve,33400,CBPF-SUD-24-R-INGO-33400,Multi-purpose CASH,,70.0,700000.0,CBPF
 Sudan,2024,Reserve,33404,CBPF-SUD-24-R-INGO-33404,Food Security,,50.0,320654.125,CBPF
 Sudan,2024,Reserve,33404,CBPF-SUD-24-R-INGO-33404,"Water, Sanitation and Hygiene",,50.0,320654.125,CBPF
 Sudan,2024,Reserve,33411,CBPF-SUD-24-R-INGO-33411,Emergency Shelter and NFI,,30.0,299999.664,CBPF
@@ -23840,9 +23874,9 @@ Syria,2023,Standard,26638,CBPF-SYR-23-S-INGO-26638,Food Security,,19.0,227944.64
 Syria,2023,Standard,26654,CBPF-SYR-23-S-INGO-26654,Food Security,,24.0,238800.0,CBPF
 Syria,2023,Standard,26654,CBPF-SYR-23-S-INGO-26654,Health,,41.0,407950.0,CBPF
 Syria,2023,Standard,26654,CBPF-SYR-23-S-INGO-26654,"Water, Sanitation and Hygiene",,35.0,348250.0,CBPF
-Syria,2023,Standard,26686,CBPF-SYR-23-S-INGO-26686,Emergency Shelter and NFI,,26.0,244181.1554,CBPF
-Syria,2023,Standard,26686,CBPF-SYR-23-S-INGO-26686,Food Security,,33.0,309922.2357,CBPF
-Syria,2023,Standard,26686,CBPF-SYR-23-S-INGO-26686,"Water, Sanitation and Hygiene",,41.0,385054.8989,CBPF
+Syria,2023,Standard,26686,CBPF-SYR-23-S-INGO-26686,Emergency Shelter and NFI,,25.0,234789.5725,CBPF
+Syria,2023,Standard,26686,CBPF-SYR-23-S-INGO-26686,Food Security,,30.0,281747.487,CBPF
+Syria,2023,Standard,26686,CBPF-SYR-23-S-INGO-26686,"Water, Sanitation and Hygiene",,45.0,422621.2305,CBPF
 Syria,2023,Standard,26496,CBPF-SYR-23-S-NGO-26496,Emergency Shelter and NFI,,100.0,223999.15,CBPF
 Syria,2023,Standard,26555,CBPF-SYR-23-S-NGO-26555,Early Recovery,,49.0,536380.5286,CBPF
 Syria,2023,Standard,26555,CBPF-SYR-23-S-NGO-26555,Food Security,,40.0,437861.656,CBPF
@@ -23871,7 +23905,11 @@ Syria,2023,Standard,26661,CBPF-SYR-23-S-UN-26661,Protection,,100.0,450000.06,CBP
 Syria,2023,Standard,26671,CBPF-SYR-23-S-UN-26671,Early Recovery,,100.0,404460.0,CBPF
 Syria,2023,Standard,26684,CBPF-SYR-23-S-UN-26684,Education,,38.0,277364.1584,CBPF
 Syria,2023,Standard,26684,CBPF-SYR-23-S-UN-26684,Health,,62.0,452541.5216,CBPF
+Syria,2024,Standard,33307,CBPF-SYR-24-S-INGO-33307,Food Security,,87.0,521351.85,CBPF
+Syria,2024,Standard,33307,CBPF-SYR-24-S-INGO-33307,"Water, Sanitation and Hygiene",,13.0,77903.15,CBPF
+Syria,2024,Standard,33326,CBPF-SYR-24-S-UN-33326,Multi-purpose CASH,,100.0,500000.0,CBPF
 Syria,2024,Standard,33342,CBPF-SYR-24-S-UN-33342,Emergency Shelter and NFI,,100.0,851772.37,CBPF
+Syria,2024,Standard,33395,CBPF-SYR-24-S-UN-33395,Education,,100.0,249999.94,CBPF
 Syria,2015,Reserve,2161,SYR-15/DDA-3477/RA/WASH/UN/2161,"Water, Sanitation and Hygiene",,100.0,603993.6,CBPF
 Syria,2015,Standard,2049,SYR-15/DDA-3477/WCP/WASH/INGO/2049,"Water, Sanitation and Hygiene",,100.0,537699.61,CBPF
 Syria,2015,Standard,2079,SYR-15/DDA-3477/WCP/WASH/INGO/2079,"Water, Sanitation and Hygiene",,100.0,749999.86,CBPF
@@ -24700,6 +24738,7 @@ Syria Cross border,2024,Standard,33084,CBPF-TUR-24-S-NGO-33084,Education,,100.0,
 Syria Cross border,2024,Standard,33108,CBPF-TUR-24-S-NGO-33108,"Water, Sanitation and Hygiene",,100.0,575507.64,CBPF
 Syria Cross border,2024,Standard,33122,CBPF-TUR-24-S-NGO-33122,Multi-purpose CASH,,40.0,595019.76,CBPF
 Syria Cross border,2024,Standard,33122,CBPF-TUR-24-S-NGO-33122,Protection,,60.0,892529.64,CBPF
+Syria Cross border,2024,Standard,33126,CBPF-TUR-24-S-NGO-33126,Food Security,,100.0,611238.46,CBPF
 Syria Cross border,2024,Standard,33139,CBPF-TUR-24-S-NGO-33139,Camp Coordination / Management,,3.0,42856.1541,CBPF
 Syria Cross border,2024,Standard,33139,CBPF-TUR-24-S-NGO-33139,Early Recovery,,12.0,171424.6164,CBPF
 Syria Cross border,2024,Standard,33139,CBPF-TUR-24-S-NGO-33139,Emergency Shelter and NFI,,65.0,928550.0055,CBPF
@@ -24734,6 +24773,7 @@ Syria Cross border,2024,Standard,33274,CBPF-TUR-24-S-NGO-33274,Protection,,25.0,
 Syria Cross border,2024,Standard,33282,CBPF-TUR-24-S-NGO-33282,Protection,,100.0,734455.23,CBPF
 Syria Cross border,2024,Standard,33286,CBPF-TUR-24-S-NGO-33286,Early Recovery,,50.0,685320.905,CBPF
 Syria Cross border,2024,Standard,33286,CBPF-TUR-24-S-NGO-33286,Emergency Shelter and NFI,,50.0,685320.905,CBPF
+Syria Cross border,2024,Standard,33308,CBPF-TUR-24-S-NGO-33308,Education,,100.0,774411.22,CBPF
 Syria Cross border,2024,Standard,33310,CBPF-TUR-24-S-NGO-33310,Emergency Shelter and NFI,,55.0,756548.9305,CBPF
 Syria Cross border,2024,Standard,33310,CBPF-TUR-24-S-NGO-33310,Health,,30.0,412663.053,CBPF
 Syria Cross border,2024,Standard,33310,CBPF-TUR-24-S-NGO-33310,"Water, Sanitation and Hygiene",,15.0,206331.5265,CBPF
@@ -26297,6 +26337,7 @@ Ukraine,2024,Reserve,32952,CBPF-UKR-24-R-INGO-32952,Camp Coordination / Manageme
 Ukraine,2024,Reserve,32952,CBPF-UKR-24-R-INGO-32952,Emergency Shelter and NFI,,78.0,1090459.2582,CBPF
 Ukraine,2024,Reserve,32958,CBPF-UKR-24-R-INGO-32958,Camp Coordination / Management,,100.0,570820.42,CBPF
 Ukraine,2024,Reserve,32961,CBPF-UKR-24-R-INGO-32961,Emergency Shelter and NFI,,100.0,1457032.61,CBPF
+Ukraine,2024,Reserve,32962,CBPF-UKR-24-R-INGO-32962,Emergency Shelter and NFI,,100.0,1698659.88,CBPF
 Ukraine,2024,Reserve,32964,CBPF-UKR-24-R-INGO-32964,Emergency Shelter and NFI,,100.0,2491000.0,CBPF
 Ukraine,2024,Reserve,32969,CBPF-UKR-24-R-INGO-32969,Emergency Shelter and NFI,,100.0,1841787.7,CBPF
 Ukraine,2024,Reserve,32970,CBPF-UKR-24-R-INGO-32970,Emergency Shelter and NFI,,100.0,4833751.51,CBPF
