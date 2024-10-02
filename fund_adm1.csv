@@ -953,6 +953,13 @@ PooledFundId,AllocationSourceId,AllocationYear,AdminLocation1,AdminLocation1Lati
 55,4,2023,Akkar,34.5506,36.0781,0,1
 55,4,2024,Conflict,0,0,0,1
 55,4,2024,South,33.55,35.3833,0,1
+55,3,,Akkar,34.5506,36.0781,0,1
+55,3,,Beirut,33.8869,35.5131,0,1
+55,3,,Bekaa,34.0089,36.1453,0,1
+55,3,,El Nabatieh,33.366667,35.466667,0,1
+55,3,,Mount Lebanon,33.8333,35.5333,0,1
+55,3,,North,34.4333,35.85,0,1
+55,3,,South,33.55,35.3833,0,1
 55,3,2018,Mount Lebanon,33.8333,35.5333,0,1
 55,3,2020,Beirut,33.8869,35.5131,0,1
 55,3,2022,Akkar,34.5506,36.0781,0,1
