@@ -33,5 +33,12 @@
     "RFundName": "Haiti (RhPF-LAC)",
     "StartYearDate": "01-2024",
     "CBPFId": 88
-  }
+  },
+  {
+    "RFundTitle": "Regionally-hosted Pooled Fund for West and Central Africa",
+    "RFundAbbrv": "RhPF - WCA",
+    "RFundName": "Mozambique (RhPF - WCA)",
+    "StartYearDate": "09-2024",
+    "CBPFId": 89
+  },
 ]
