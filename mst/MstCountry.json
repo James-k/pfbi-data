@@ -4333,5 +4333,21 @@
     "CBPFId": 88,
     "CERFId": 41,
     "AreaType": "Country"
+  },{
+    "id": 255,
+    "PooledFundName": "Mozambique (RhPF-WCA)",
+    "PooledFundNameAbbrv": "Mozambique (RhPF-WCA)",
+    "RegionName": "Eastern Africa",
+    "RegionNameArr": "Africa",
+    "SubRegionName": "Eastern Africa",
+    "ContinentName": "Africa",
+    "CountryCode": "MOZ",
+    "ISO2Code": "MZ",
+    "latitude": -18.665695,
+    "longitude": 35.529562,
+    "CBPFFundStatus":"",
+    "CBPFId": 89,
+    "CERFId": 61,
+    "AreaType": "Country"
   }
 ]
