@@ -684,7 +684,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2014,Private Contributions,119660.94,0.0,"Private donations through UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
 2014,Regional/ Local Authorities,308144.18,0.0,State of South Australia,XSSA,Regional/ Local Authorities,0,0,0,0,0,0
 2014,Member State,20537.85,0.0,Andorra,AD,Member State,0,0,0,0,0,0
-2014,Member State,57683.8,0.0,Argentina,AR,Member State,0,0,0,0,0,0
+2014,Member State,57683.8,-25632.4,Argentina,AR,Member State,0,0,0,0,0,0
 2014,Member State,5000.0,0.0,Armenia,AM,Member State,0,0,0,0,0,0
 2014,Member State,14580884.0,0.0,Australia,AU,Member State,0,0,0,0,0,0
 2014,Regional/ Local Authorities,410100.0,0.0,Belgian Government of Flanders,XBGF,Regional/ Local Authorities,0,0,0,0,0,0
