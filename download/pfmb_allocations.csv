@@ -9131,6 +9131,11 @@ Nigeria,2024,Rapid Response,33917,CERF-NGA-24-RR-CEF-33917,"Water, Sanitation an
 Nigeria,2024,Rapid Response,33917,CERF-NGA-24-RR-CEF-33917,Health,Health,46.99999923199981,367187.4,CERF
 Nigeria,2024,Rapid Response,33917,CERF-NGA-24-RR-CEF-33917,Protection,Protection,11.000000256000064,85937.48,CERF
 Nigeria,2024,Rapid Response,33917,CERF-NGA-24-RR-CEF-33917,Protection,Protection,5.0,39062.49,CERF
+Nigeria,2024,Rapid Response,33920,CERF-NGA-24-RR-IOM-33920,Multi-Purpose Cash,Multi-Purpose Cash,22.839999408786145,267954.2,CERF
+Nigeria,2024,Rapid Response,33920,CERF-NGA-24-RR-IOM-33920,Camp Coordination and Camp Management,Camp Coordination and Camp Management,15.74000003443633,184658.46,CERF
+Nigeria,2024,Rapid Response,33920,CERF-NGA-24-RR-IOM-33920,Protection,Protection,12.180000172863565,142893.27,CERF
+Nigeria,2024,Rapid Response,33920,CERF-NGA-24-RR-IOM-33920,Shelter and Non-Food Items,Shelter and Non-Food Items,18.780000203549406,220323.12,CERF
+Nigeria,2024,Rapid Response,33920,CERF-NGA-24-RR-IOM-33920,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",30.46000018036455,357350.49,CERF
 Nigeria,2024,Rapid Response,33922,CERF-NGA-24-RR-FAO-33922,Agriculture,Agriculture,47.000001049597394,183594.21,CERF
 Nigeria,2024,Rapid Response,33922,CERF-NGA-24-RR-FAO-33922,Nutrition,Nutrition,52.99999895040261,207031.76,CERF
 Nigeria,2024,Rapid Response,33923,CERF-NGA-24-RR-FPA-33923,Protection,Protection,40.00000102420218,156219.16,CERF
@@ -9159,7 +9164,7 @@ Lebanon,2024,Rapid Response,33980,CERF-LBN-24-RR-FPA-33980,Protection,Protection
 Lebanon,2024,Rapid Response,33982,CERF-LBN-24-RR-WHO-33982,Health,Health,100.0,2000000.99,CERF
 Republic of the Sudan,2024,Rapid Response,34080,CERF-SDN-24-RR-1405(TBD),To be determined,To be determined,100.0,25000000.0,CERF
 Viet Nam,2024,Rapid Response,34081,CERF-VNM-24-RR-1424(TBD),To be determined,To be determined,100.0,1222899.96,CERF
-Nigeria,2024,Rapid Response,34082,CERF-NGA-24-RR-1425(TBD),To be determined,To be determined,100.0,3437576.34,CERF
+Nigeria,2024,Rapid Response,34082,CERF-NGA-24-RR-1425(TBD),To be determined,To be determined,100.0,2264396.8,CERF
 Lebanon,2024,Rapid Response,34083,CERF-LBN-24-RR-1426(TBD),To be determined,To be determined,100.0,2999998.58,CERF
 Cameroon,2024,Rapid Response,34084,CERF-CMR-24-RR-1427(TBD),To be determined,To be determined,100.0,4000000.0,CERF
 Syrian Arab Republic,2024,Rapid Response,34085,CERF-SYR-24-RR-1428(TBD),To be determined,To be determined,100.0,8000000.0,CERF
@@ -10539,6 +10544,10 @@ Afghanistan,2024,Standard,33471,CBPF-AFG-24-S-NGO-33471,Emergency Shelter and NF
 Afghanistan,2024,Standard,33553,CBPF-AFG-24-S-NGO-33553,Emergency Shelter and NFI,,100.0,737547.54,CBPF
 Afghanistan,2024,Standard,33584,CBPF-AFG-24-S-NGO-33584,Emergency Shelter and NFI,,100.0,685760.73,CBPF
 Afghanistan,2024,Standard,33617,CBPF-AFG-24-S-NGO-33617,Emergency Shelter and NFI,,100.0,699389.56,CBPF
+Afghanistan,2024,Standard,33566,CBPF-AFG-24-S-UN-33566,Emergency Shelter and NFI,,100.0,863887.28,CBPF
+Afghanistan,2024,Standard,33628,CBPF-AFG-24-S-UN-33628,Emergency Shelter and NFI,,60.0,1015158.774,CBPF
+Afghanistan,2024,Standard,33628,CBPF-AFG-24-S-UN-33628,Multi-Sector,,40.0,676772.516,CBPF
+Afghanistan,2024,Standard,33637,CBPF-AFG-24-S-UN-33637,Protection,,100.0,650000.0,CBPF
 Burkina Faso,2022,Reserve,24238,BFA-22/BF_CBPF_RHPF/RA/FS-GBV/NGO/24238,Food Security,,87.0,217496.4939,CBPF
 Burkina Faso,2022,Reserve,24238,BFA-22/BF_CBPF_RHPF/RA/FS-GBV/NGO/24238,Protection,,13.0,32499.4761,CBPF
 Burkina Faso,2022,Reserve,24239,BFA-22/BF_CBPF_RHPF/RA/FS-NUT-W-H/INGO/24239,Food Security,,50.0,149998.685,CBPF
@@ -11159,10 +11168,14 @@ CAR,2024,Standard,32991,CBPF-CAR-24-S-INGO-32991,"Water, Sanitation and Hygiene"
 CAR,2024,Standard,32999,CBPF-CAR-24-S-INGO-32999,Protection,,100.0,600000.0,CBPF
 CAR,2024,Standard,33002,CBPF-CAR-24-S-INGO-33002,Protection,,30.0,90000.0,CBPF
 CAR,2024,Standard,33002,CBPF-CAR-24-S-INGO-33002,Protection,,70.0,210000.0,CBPF
+CAR,2024,Standard,33006,CBPF-CAR-24-S-INGO-33006,Nutrition,,50.0,375000.0,CBPF
+CAR,2024,Standard,33006,CBPF-CAR-24-S-INGO-33006,Protection,,50.0,375000.0,CBPF
 CAR,2024,Standard,33022,CBPF-CAR-24-S-INGO-33022,Protection,,100.0,700000.0,CBPF
 CAR,2024,Standard,33061,CBPF-CAR-24-S-INGO-33061,Protection,,30.0,149999.985,CBPF
 CAR,2024,Standard,33061,CBPF-CAR-24-S-INGO-33061,"Water, Sanitation and Hygiene",,70.0,349999.965,CBPF
 CAR,2024,Standard,33075,CBPF-CAR-24-S-INGO-33075,Emergency Shelter and NFI,,100.0,300000.0,CBPF
+CAR,2024,Standard,33085,CBPF-CAR-24-S-INGO-33085,Nutrition,,49.0,147000.0,CBPF
+CAR,2024,Standard,33085,CBPF-CAR-24-S-INGO-33085,"Water, Sanitation and Hygiene",,51.0,153000.0,CBPF
 CAR,2024,Standard,33152,CBPF-CAR-24-S-INGO-33152,Protection,,50.0,175000.0,CBPF
 CAR,2024,Standard,33152,CBPF-CAR-24-S-INGO-33152,Protection,,50.0,175000.0,CBPF
 CAR,2024,Standard,33169,CBPF-CAR-24-S-INGO-33169,Camp Coordination / Management,,10.0,85000.0,CBPF
@@ -17829,6 +17842,7 @@ oPt,2024,Reserve,27860,CBPF-OPT-24-R-NGO-27860,Multi-purpose CASH,,100.0,571864.
 oPt,2024,Reserve,27877,CBPF-OPT-24-R-NGO-27877,Protection,,100.0,250000.0,CBPF
 oPt,2024,Reserve,27540,CBPF-OPT-24-R-UN-27540,Coordination and Support Services,,100.0,3547123.27,CBPF
 oPt,2024,Standard,33542,CBPF-OPT-24-S-INGO-33542,"Water, Sanitation and Hygiene",,100.0,503772.95,CBPF
+oPt,2024,Standard,33684,CBPF-OPT-24-S-NGO-33684,Food Security,,100.0,464024.76,CBPF
 oPt,2013,Reserve,48,OPT-13/X/DDA-3482/ER/H/INGO/48,Health,,100.0,204798.0,CBPF
 oPt,2013,Reserve,166,OPT-13/X/DDA-3482/ER/S-NFI/NGO/166,Emergency Shelter and NFI,,100.0,247725.0,CBPF
 oPt,2013,Reserve,161,OPT-13/X/DDA-3482/ER/WASH/UN/161,"Water, Sanitation and Hygiene",,100.0,300000.0,CBPF
