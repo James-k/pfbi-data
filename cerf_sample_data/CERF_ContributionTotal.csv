@@ -1466,7 +1466,10 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2024,CERF,62522.87,0.0,"Funding under $10,000","Funding under $10,000","Funding under $10,000",0,0,0,0,0,0
 2024,Member State,55745000.0,0.0,Germany,DE,Member State,0,0,0,0,0,0
 2024,Member State,7208290.17,0.0,Australia,AU,Member State,0,0,0,0,0,0
+2024,Member State,0.0,50000.0,Azerbaijan,AZ,Member State,0,0,0,0,0,0
+2024,CERF,0.0,50000.0,Chad,Chad,Chad,0,0,0,0,0,0
 2024,Member State,62947061.04,8475566.9862,Sweden,SE,Member State,0,0,0,0,0,0
+2024,Member State,0.0,54229934.9241,Germany,DE,Member State,0,0,0,0,0,0
 2024,Member State,8652800.0,0.0,Finland,FI,Member State,0,0,0,0,0,0
 2024,Member State,42753298.38,0.0,Norway,NO,Member State,0,0,0,0,0,0
 2024,Member State,0.0,1000000.0,Saudi Arabia,SA,Member State,0,0,0,0,0,0
@@ -1503,7 +1506,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2025,Member State,277775.0,0.0,Portugal,PT,Member State,0,0,0,0,0,0
 2025,Member State,0.0,11086474.5011,Germany,DE,Member State,0,0,0,0,0,0
 2025,Member State,0.0,6883604.5056,Australia,AU,Member State,0,0,0,0,0,0
-2025,Member State,0.0,109409.1904,Lithuania,LT,Member State,0,0,0,0,0,0
+2025,Member State,108530.0,0.0,Lithuania,LT,Member State,0,0,0,0,0,0
 2025,Member State,0.0,88993453.3551,Sweden,SE,Member State,0,0,0,0,0,0
 2025,Member State,0.0,49734748.0106,Norway,NO,Member State,0,0,0,0,0,0
 2025,Member State,0.0,1000000.0,Saudi Arabia,SA,Member State,0,0,0,0,0,0
