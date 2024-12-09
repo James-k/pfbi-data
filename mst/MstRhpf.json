@@ -40,5 +40,12 @@
     "RFundName": "Mozambique (RhPF)",
     "StartYearDate": "09-2024",
     "CBPFId": 89
+  },
+  {
+    "RFundTitle": "Regionally-hosted Pooled Fund for West and Central Africa",
+    "RFundAbbrv": "RhPF - WCA",
+    "RFundName": "Chad (RhPF-WCA)",
+    "StartYearDate": "12-2024",
+    "CBPFId": 90
   }
 ]
