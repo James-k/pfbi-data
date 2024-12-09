@@ -594,6 +594,12 @@
     "donorISO2Code": "KR"
   },
   {
+    "id": 98,
+    "donorName": "Republic of Korea",
+    "donorType": "Member State",
+    "donorISO2Code": "KR"
+  },
+  {
     "id": 99,
     "donorName": "Korean and Overseas Fans of Kim Hyun Joong",
     "donorType": "Private",
@@ -1298,5 +1304,23 @@
     "donorName": "Zimbabwe",
     "donorType": "Member State",
     "donorISO2Code": "ZW"
+  },
+  {
+    "id": 214,
+    "donorName": "Chad",
+    "donorType": "Member State",
+    "donorISO2Code": "TD"
+  },
+  {
+    "id": 215,
+    "donorName": "Funding under $10,000",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 216,
+    "donorName": "DEZA/SDC",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
   }
 ]
