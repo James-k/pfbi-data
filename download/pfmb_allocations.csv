@@ -9144,9 +9144,9 @@ Ethiopia,2024,Rapid Response,33601,CERF-ETH-24-RR-FAO-33601,Agriculture,Agricult
 Ethiopia,2024,Rapid Response,33602,CERF-ETH-24-RR-WFP-33602,Agriculture,Agriculture,100.0,1499999.78,CERF
 Ethiopia,2024,Rapid Response,33604,CERF-ETH-24-RR-WHO-33604,Health,Health,100.0,750178.74,CERF
 Chad,2024,Rapid Response,33649,CERF-TCD-24-RR-WFP-33649,Food Aid,Food Aid,100.0,3000000.0,CERF
-Chad,2024,Rapid Response,33650,CERF-TCD-24-RR-HCR-33650,Camp Coordination and Camp Management,Camp Coordination and Camp Management,24.999999750000097,500000.19,CERF
+Chad,2024,Rapid Response,33650,CERF-TCD-24-RR-HCR-33650,Camp Coordination and Camp Management,Camp Coordination and Camp Management,25.000000249999903,500000.2,CERF
 Chad,2024,Rapid Response,33650,CERF-TCD-24-RR-HCR-33650,Protection,Protection,25.000000249999903,500000.2,CERF
-Chad,2024,Rapid Response,33650,CERF-TCD-24-RR-HCR-33650,Shelter and Non-Food Items,Shelter and Non-Food Items,50.0,1000000.39,CERF
+Chad,2024,Rapid Response,33650,CERF-TCD-24-RR-HCR-33650,Shelter and Non-Food Items,Shelter and Non-Food Items,49.99999950000019,1000000.38,CERF
 Chad,2024,Rapid Response,33653,CERF-TCD-24-RR-IOM-33653,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100.0,500000.0,CERF
 Chad,2024,Rapid Response,33654,CERF-TCD-24-RR-CEF-33654,Protection,Protection,24.999999875000036,500000.15,CERF
 Chad,2024,Rapid Response,33654,CERF-TCD-24-RR-CEF-33654,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",75.00000012499996,1500000.46,CERF
@@ -15741,27 +15741,27 @@ Lebanon,2024,Reserve,34012,CBPF-LEB-24-R-INGO-34012,Emergency Shelter and NFI,,2
 Lebanon,2024,Reserve,34012,CBPF-LEB-24-R-INGO-34012,Emergency Shelter and NFI,,33.0,264000.0,CBPF
 Lebanon,2024,Reserve,34012,CBPF-LEB-24-R-INGO-34012,Food Security,,25.0,200000.0,CBPF
 Lebanon,2024,Reserve,34012,CBPF-LEB-24-R-INGO-34012,"Water, Sanitation and Hygiene",,22.0,176000.0,CBPF
-Lebanon,2024,Reserve,33986,CBPF-LEB-24-R-NGO-33986,Education,,30.0,210000.0,CBPF
-Lebanon,2024,Reserve,33986,CBPF-LEB-24-R-NGO-33986,Health,,40.0,280000.0,CBPF
-Lebanon,2024,Reserve,33986,CBPF-LEB-24-R-NGO-33986,Protection,,30.0,210000.0,CBPF
+Lebanon,2024,Reserve,33986,CBPF-LEB-24-R-NGO-33986,Education,,25.0,175000.0,CBPF
+Lebanon,2024,Reserve,33986,CBPF-LEB-24-R-NGO-33986,Health,,57.0,399000.0,CBPF
+Lebanon,2024,Reserve,33986,CBPF-LEB-24-R-NGO-33986,Protection,,18.0,126000.0,CBPF
 Lebanon,2024,Reserve,33987,CBPF-LEB-24-R-NGO-33987,Food Security,,44.0,198000.0,CBPF
 Lebanon,2024,Reserve,33987,CBPF-LEB-24-R-NGO-33987,Health,,25.0,112500.0,CBPF
 Lebanon,2024,Reserve,33987,CBPF-LEB-24-R-NGO-33987,Nutrition,,7.0,31500.0,CBPF
 Lebanon,2024,Reserve,33987,CBPF-LEB-24-R-NGO-33987,"Water, Sanitation and Hygiene",,24.0,108000.0,CBPF
-Lebanon,2024,Reserve,33995,CBPF-LEB-24-R-NGO-33995,Emergency Shelter and NFI,,14.0,63000.0,CBPF
-Lebanon,2024,Reserve,33995,CBPF-LEB-24-R-NGO-33995,Emergency Shelter and NFI,,38.0,171000.0,CBPF
-Lebanon,2024,Reserve,33995,CBPF-LEB-24-R-NGO-33995,Food Security,,29.0,130500.0,CBPF
-Lebanon,2024,Reserve,33995,CBPF-LEB-24-R-NGO-33995,"Water, Sanitation and Hygiene",,19.0,85500.0,CBPF
+Lebanon,2024,Reserve,33995,CBPF-LEB-24-R-NGO-33995,Emergency Shelter and NFI,,16.0,72000.0,CBPF
+Lebanon,2024,Reserve,33995,CBPF-LEB-24-R-NGO-33995,Emergency Shelter and NFI,,27.0,121500.0,CBPF
+Lebanon,2024,Reserve,33995,CBPF-LEB-24-R-NGO-33995,Food Security,,37.0,166500.0,CBPF
+Lebanon,2024,Reserve,33995,CBPF-LEB-24-R-NGO-33995,"Water, Sanitation and Hygiene",,20.0,90000.0,CBPF
 Lebanon,2024,Reserve,34002,CBPF-LEB-24-R-NGO-34002,Health,,30.0,59999.997,CBPF
 Lebanon,2024,Reserve,34002,CBPF-LEB-24-R-NGO-34002,Protection,,70.0,139999.993,CBPF
 Lebanon,2024,Reserve,34003,CBPF-LEB-24-R-NGO-34003,Protection,,100.0,699994.0,CBPF
 Lebanon,2024,Reserve,34006,CBPF-LEB-24-R-NGO-34006,Emergency Shelter and NFI,,20.0,140000.0,CBPF
 Lebanon,2024,Reserve,34006,CBPF-LEB-24-R-NGO-34006,Food Security,,80.0,560000.0,CBPF
-Lebanon,2024,Reserve,34011,CBPF-LEB-24-R-NGO-34011,Emergency Shelter and NFI,,5.0,22500.0,CBPF
-Lebanon,2024,Reserve,34011,CBPF-LEB-24-R-NGO-34011,Emergency Shelter and NFI,,7.0,31500.0,CBPF
-Lebanon,2024,Reserve,34011,CBPF-LEB-24-R-NGO-34011,Food Security,,50.0,225000.0,CBPF
-Lebanon,2024,Reserve,34011,CBPF-LEB-24-R-NGO-34011,Protection,,13.0,58500.0,CBPF
-Lebanon,2024,Reserve,34011,CBPF-LEB-24-R-NGO-34011,"Water, Sanitation and Hygiene",,25.0,112500.0,CBPF
+Lebanon,2024,Reserve,34011,CBPF-LEB-24-R-NGO-34011,Emergency Shelter and NFI,,4.0,18000.0,CBPF
+Lebanon,2024,Reserve,34011,CBPF-LEB-24-R-NGO-34011,Emergency Shelter and NFI,,16.0,72000.0,CBPF
+Lebanon,2024,Reserve,34011,CBPF-LEB-24-R-NGO-34011,Food Security,,27.0,121500.0,CBPF
+Lebanon,2024,Reserve,34011,CBPF-LEB-24-R-NGO-34011,Protection,,21.0,94500.0,CBPF
+Lebanon,2024,Reserve,34011,CBPF-LEB-24-R-NGO-34011,"Water, Sanitation and Hygiene",,32.0,144000.0,CBPF
 Lebanon,2024,Reserve,34015,CBPF-LEB-24-R-NGO-34015,Health,,64.0,447999.9936,CBPF
 Lebanon,2024,Reserve,34015,CBPF-LEB-24-R-NGO-34015,Protection,,36.0,251999.9964,CBPF
 Lebanon,2024,Reserve,34016,CBPF-LEB-24-R-NGO-34016,Education,,14.0,56000.0,CBPF
