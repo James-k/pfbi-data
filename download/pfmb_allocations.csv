@@ -9170,6 +9170,9 @@ Burkina Faso,2024,Underfunded Emergencies,33760,CERF-BFA-24-UF-HCR-33760,Shelter
 Burkina Faso,2024,Underfunded Emergencies,33761,CERF-BFA-24-UF-FPA-33761,Protection,Protection,100.0,1700014.76,CERF
 Malawi,2024,Underfunded Emergencies,33774,CERF-MWI-24-UF-FAO-33774,Agriculture,Agriculture,7.000000000000001,150500.0,CERF
 Malawi,2024,Underfunded Emergencies,33774,CERF-MWI-24-UF-FAO-33774,Multi-Purpose Cash,Multi-Purpose Cash,93.0,1999500.0,CERF
+Malawi,2024,Underfunded Emergencies,33776,CERF-MWI-24-UF-CEF-33776,Education,Education,33.0000000705182,561557.16,CERF
+Malawi,2024,Underfunded Emergencies,33776,CERF-MWI-24-UF-CEF-33776,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",27.000000164542463,459455.86,CERF
+Malawi,2024,Underfunded Emergencies,33776,CERF-MWI-24-UF-CEF-33776,Nutrition,Nutrition,39.99999976493933,680675.34,CERF
 Republic of the Sudan,2024,Rapid Response,33777,CERF-SDN-24-RR-HCR-33777,Protection,Protection,100.0,2000000.0,CERF
 Republic of the Sudan,2024,Rapid Response,33778,CERF-SDN-24-RR-CEF-33778,Protection,Protection,3.9999999847132006,313996.41,CERF
 Republic of the Sudan,2024,Rapid Response,33778,CERF-SDN-24-RR-CEF-33778,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",29.999999949044003,2354973.08,CERF
@@ -9237,6 +9240,7 @@ Ethiopia,2024,Underfunded Emergencies,33876,CERF-ETH-24-UF-CEF-33876,Nutrition,N
 Ethiopia,2024,Underfunded Emergencies,33876,CERF-ETH-24-UF-CEF-33876,Protection,Protection,15.140000111377741,340650.11,CERF
 Ethiopia,2024,Underfunded Emergencies,33877,CERF-ETH-24-UF-FPA-33877,Protection,Protection,100.0,1200099.33,CERF
 Ethiopia,2024,Underfunded Emergencies,33879,CERF-ETH-24-UF-WOM-33879,Protection,Protection,100.0,800000.48,CERF
+Myanmar,2024,Underfunded Emergencies,33882,CERF-MMR-24-UF-FAO-33882,Agriculture,Agriculture,100.0,1000000.0,CERF
 Myanmar,2024,Underfunded Emergencies,33883,CERF-MMR-24-UF-FPA-33883,Protection,Protection,50.0,499999.98,CERF
 Myanmar,2024,Underfunded Emergencies,33883,CERF-MMR-24-UF-FPA-33883,Health,Health,50.0,499999.98,CERF
 Nigeria,2024,Rapid Response,33917,CERF-NGA-24-RR-CEF-33917,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",37.00000051200013,289062.43,CERF
@@ -9301,6 +9305,7 @@ Somalia,2024,Rapid Response,34235,CERF-SOM-24-RR-FAO-34235,Agriculture,Agricultu
 Somalia,2024,Rapid Response,34236,CERF-SOM-24-RR-WFP-34236,Food Aid,Food Aid,100.0,1000125.44,CERF
 Somalia,2024,Rapid Response,34237,CERF-SOM-24-RR-CEF-34237,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,2000000.09,CERF
 Mali,2024,Underfunded Emergencies,34240,CERF-MLI-24-UF-WFP-34240,Food Aid,Food Aid,100.0,750000.46,CERF
+Haiti,2024,Underfunded Emergencies,34272,CERF-HTI-24-UF-WFP-34272,Agriculture,Agriculture,100.0,500289.08,CERF
 Philippines,2024,Rapid Response,34293,CERF-PHL-24-RR-FPA-34293,Health,Health,28.999999999999996,116000.0,CERF
 Philippines,2024,Rapid Response,34293,CERF-PHL-24-RR-FPA-34293,Protection,Protection,71.0,284000.0,CERF
 Philippines,2024,Rapid Response,34295,CERF-PHL-24-RR-FAO-34295,Agriculture,Agriculture,100.0,400000.0,CERF
@@ -9324,11 +9329,11 @@ Chad,2024,Rapid Response,34541,CERF-TCD-24-RR-HCR-34541,Shelter and Non-Food Ite
 Chad,2024,Rapid Response,34542,CERF-TCD-24-RR-WHO-34542,Health,Health,100.0,1000002.74,CERF
 Chad,2024,Rapid Response,34543,CERF-TCD-24-RR-CEF-34543,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1500008.93,CERF
 Burundi,2024,Underfunded Emergencies,34603,CERF-BDI-24-UF-1406(TBD),To be determined,To be determined,100.0,5499999.96,CERF
-Malawi,2024,Underfunded Emergencies,34604,CERF-MWI-24-UF-1408(TBD),To be determined,To be determined,100.0,2450000.0,CERF
+Malawi,2024,Underfunded Emergencies,34604,CERF-MWI-24-UF-1408(TBD),To be determined,To be determined,100.0,748311.64,CERF
 Mozambique,2024,Underfunded Emergencies,34605,CERF-MOZ-24-UF-1409(TBD),To be determined,To be determined,100.0,2999998.78,CERF
 Ethiopia,2024,Underfunded Emergencies,34606,CERF-ETH-24-UF-1413(TBD),To be determined,To be determined,100.0,5249899.48,CERF
-Myanmar,2024,Underfunded Emergencies,34607,CERF-MMR-24-UF-1414(TBD),To be determined,To be determined,100.0,12000000.04,CERF
-Haiti,2024,Underfunded Emergencies,34608,CERF-HTI-24-UF-1415(TBD),To be determined,To be determined,100.0,10500000.0,CERF
+Myanmar,2024,Underfunded Emergencies,34607,CERF-MMR-24-UF-1414(TBD),To be determined,To be determined,100.0,11000000.04,CERF
+Haiti,2024,Underfunded Emergencies,34608,CERF-HTI-24-UF-1415(TBD),To be determined,To be determined,100.0,9999710.92,CERF
 Syrian Arab Republic,2024,Rapid Response,34609,CERF-SYR-24-RR-1428(TBD),To be determined,To be determined,100.0,12000000.0,CERF
 Vanuatu,2024,Rapid Response,34610,CERF-VUT-24-RR-1441(TBD),To be determined,To be determined,100.0,1000000.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
@@ -21246,6 +21251,8 @@ South Sudan,2024,Reserve,33961,CBPF-SSD-24-R-UN-33961,Health,,100.0,499991.04,CB
 South Sudan,2024,Reserve,33971,CBPF-SSD-24-R-UN-33971,Emergency Shelter and NFI,,40.0,428185.2,CBPF
 South Sudan,2024,Reserve,33971,CBPF-SSD-24-R-UN-33971,"Water, Sanitation and Hygiene",,60.0,642277.8,CBPF
 South Sudan,2024,Reserve,34501,CBPF-SSD-24-R-UN-34501,"Water, Sanitation and Hygiene",,100.0,1899615.0,CBPF
+South Sudan,2024,Reserve,34520,CBPF-SSD-24-R-UN-34520,Health,,71.0,426000.0,CBPF
+South Sudan,2024,Reserve,34520,CBPF-SSD-24-R-UN-34520,"Water, Sanitation and Hygiene",,29.0,174000.0,CBPF
 South Sudan,2024,Reserve,34528,CBPF-SSD-24-R-UN-34528,Health,,100.0,1229030.64,CBPF
 South Sudan,2024,Reserve,34529,CBPF-SSD-24-R-UN-34529,Logistics,,100.0,800000.01,CBPF
 South Sudan,2024,Standard,32726,CBPF-SSD-24-S-INGO-32726,Food Security,,100.0,375000.0,CBPF
@@ -23256,6 +23263,14 @@ Sudan,2024,Reserve,34038,CBPF-SUD-24-R-INGO-34038,Nutrition,,15.0,329999.7495,CB
 Sudan,2024,Reserve,34081,CBPF-SUD-24-R-INGO-34081,Food Security,,100.0,3728971.75,CBPF
 Sudan,2024,Reserve,34420,CBPF-SUD-24-R-INGO-34420,Emergency Shelter and NFI,,50.0,3000000.0,CBPF
 Sudan,2024,Reserve,34420,CBPF-SUD-24-R-INGO-34420,"Water, Sanitation and Hygiene",,50.0,3000000.0,CBPF
+Sudan,2024,Reserve,34448,CBPF-SUD-24-R-INGO-34448,Food Security,,70.0,725200.0,CBPF
+Sudan,2024,Reserve,34448,CBPF-SUD-24-R-INGO-34448,Protection,,10.0,103600.0,CBPF
+Sudan,2024,Reserve,34448,CBPF-SUD-24-R-INGO-34448,"Water, Sanitation and Hygiene",,20.0,207200.0,CBPF
+Sudan,2024,Reserve,34451,CBPF-SUD-24-R-INGO-34451,Protection,,100.0,1070000.0,CBPF
+Sudan,2024,Reserve,34474,CBPF-SUD-24-R-INGO-34474,Food Security,,34.0,507104.1248,CBPF
+Sudan,2024,Reserve,34474,CBPF-SUD-24-R-INGO-34474,Health,,22.0,328126.1984,CBPF
+Sudan,2024,Reserve,34474,CBPF-SUD-24-R-INGO-34474,Nutrition,,22.0,328126.1984,CBPF
+Sudan,2024,Reserve,34474,CBPF-SUD-24-R-INGO-34474,"Water, Sanitation and Hygiene",,22.0,328126.1984,CBPF
 Sudan,2024,Reserve,34511,CBPF-SUD-24-R-INGO-34511,Protection,,100.0,427929.55,CBPF
 Sudan,2024,Reserve,33543,CBPF-SUD-24-R-NGO-33543,Protection,,30.0,128320.233,CBPF
 Sudan,2024,Reserve,33543,CBPF-SUD-24-R-NGO-33543,Protection,,30.0,128320.233,CBPF
@@ -25628,13 +25643,22 @@ Syria Cross border,2023,Standard,26840,CBPF-TUR-23-S-NGO-26840,"Water, Sanitatio
 Syria Cross border,2023,Standard,26781,CBPF-TUR-23-S-O-26781,Nutrition,,100.0,574632.32,CBPF
 Syria Cross border,2023,Standard,26783,CBPF-TUR-23-S-UN-26783,Health,,100.0,399895.16,CBPF
 Syria Cross border,2024,Reserve,34247,CBPF-TUR-24-R-INGO-34247,Camp Coordination / Management,,100.0,696698.36,CBPF
+Syria Cross border,2024,Reserve,34248,CBPF-TUR-24-R-INGO-34248,Health,,100.0,666551.6,CBPF
 Syria Cross border,2024,Reserve,34252,CBPF-TUR-24-R-INGO-34252,Emergency Shelter and NFI,,93.0,651000.0,CBPF
 Syria Cross border,2024,Reserve,34252,CBPF-TUR-24-R-INGO-34252,"Water, Sanitation and Hygiene",,7.0,49000.0,CBPF
 Syria Cross border,2024,Reserve,34257,CBPF-TUR-24-R-INGO-34257,Early Recovery,,100.0,335017.3,CBPF
+Syria Cross border,2024,Reserve,34340,CBPF-TUR-24-R-INGO-34340,Multi-purpose CASH,,100.0,995629.03,CBPF
 Syria Cross border,2024,Reserve,34251,CBPF-TUR-24-R-NGO-34251,Camp Coordination / Management,,20.0,139976.886,CBPF
 Syria Cross border,2024,Reserve,34251,CBPF-TUR-24-R-NGO-34251,Early Recovery,,23.0,160973.4189,CBPF
 Syria Cross border,2024,Reserve,34251,CBPF-TUR-24-R-NGO-34251,"Water, Sanitation and Hygiene",,57.0,398934.1251,CBPF
+Syria Cross border,2024,Reserve,34253,CBPF-TUR-24-R-NGO-34253,Multi-purpose CASH,,100.0,772581.89,CBPF
+Syria Cross border,2024,Reserve,34254,CBPF-TUR-24-R-NGO-34254,Camp Coordination / Management,,20.0,88172.464,CBPF
+Syria Cross border,2024,Reserve,34254,CBPF-TUR-24-R-NGO-34254,"Water, Sanitation and Hygiene",,80.0,352689.856,CBPF
 Syria Cross border,2024,Reserve,34267,CBPF-TUR-24-R-NGO-34267,Early Recovery,,100.0,457418.73,CBPF
+Syria Cross border,2024,Reserve,34273,CBPF-TUR-24-R-NGO-34273,Camp Coordination / Management,,32.0,221539.6832,CBPF
+Syria Cross border,2024,Reserve,34273,CBPF-TUR-24-R-NGO-34273,Early Recovery,,18.0,124616.0718,CBPF
+Syria Cross border,2024,Reserve,34273,CBPF-TUR-24-R-NGO-34273,"Water, Sanitation and Hygiene",,50.0,346155.755,CBPF
+Syria Cross border,2024,Reserve,34276,CBPF-TUR-24-R-NGO-34276,Health,,100.0,794389.46,CBPF
 Syria Cross border,2024,Reserve,34284,CBPF-TUR-24-R-NGO-34284,Emergency Shelter and NFI,,45.0,314949.96,CBPF
 Syria Cross border,2024,Reserve,34284,CBPF-TUR-24-R-NGO-34284,"Water, Sanitation and Hygiene",,55.0,384938.84,CBPF
 Syria Cross border,2024,Reserve,34287,CBPF-TUR-24-R-NGO-34287,Education,,100.0,619491.07,CBPF
@@ -25643,6 +25667,11 @@ Syria Cross border,2024,Reserve,34326,CBPF-TUR-24-R-NGO-34326,Camp Coordination 
 Syria Cross border,2024,Reserve,34326,CBPF-TUR-24-R-NGO-34326,"Water, Sanitation and Hygiene",,15.0,75000.0,CBPF
 Syria Cross border,2024,Reserve,34327,CBPF-TUR-24-R-NGO-34327,Emergency Shelter and NFI,,85.0,594887.6895,CBPF
 Syria Cross border,2024,Reserve,34327,CBPF-TUR-24-R-NGO-34327,"Water, Sanitation and Hygiene",,15.0,104980.1805,CBPF
+Syria Cross border,2024,Reserve,34328,CBPF-TUR-24-R-NGO-34328,Health,,100.0,1194927.28,CBPF
+Syria Cross border,2024,Reserve,34351,CBPF-TUR-24-R-NGO-34351,Multi-purpose CASH,,100.0,446500.0,CBPF
+Syria Cross border,2024,Reserve,34375,CBPF-TUR-24-R-NGO-34375,Education,,65.0,519023.973,CBPF
+Syria Cross border,2024,Reserve,34375,CBPF-TUR-24-R-NGO-34375,"Water, Sanitation and Hygiene",,35.0,279474.447,CBPF
+Syria Cross border,2024,Reserve,34265,CBPF-TUR-24-R-UN-34265,Early Recovery,,100.0,772004.98,CBPF
 Syria Cross border,2024,Standard,32967,CBPF-TUR-24-S-INGO-32967,Food Security,,100.0,707792.8,CBPF
 Syria Cross border,2024,Standard,33028,CBPF-TUR-24-S-INGO-33028,Education,,100.0,1235000.0,CBPF
 Syria Cross border,2024,Standard,33032,CBPF-TUR-24-S-INGO-33032,Camp Coordination / Management,,7.0,104998.3165,CBPF
