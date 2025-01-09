@@ -9342,7 +9342,7 @@ Ethiopia,2024,Underfunded Emergencies,34604,CERF-ETH-24-UF-1413(TBD),To be deter
 Myanmar,2024,Underfunded Emergencies,34605,CERF-MMR-24-UF-1414(TBD),To be determined,To be determined,100.0,499999.32,CERF
 Haiti,2024,Underfunded Emergencies,34606,CERF-HTI-24-UF-1415(TBD),To be determined,To be determined,100.0,7999711.64,CERF
 Syrian Arab Republic,2024,Rapid Response,34607,CERF-SYR-24-RR-1428(TBD),To be determined,To be determined,100.0,12000000.0,CERF
-Vanuatu,2024,Rapid Response,34608,CERF-VUT-24-RR-1441(TBD),To be determined,To be determined,100.0,1000000.0,CERF
+Vanuatu,2024,Rapid Response,34608,CERF-VUT-24-RR-1441(TBD),To be determined,To be determined,30.000204999999998,300002.05,CERF
 Eritrea,2024,Rapid Response,34609,CERF-ERI-24-RR-1442(TBD),To be determined,To be determined,100.0,500000.0,CERF
 Ethiopia,2025,Underfunded Emergencies,33866,CERF-ETH-24-UF-IOM-33866,Camp Coordination and Camp Management,Camp Coordination and Camp Management,36.0,360000.0,CERF
 Ethiopia,2025,Underfunded Emergencies,33866,CERF-ETH-24-UF-IOM-33866,Shelter and Non-Food Items,Shelter and Non-Food Items,64.0,640000.0,CERF
@@ -9355,6 +9355,10 @@ Myanmar,2025,Underfunded Emergencies,33887,CERF-MMR-24-UF-WFP-33887,Multi-Purpos
 Myanmar,2025,Underfunded Emergencies,33887,CERF-MMR-24-UF-WFP-33887,Food Aid,Food Aid,60.0,1200000.0,CERF
 Haiti,2025,Underfunded Emergencies,33898,CERF-HTI-24-UF-WFP-33898,Food Aid,Food Aid,100.0,1999999.28,CERF
 Burundi,2025,Underfunded Emergencies,34357,CERF-BDI-24-UF-FAO-34357,Agriculture,Agriculture,100.0,1000000.6,CERF
+Vanuatu,2025,Rapid Response,34599,CERF-VUT-24-RR-CEF-34599,Protection,Protection,27.0,148500.0,CERF
+Vanuatu,2025,Rapid Response,34599,CERF-VUT-24-RR-CEF-34599,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",73.0,401500.0,CERF
+Vanuatu,2025,Rapid Response,34600,CERF-VUT-24-RR-FPA-34600,Protection,Protection,37.99999933332422,56999.22,CERF
+Vanuatu,2025,Rapid Response,34600,CERF-VUT-24-RR-FPA-34600,Health,Health,62.00000066667577,92998.73,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
