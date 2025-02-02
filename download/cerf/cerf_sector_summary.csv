@@ -9237,12 +9237,14 @@ Ethiopia,2024,Underfunded Emergencies,33870,CERF-ETH-24-UF-OPS-33870,Early Recov
 Ethiopia,2024,Underfunded Emergencies,33872,CERF-ETH-24-UF-WFP-33872,Common Services,Common Services,28.57,999950.0
 Ethiopia,2024,Underfunded Emergencies,33872,CERF-ETH-24-UF-WFP-33872,Food Aid,Food Aid,28.57,999950.0
 Ethiopia,2024,Underfunded Emergencies,33872,CERF-ETH-24-UF-WFP-33872,Common Services,Common Services,42.86,1500100.0
+Ethiopia,2024,Underfunded Emergencies,33875,CERF-ETH-24-UF-WHO-33875,Health,Health,100.0,2249622.79
 Ethiopia,2024,Underfunded Emergencies,33876,CERF-ETH-24-UF-CEF-33876,Health,Health,13.339999790488957,300150.09
 Ethiopia,2024,Underfunded Emergencies,33876,CERF-ETH-24-UF-CEF-33876,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",42.22000001057778,949950.3
 Ethiopia,2024,Underfunded Emergencies,33876,CERF-ETH-24-UF-CEF-33876,Education,Education,16.830000022533326,378675.12
 Ethiopia,2024,Underfunded Emergencies,33876,CERF-ETH-24-UF-CEF-33876,Nutrition,Nutrition,12.470000065022203,280575.09
 Ethiopia,2024,Underfunded Emergencies,33876,CERF-ETH-24-UF-CEF-33876,Protection,Protection,15.140000111377741,340650.11
 Ethiopia,2024,Underfunded Emergencies,33877,CERF-ETH-24-UF-FPA-33877,Protection,Protection,100.0,1200099.33
+Ethiopia,2024,Underfunded Emergencies,33878,CERF-ETH-24-UF-CHR-33878,Protection,Protection,100.0,499966.06
 Ethiopia,2024,Underfunded Emergencies,33879,CERF-ETH-24-UF-WOM-33879,Protection,Protection,100.0,800000.48
 Myanmar,2024,Underfunded Emergencies,33882,CERF-MMR-24-UF-FAO-33882,Agriculture,Agriculture,100.0,1000000.0
 Myanmar,2024,Underfunded Emergencies,33883,CERF-MMR-24-UF-FPA-33883,Protection,Protection,50.0,499999.98
@@ -9337,13 +9339,11 @@ Guinea,2024,Rapid Response,34366,CERF-GIN-24-RR-WHO-34366,Health,Health,100.0,47
 Chad,2024,Rapid Response,34541,CERF-TCD-24-RR-HCR-34541,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,2500039.58
 Chad,2024,Rapid Response,34542,CERF-TCD-24-RR-WHO-34542,Health,Health,100.0,1000002.74
 Chad,2024,Rapid Response,34543,CERF-TCD-24-RR-CEF-34543,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1500008.93
-Burundi,2024,Underfunded Emergencies,34624,CERF-BDI-24-UF-1406(TBD),To be determined,To be determined,100.0,4000951.36
-Ethiopia,2024,Underfunded Emergencies,34625,CERF-ETH-24-UF-1413(TBD),To be determined,To be determined,100.0,4249899.48
-Myanmar,2024,Underfunded Emergencies,34626,CERF-MMR-24-UF-1414(TBD),To be determined,To be determined,100.0,499999.32
-Haiti,2024,Underfunded Emergencies,34627,CERF-HTI-24-UF-1415(TBD),To be determined,To be determined,100.0,7999711.64
-Syrian Arab Republic,2024,Rapid Response,34628,CERF-SYR-24-RR-1428(TBD),To be determined,To be determined,100.0,12000000.0
-Vanuatu,2024,Rapid Response,34629,CERF-VUT-24-RR-1441(TBD),To be determined,To be determined,100.0,300002.05
-Eritrea,2024,Rapid Response,34630,CERF-ERI-24-RR-1442(TBD),To be determined,To be determined,100.0,500000.0
+Burundi,2024,Underfunded Emergencies,34751,CERF-BDI-24-UF-1406(TBD),To be determined,To be determined,100.0,1500753.26
+Ethiopia,2024,Underfunded Emergencies,34752,CERF-ETH-24-UF-1413(TBD),To be determined,To be determined,100.0,1500310.63
+Syrian Arab Republic,2024,Rapid Response,34753,CERF-SYR-24-RR-1428(TBD),To be determined,To be determined,100.0,20000000.0
+Burundi,2025,Underfunded Emergencies,33613,CERF-BDI-24-UF-WFP-33613,Food Aid,Food Aid,100.0,2000197.8
+Burundi,2025,Underfunded Emergencies,33863,CERF-BDI-24-UF-FAO-33863,Agriculture,Agriculture,100.0,500000.3
 Ethiopia,2025,Underfunded Emergencies,33866,CERF-ETH-24-UF-IOM-33866,Camp Coordination and Camp Management,Camp Coordination and Camp Management,36.0,360000.0
 Ethiopia,2025,Underfunded Emergencies,33866,CERF-ETH-24-UF-IOM-33866,Shelter and Non-Food Items,Shelter and Non-Food Items,64.0,640000.0
 Myanmar,2025,Underfunded Emergencies,33886,CERF-MMR-24-UF-CEF-33886,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",28.999999991176473,986000.02
@@ -9353,9 +9353,36 @@ Myanmar,2025,Underfunded Emergencies,33886,CERF-MMR-24-UF-CEF-33886,Education,Ed
 Myanmar,2025,Underfunded Emergencies,33886,CERF-MMR-24-UF-CEF-33886,Protection,Protection,11.00000006764706,374000.01
 Myanmar,2025,Underfunded Emergencies,33887,CERF-MMR-24-UF-WFP-33887,Multi-Purpose Cash,Multi-Purpose Cash,40.0,800000.0
 Myanmar,2025,Underfunded Emergencies,33887,CERF-MMR-24-UF-WFP-33887,Food Aid,Food Aid,60.0,1200000.0
+Haiti,2025,Underfunded Emergencies,33895,CERF-HTI-24-UF-WHO-33895,Health,Health,55.559999999999995,750060.0
+Haiti,2025,Underfunded Emergencies,33895,CERF-HTI-24-UF-WHO-33895,Nutrition,Nutrition,44.440000000000005,599940.0
+Haiti,2025,Underfunded Emergencies,33897,CERF-HTI-24-UF-CEF-33897,Protection,Protection,44.0,1100000.0
+Haiti,2025,Underfunded Emergencies,33897,CERF-HTI-24-UF-CEF-33897,Nutrition,Nutrition,56.00000000000001,1400000.0
 Haiti,2025,Underfunded Emergencies,33898,CERF-HTI-24-UF-WFP-33898,Food Aid,Food Aid,100.0,1999999.28
+Haiti,2025,Underfunded Emergencies,33899,CERF-HTI-24-UF-IOM-33899,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100.0,900000.05
+Haiti,2025,Underfunded Emergencies,33900,CERF-HTI-24-UF-CHR-33900,Protection,Protection,100.0,943472.5
+Haiti,2025,Underfunded Emergencies,33901,CERF-HTI-24-UF-FPA-33901,Protection,Protection,100.0,1300005.06
+Haiti,2025,Underfunded Emergencies,34271,CERF-HTI-24-UF-FAO-34271,Agriculture,Agriculture,100.0,1000000.0
+Myanmar,2025,Underfunded Emergencies,34288,CERF-MMR-24-UF-IOM-34288,Shelter and Non-Food Items,Shelter and Non-Food Items,60.0,300000.0
+Myanmar,2025,Underfunded Emergencies,34288,CERF-MMR-24-UF-IOM-34288,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",40.0,200000.0
 Burundi,2025,Underfunded Emergencies,34357,CERF-BDI-24-UF-FAO-34357,Agriculture,Agriculture,100.0,1000000.6
+Mozambique,2025,Rapid Response,34566,CERF-MOZ-24-RR-IOM-34566,Camp Coordination and Camp Management,Camp Coordination and Camp Management,22.00000007490634,234960.08
+Mozambique,2025,Rapid Response,34566,CERF-MOZ-24-RR-IOM-34566,Shelter and Non-Food Items,Shelter and Non-Food Items,77.99999992509366,833040.28
+Mozambique,2025,Rapid Response,34567,CERF-MOZ-24-RR-WFP-34567,Common Services,Common Services,3.999999925091495,42718.78
+Mozambique,2025,Rapid Response,34567,CERF-MOZ-24-RR-WFP-34567,Food Aid,Food Aid,96.0000000749085,1025250.74
+Mozambique,2025,Rapid Response,34568,CERF-MOZ-24-RR-CEF-34568,Protection,Protection,5.000000107142875,69999.99
+Mozambique,2025,Rapid Response,34568,CERF-MOZ-24-RR-CEF-34568,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",62.00000018571431,867999.86
+Mozambique,2025,Rapid Response,34568,CERF-MOZ-24-RR-CEF-34568,Health,Health,32.999999707142806,461999.92
+Mozambique,2025,Rapid Response,34569,CERF-MOZ-24-RR-FPA-34569,Protection,Protection,42.99999995689656,199520.06
+Mozambique,2025,Rapid Response,34569,CERF-MOZ-24-RR-FPA-34569,Health,Health,57.00000004310344,264480.08
+Egypt,2025,Rapid Response,34586,CERF-EGY-24-RR-FPA-34586,Protection,Protection,100.0,500070.32
+Egypt,2025,Rapid Response,34589,CERF-EGY-24-RR-WFP-34589,Food Aid,Food Aid,100.0,2000000.0
+Egypt,2025,Rapid Response,34593,CERF-EGY-24-RR-CEF-34593,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1001222.22
+Egypt,2025,Rapid Response,34594,CERF-EGY-24-RR-HCR-34594,Multi-Purpose Cash,Multi-Purpose Cash,100.0,2499938.4
 Vanuatu,2025,Rapid Response,34599,CERF-VUT-24-RR-CEF-34599,Protection,Protection,27.0,148500.0
 Vanuatu,2025,Rapid Response,34599,CERF-VUT-24-RR-CEF-34599,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",73.0,401500.0
 Vanuatu,2025,Rapid Response,34600,CERF-VUT-24-RR-FPA-34600,Protection,Protection,37.99999933332422,56999.22
 Vanuatu,2025,Rapid Response,34600,CERF-VUT-24-RR-FPA-34600,Health,Health,62.00000066667577,92998.73
+Vanuatu,2025,Rapid Response,34602,CERF-VUT-24-RR-IOM-34602,Camp Coordination and Camp Management,Camp Coordination and Camp Management,50.0,150000.09
+Vanuatu,2025,Rapid Response,34602,CERF-VUT-24-RR-IOM-34602,Shelter and Non-Food Items,Shelter and Non-Food Items,50.0,150000.09
+Eritrea,2025,Rapid Response,34623,CERF-ERI-24-RR-FAO-34623,Agriculture,Agriculture,100.0,500088.04
+Democratic Republic of the Congo,2025,Rapid Response,34754,CERF-COD-25-RR-1444(TBD),To be determined,To be determined,100.0,17000000.0
