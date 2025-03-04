@@ -1523,7 +1523,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2025,Member State,0.0,50000.0,Singapore,SG,Member State,0,0,0,0,0,0
 2025,Member State,0.0,20000.0,Zimbabwe,ZW,Member State,0,0,0,0,0,0
 2025,Member State,256950.0,0.0,Portugal,PT,Member State,0,0,0,0,0,0
-2025,Private Contributions,0.0,1000.0,"Private donations outside UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
+2025,Private Contributions,1000.0,0.0,"Private donations outside UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
 2025,Private Contributions,166358.03,0.0,"Private donations through UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
 2025,Member State,0.0,66581306.017900005,United Kingdom,GB,Member State,0,0,0,0,0,0
 2025,Member State,37016000.0,22321428.5714,Netherlands,NL,Member State,0,0,0,0,0,0
@@ -1548,12 +1548,13 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2025,Member State,0.0,1500.0,Bhutan,BT,Member State,0,0,0,0,0,0
 2025,Member State,0.0,105485.23,Croatia,HR,Member State,0,0,0,0,0,0
 2025,Member State,62578.22,0.0,Czech Republic,CZ,Member State,0,0,0,0,0,0
+2025,Member State,2599250.0,0.0,Germany,DE,Member State,0,0,0,0,0,0
 2025,Member State,0.0,105485.2321,Greece,GR,Member State,0,0,0,0,0,0
 2025,Member State,0.0,50000.0,Guyana,GY,Member State,0,0,0,0,0,0
 2025,Member State,1000000.0,0.0,Kuwait,KW,Member State,0,0,0,0,0,0
 2025,Member State,0.0,340136.0544,Liechtenstein,LI,Member State,0,0,0,0,0,0
 2025,Member State,9924.0,0.0,Montenegro,ME,Member State,0,0,0,0,0,0
-2025,Member State,0.0,50000.0,Morocco,MA,Member State,0,0,0,0,0,0
+2025,Member State,50000.0,0.0,Morocco,MA,Member State,0,0,0,0,0,0
 2025,Member State,314250.0,0.0,Portugal,PT,Member State,0,0,0,0,0,0
 2025,Member State,0.0,1000000.0,Qatar,QA,Member State,0,0,0,0,0,0
 2025,Private Contributions,0.0,2000000.0,Qatar Charity,XPRV,Private Contributions,0,0,0,0,0,0
