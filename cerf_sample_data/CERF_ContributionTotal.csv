@@ -1517,23 +1517,26 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2024,Member State,887442.69,0.0,Poland,PL,Member State,0,0,0,0,0,0
 2024,Member State,10000.0,0.0,Vietnam,VN,Member State,0,0,0,0,0,0
 2025,Member State,0.0,877385.3915,Iceland,IS,Member State,0,0,0,0,0,0
-2025,Member State,6764990.78,1564455.5695,Australia,AU,Member State,0,0,0,0,0,0
+2025,Member State,8331481.380000001,0.0,Australia,AU,Member State,0,0,0,0,0,0
 2025,Member State,100000.0,0.0,Azerbaijan,AZ,Member State,0,0,0,0,0,0
 2025,Member State,300000.0,0.0,Oman,OM,Member State,0,0,0,0,0,0
 2025,Member State,0.0,50000.0,Singapore,SG,Member State,0,0,0,0,0,0
 2025,Member State,0.0,20000.0,Zimbabwe,ZW,Member State,0,0,0,0,0,0
+2025,Member State,256950.0,0.0,Portugal,PT,Member State,0,0,0,0,0,0
+2025,Private Contributions,0.0,1000.0,"Private donations outside UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
+2025,Private Contributions,166358.03,0.0,"Private donations through UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
 2025,Member State,0.0,66581306.017900005,United Kingdom,GB,Member State,0,0,0,0,0,0
 2025,Member State,37016000.0,22321428.5714,Netherlands,NL,Member State,0,0,0,0,0,0
-2025,Member State,0.0,27608253.4147,Denmark,DK,Member State,0,0,0,0,0,0
+2025,Member State,26707899.92,0.0,Denmark,DK,Member State,0,0,0,0,0,0
 2025,Member State,0.0,21397379.9127,Canada,CA,Member State,0,0,0,0,0,0
 2025,Member State,277775.0,0.0,Portugal,PT,Member State,0,0,0,0,0,0
-2025,Member State,0.0,11086474.5011,Germany,DE,Member State,0,0,0,0,0,0
+2025,Member State,10486000.0,0.0,Germany,DE,Member State,0,0,0,0,0,0
 2025,Member State,108530.0,0.0,Lithuania,LT,Member State,0,0,0,0,0,0
 2025,Member State,0.0,200000.0,Philippines,PH,Member State,0,0,0,0,0,0
 2025,Member State,0.0,1500000.0,Russian Federation,RU,Member State,0,0,0,0,0,0
-2025,Member State,0.0,88993453.3551,Sweden,SE,Member State,0,0,0,0,0,0
+2025,Member State,9331776.7,77303016.1328,Sweden,SE,Member State,0,0,0,0,0,0
 2025,Member State,0.0,30000.0,Cambodia,KH,Member State,0,0,0,0,0,0
-2025,Member State,0.0,5422993.4924,Luxembourg,LU,Member State,0,0,0,0,0,0
+2025,Member State,5155500.0,0.0,Luxembourg,LU,Member State,0,0,0,0,0,0
 2025,Member State,42096.0,0.0,Malta,MT,Member State,0,0,0,0,0,0
 2025,Member State,0.0,10000.0,Mongolia,MN,Member State,0,0,0,0,0,0
 2025,Member State,39977242.38,0.0,Norway,NO,Member State,0,0,0,0,0,0
@@ -1550,9 +1553,14 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2025,Member State,1000000.0,0.0,Kuwait,KW,Member State,0,0,0,0,0,0
 2025,Member State,0.0,340136.0544,Liechtenstein,LI,Member State,0,0,0,0,0,0
 2025,Member State,9924.0,0.0,Montenegro,ME,Member State,0,0,0,0,0,0
+2025,Member State,0.0,50000.0,Morocco,MA,Member State,0,0,0,0,0,0
 2025,Member State,314250.0,0.0,Portugal,PT,Member State,0,0,0,0,0,0
+2025,Member State,0.0,1000000.0,Qatar,QA,Member State,0,0,0,0,0,0
+2025,Private Contributions,0.0,2000000.0,Qatar Charity,XPRV,Private Contributions,0,0,0,0,0,0
 2025,Member State,0.0,104931.7943,Slovenia,SI,Member State,0,0,0,0,0,0
 2026,Member State,0.0,877385.3915,Iceland,IS,Member State,0,0,0,0,0,0
+2026,Member State,0.0,1000000.0,Qatar,QA,Member State,0,0,0,0,0,0
+2026,Private Contributions,0.0,2000000.0,Qatar Charity,XPRV,Private Contributions,0,0,0,0,0,0
 2026,Member State,0.0,27608253.4147,Denmark,DK,Member State,0,0,0,0,0,0
 2026,Member State,0.0,21397379.9127,Canada,CA,Member State,0,0,0,0,0,0
 2026,Member State,0.0,11086474.5011,Germany,DE,Member State,0,0,0,0,0,0
@@ -1561,4 +1569,5 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2026,Member State,0.0,1000000.0,Saudi Arabia,SA,Member State,0,0,0,0,0,0
 2027,Member State,0.0,27608253.4147,Denmark,DK,Member State,0,0,0,0,0,0
 2027,Member State,0.0,877385.3915,Iceland,IS,Member State,0,0,0,0,0,0
+2027,Private Contributions,0.0,2000000.0,Qatar Charity,XPRV,Private Contributions,0,0,0,0,0,0
 2028,Member State,0.0,877385.3915,Iceland,IS,Member State,0,0,0,0,0,0
