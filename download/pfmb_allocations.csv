@@ -9349,6 +9349,7 @@ Ethiopia,2024,Underfunded Emergencies,34241,CERF-ETH-24-UF-IOM-34241,Camp Coordi
 Ethiopia,2024,Underfunded Emergencies,34242,CERF-ETH-24-UF-FAO-34242,Agriculture,Agriculture,100.0,500000.0,CERF
 Haiti,2024,Underfunded Emergencies,34271,CERF-HTI-24-UF-FAO-34271,Agriculture,Agriculture,100.0,1000000.0,CERF
 Haiti,2024,Underfunded Emergencies,34272,CERF-HTI-24-UF-WFP-34272,Agriculture,Agriculture,100.0,500289.08,CERF
+Syrian Arab Republic,2024,Rapid Response,34282,CERF-SYR-24-RR-WHO-34282,Health,Health,100.0,3050479.05,CERF
 Myanmar,2024,Underfunded Emergencies,34288,CERF-MMR-24-UF-IOM-34288,Shelter and Non-Food Items,Shelter and Non-Food Items,60.0,300000.0,CERF
 Myanmar,2024,Underfunded Emergencies,34288,CERF-MMR-24-UF-IOM-34288,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",40.0,200000.0,CERF
 Philippines,2024,Rapid Response,34293,CERF-PHL-24-RR-FPA-34293,Health,Health,28.999999999999996,116000.0,CERF
@@ -9398,7 +9399,6 @@ Eritrea,2024,Rapid Response,34623,CERF-ERI-24-RR-FAO-34623,Agriculture,Agricultu
 Syrian Arab Republic,2024,Rapid Response,34749,CERF-SYR-24-RR-MAS-34749,Protection,Protection,100.0,3000000.28,CERF
 Syrian Arab Republic,2024,Rapid Response,34750,CERF-SYR-24-RR-IOM-34750,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100.0,1499999.83,CERF
 Haiti,2024,Rapid Response,34929,CERF-HTI-24-RR-1399(TBD),To be determined,To be determined,0,0.0,CERF
-Syrian Arab Republic,2024,Rapid Response,34930,CERF-SYR-24-RR-1428(TBD),To be determined,To be determined,100.0,3177291.3,CERF
 Colombia,2025,Rapid Response,34828,CERF-COL-25-RR-HCR-34828,Protection,Protection,45.00000045,450000.0,CERF
 Colombia,2025,Rapid Response,34828,CERF-COL-25-RR-HCR-34828,Shelter and Non-Food Items,Shelter and Non-Food Items,54.99999955,549999.99,CERF
 Colombia,2025,Rapid Response,34829,CERF-COL-25-RR-WFP-34829,Food Aid,Food Aid,100.0,1500000.0,CERF
@@ -9406,8 +9406,8 @@ Colombia,2025,Rapid Response,34830,CERF-COL-25-RR-CEF-34830,Protection,Protectio
 Colombia,2025,Rapid Response,34830,CERF-COL-25-RR-CEF-34830,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",27.00000007690032,351103.87,CERF
 Colombia,2025,Rapid Response,34830,CERF-COL-25-RR-CEF-34830,Education,Education,22.99999992309968,299088.48,CERF
 Colombia,2025,Rapid Response,34830,CERF-COL-25-RR-CEF-34830,Nutrition,Nutrition,21.99999969239872,286084.63,CERF
-Lebanon,2025,Rapid Response,34931,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0,CERF
-Democratic Republic of the Congo,2025,Rapid Response,34932,CERF-COD-25-RR-1444(TBD),To be determined,To be determined,100.0,17000000.0,CERF
+Lebanon,2025,Rapid Response,34930,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0,CERF
+Democratic Republic of the Congo,2025,Rapid Response,34931,CERF-COD-25-RR-1444(TBD),To be determined,To be determined,100.0,17000000.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
