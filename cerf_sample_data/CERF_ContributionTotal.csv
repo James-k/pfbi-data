@@ -1527,7 +1527,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2025,Private Contributions,1000.0,0.0,"Private donations outside UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
 2025,Private Contributions,166358.03,0.0,"Private donations through UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
 2025,Member State,0.0,66581306.017900005,United Kingdom,GB,Member State,0,0,0,0,0,0
-2025,Observer,0.0,5000.0,Holy See (Vatican City State),XHS,Observer,0,0,0,0,0,0
+2025,Observer,5000.0,0.0,Holy See (Vatican City State),XHS,Observer,0,0,0,0,0,0
 2025,Member State,37016000.0,22321428.5714,Netherlands,NL,Member State,0,0,0,0,0,0
 2025,Member State,26707899.92,0.0,Denmark,DK,Member State,0,0,0,0,0,0
 2025,Member State,0.0,21397379.9127,Canada,CA,Member State,0,0,0,0,0,0
