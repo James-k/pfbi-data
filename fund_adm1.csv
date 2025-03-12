@@ -568,8 +568,6 @@ PooledFundId,AllocationSourceId,AllocationYear,AdminLocation1,AdminLocation1Lati
 27,4,2022,Sud-Kivu,-2.500021,28.866667,0,1
 27,4,2022,Tanganyika,-6.255568,29.510771,0,1
 27,4,2023,Ituri,1.562489,30.248427,0,1
-27,3,,Haut-Lomami,-6.683035,25.8,0,1
-27,3,,Lomami,-6.133365,24.483333,0,1
 27,3,,Nord-Kivu,-1.6882,29.2371,0,1
 27,3,,Sud-Kivu,-2.500021,28.866667,0,1
 27,3,2014,Equateur,0.047105,18.271124,0,1
@@ -619,6 +617,8 @@ PooledFundId,AllocationSourceId,AllocationYear,AdminLocation1,AdminLocation1Lati
 27,3,2024,Nord-Kivu,-1.6882,29.2371,0,1
 27,3,2024,Sud-Kivu,-2.500021,28.866667,0,1
 27,3,2024,Tshopo,0.518267,25.187572,0,1
+27,3,2025,Haut-Lomami,-6.683035,25.8,0,1
+27,3,2025,Lomami,-6.133365,24.483333,0,1
 24,3,2016,Me,5.932282,-3.755490982,0,1
 25,3,2016,Guantánamo,0,0,0,1
 25,3,2017,Camaguey,21.3791765,-77.9183681,0,1
@@ -1643,6 +1643,22 @@ PooledFundId,AllocationSourceId,AllocationYear,AdminLocation1,AdminLocation1Lati
 80,3,2020,Gedaref,0,0,0,1
 80,3,2020,Kassala,0,0,0,1
 80,3,2021,West Darfur,12.8463561,23.0011989,0,1
+80,4,,Blue Nile,0,0,0,1
+80,4,,Central Darfur,0,0,0,1
+80,4,,East Darfur,14.3782747,24.9042208,0,1
+80,4,,Gedaref,0,0,0,1
+80,4,,Kassala,0,0,0,1
+80,4,,Khartoum,0,0,0,1
+80,4,,North Darfur,15.7661969,24.9042208,0,1
+80,4,,North Kordofan,13.8306441,29.4179324,0,1
+80,4,,Northern,0,0,0,1
+80,4,,Red Sea,0,0,0,1
+80,4,,Sennar,0,0,0,1
+80,4,,South Darfur,11.6488639,24.9042208,0,1
+80,4,,South Kordofan,11.1990192,29.4179324,0,1
+80,4,,West Darfur,12.8463561,23.0011989,0,1
+80,4,,West Kordofan,11.898719,28.122556,0,1
+80,4,,White Nile,0,0,0,1
 80,3,2024,Blue Nile,0,0,0,1
 80,3,2024,Central Darfur,0,0,0,1
 80,3,2024,East Darfur,14.3782747,24.9042208,0,1
