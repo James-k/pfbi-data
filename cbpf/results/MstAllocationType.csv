@@ -21,6 +21,7 @@ AllocationType,AllocationtypeId
 (AFG) 2020 1st Reserve Allocation,3923
 (AFG) 2020 2nd Reserve Allocation,4123
 (AFG) 2020 3rd Reserve Allocation,4223
+(AFG) 2020 4th Reserve Allocation,4323
 (AFG) 2020 5th Reserve Allocation,4423
 (AFG) 2020 6th Reserve Allocation,4523
 (AFG) 2020 1st Standard Allocation,4023
@@ -32,22 +33,31 @@ AllocationType,AllocationtypeId
 (AFG) 2022 2nd Reserve Allocation,5223
 (AFG) 2022 3rd Reserve Allocation,5323
 (AFG) 2022 1st Standard Allocation,5123
+(AFG) 2023 4th Reserve Allocation - Herat Earthquake Response,5823
+(AFG) 2023 1st Reserve Allocation,5423
+(AFG) 2023 2nd Reserve Allocation - Health Sector,5623
+(AFG) 2023 3rd Reserve Allocation - Earthquicke Response,5723
+(AFG) 2023 1st Standard Allocation,5523
 (BFA) 2022 Reserve Allocation,45085
 (BFA) 2022 Standard Allocation,40085
-(CAF) 2020 First Reserve Allocation,24218
-(CAF) 2020 Second Reserve Allocation,25418
-(CAF) 2020 Third Reserve Allocation,27518
-(CAF) 2020 Fourth Reserve Allocation,28818
-(CAF) 2020 First Standard Allocation,30018
-(CAF) 2021 First Reserve Allocation,35218
-(CAF) 2021 Second Reserve Allocation,37018
-(CAF) 2021 First Standard Allocation,33718
-(CAF) 2022 First Reserve Allocation,39018
-(CAF) 2022 Second Reserve Allocation,40918
-(CAF) 2022 Third Reserve Allocation,42618
-(CAF) 2022 Fourth Reserve Allocation,44918
-(CAF) 2022 First Standard Allocation,39218
-(CAF) 2022 Second Standard Allocation,42718
+(BFA) 2023 Standard Allocation,48685
+(CAF) 2020 First Reserve Allocation,24217
+(CAF) 2020 Second Reserve Allocation,25417
+(CAF) 2020 Third Reserve Allocation,27517
+(CAF) 2020 Fourth Reserve Allocation,28817
+(CAF) 2020 First Standard Allocation,30017
+(CAF) 2021 First Reserve Allocation,35217
+(CAF) 2021 Second Reserve Allocation,37017
+(CAF) 2021 First Standard Allocation,33717
+(CAF) 2022 First Reserve Allocation,39017
+(CAF) 2022 Second Reserve Allocation,40917
+(CAF) 2022 Third Reserve Allocation,42617
+(CAF) 2022 Fourth Reserve Allocation,44917
+(CAF) 2022 First Standard Allocation,39217
+(CAF) 2022 Second Standard Allocation,42717
+(CAF) 2023 First Reserve Allocation,48417
+(CAF) 2023 First Standard Allocation,49817
+(CAF) 2024 First Reserve Allocation,52917
 (CAF) Reserve 2017,2417
 (CAF) 2017 Allocation Standard 1,2517
 (CAF) 2017 Allocation Standard 2,2717
@@ -63,25 +73,31 @@ AllocationType,AllocationtypeId
 (CAF) 2019 Second Standard Allocation,3517
 (COL) Reserve Allocation Colombia 2017,10452
 (COL) 1st Standard Allocation 2017/HRP 2017,10852
-(COD) Allocation Reserve COVID - 2020,25725
-(COD) UR juin 2020 - Allocation Reserve – Mbandaka,27325
-(COD) UR août 2020 - Allocation Reserve – Ituri,28425
-(COD) UR septembre 2020 - Allocation Reserve – Nyunzu,29125
-(COD) UR octobre 2020 - Allocation Réserve Inclusion dans l’action humanitaire,30125
-(COD) UR Décembre 2020 - Allocation de Réserve – Hauts Plateaux (Sud-Kivu),30625
-(COD) UR decembre 2020 - Allocation Réserve Coordination,31125
-(COD) ST juin 2020 - Première Allocation Standard,27425
-(COD) UR5 Décembre 2021-Allocation de Réserve – Logistique Sud-Kivu,38125
-(COD) ST Décembre 2021- Deuxième Allocation Standard,38225
-(COD) UR Mars 2021 - Allocation Réserve – PSEA,31925
-(COD) UR2 Juin 2021-Allocation Réserve-Nyiragongo,33825
-(COD) UR3 Aout 2021-Allocation de Réserve – Crise Sud-Ituri et Béni,35525
-(COD) UR6 Décembre 2021-Allocation de Réserve – Pré-positionnement,38425
-(COD) ST Mai 2021- Première Allocation Standard,33425
-(COD) UR 1 Juin 2022-Allocation Réserve - Crise M23 - Province du Nord-Kivu,41425
-"(COD) UR 2 July 2022-Allocation Réserve - Réponse d’urgence en Santé dans le Territoire de Rutshuru, Province du Nord-Kivu",42425
-(COD) UR 3 Octobre 2022-Allocation Réserve - Renforcement de la réponse Humanitaire au Maï-Ndombe et Kwilu,44025
-(COD) ST Mai 2022 - Première Allocation Standard,41025
+"(COD) RA1 Mai 2023 - Réponse à la crise inondations et éboulements de terre dans le territoire de Kalehe, Sud-Kivu",47224
+"(COD) 2023 RA2 Juillet 2023– Réponse humanitaire aux personnes déplacées affectées par les conflits dans les provinces de Maï-Ndombe, du Nord-Kivu, de l'Ituri et de Tanganyika, avec un accent particulier sur la PSEA et les retournés",49224
+"(COD) 2023 RA3 novembre 2023_Réponse multisectorielle localisée aux personnes affectées par le conflit dans les territoires de Rutshuru, Massisi et Fizi centrée sur la protection avec la participation des organisations nationales féminines.",51824
+(COD) AR 1 Février 2024 _ Goma asphyxiée : réponse aux besoins vitaux des nouvelles personnes déplacées autour de la ville de Goma,53024
+(COD) Allocation Reserve COVID - 2020,25724
+(COD) UR juin 2020 - Allocation Reserve – Mbandaka,27324
+(COD) UR août 2020 - Allocation Reserve – Ituri,28424
+(COD) UR septembre 2020 - Allocation Reserve – Nyunzu,29124
+(COD) UR octobre 2020 - Allocation Réserve Inclusion dans l’action humanitaire,30124
+(COD) UR Décembre 2020 - Allocation de Réserve – Hauts Plateaux (Sud-Kivu),30624
+(COD) UR decembre 2020 - Allocation Réserve Coordination,31124
+(COD) ST juin 2020 - Première Allocation Standard,27424
+(COD) UR5 Décembre 2021-Allocation de Réserve – Logistique Sud-Kivu,38124
+(COD) ST Décembre 2021- Deuxième Allocation Standard,38224
+(COD) UR Mars 2021 - Allocation Réserve – PSEA,31924
+(COD) UR2 Juin 2021-Allocation Réserve-Nyiragongo,33824
+(COD) UR3 Aout 2021-Allocation de Réserve – Crise Sud-Ituri et Béni,35524
+(COD) UR4 Décembre 2021-Allocation de Réserve – SECAL/Urgence-Résilience pour Sud-Kivu,38024
+(COD) UR6 Décembre 2021-Allocation de Réserve – Pré-positionnement,38424
+(COD) ST Mai 2021- Première Allocation Standard,33424
+(COD) UR 1 Juin 2022-Allocation Réserve - Crise M23 - Province du Nord-Kivu,41424
+"(COD) UR 2 July 2022-Allocation Réserve - Réponse d’urgence en Santé dans le Territoire de Rutshuru, Province du Nord-Kivu",42424
+(COD) UR 3 Octobre 2022-Allocation Réserve - Renforcement de la réponse Humanitaire au Maï-Ndombe et Kwilu,44024
+(COD) AR 4 Décembre 2022- Réponse à la crise dans la province du Nord-Kivu en territoires de Nyiragongo – Rutshuru – Masisi-Lubero et la ville de Goma.,45224
+(COD) ST Mai 2022 - Première Allocation Standard,41024
 (COD) PU mai 2017 - Assistance humanitaire aux populations affectées par le conflit aux Kasais,4724
 (COD) ST Avril 2017 - Première Allocation Standard - Province de Maniema,4624
 (COD) UR mars 2017 - Assistance Humanitaire aux populations déplacées. Territoire de kalemie/Tanganyika,4524
@@ -107,6 +123,9 @@ AllocationType,AllocationtypeId
 (COD) UR juillet 2019 - Troisième Allocation d'Urgence,6824
 (COD) UR novembre 2019 - 4ème Allocation d’Urgence - ZS de Kamango,7024
 (COD) UR octobre 2019 - Cinquième Allocation d’Urgence - Rougeole,6924
+(ETH) 2023 1st EHF Reserve Allocation,48153
+(ETH) 2023 2nd  EHF Reserve Allocation,51153
+(ETH) 2023 1st EHF Standard Allocation,50053
 (ETH) 2016 2nd round allocation - Call for Proposal,9053
 (ETH) 2017 1st round allocation - Call for Proposal,10153
 (ETH) 2017 1st Round Reserve Allocation,13153
@@ -127,6 +146,9 @@ AllocationType,AllocationtypeId
 (ETH) 2021 2nd Round Standard Allocation,38353
 (ETH) 2022 1st Round Reserve Allocation,40153
 (ETH) 2022 2nd Round Reserve Allocation,40853
+(ETH) 2022 3rd Round Reserve Allocation,45553
+(ETH) 2022 1st Round Standard Allocation,43753
+(ETH) 2022 1st Round Standard Allocation - Envelope 3,45753
 (IRQ) 2017 IHPF 2nd Reserve Allocation,10072
 (IRQ) 2017 6th Reserve Allocation Hawiga Response,13072
 (IRQ) 1st Reserve Allocation 2017-National NGOs Window Iraq,9572
@@ -170,6 +192,8 @@ AllocationType,AllocationtypeId
 (JOR) Jordan First Reserve Allocation August 2021,35173
 (JOR) Jordan first Standard Allocation May 2021,33673
 (JOR) Jordan first Reserve Allocation April - 2022,40373
+(LBN) 2023 1st Reserve Allocation (Pillar I-48Hours),51671
+(LBN) 2023 1st Standard Allocation,47171
 (LBN) 2017 Reserve Allocation,10771
 (LBN) 2017 First Standard Allocation,11571
 (LBN) 2017 2nd Reserve Allocation,13471
@@ -192,6 +216,13 @@ AllocationType,AllocationtypeId
 (LBN) 2022 1st Reserve Allocation,42871
 (LBN) 2022 2nd Reserve Allocation,44471
 (LBN) 2022 1st Standard Allocation,40571
+(MLI) 2023 Standard Allocation,49486
+(MMR) 2023 First Reserve Allocation,47459
+(MMR) 2023 Fourth Reserve Allocation,51459
+(MMR) 2023 Second Reserve Allocation,48559
+(MMR) 2023 Third Reserve Allocation,50159
+(MMR) 2023 First Standard Allocation,47759
+(MMR) 2023 Second Standard Allocation,51059
 (MMR) 2017 First Reserve Allocation,9859
 (MMR) 2017 First Standard Allocation (Kachin / Shan),12159
 (MMR) 2017 Second Standard Allocation (Rakhine),12959
@@ -209,8 +240,11 @@ AllocationType,AllocationtypeId
 (MMR) 2021 Second Standard Allocation,36859
 (MMR) 2022 First Reserve Allocation (JMSNA),39359
 (MMR) 2022 Second Reserve Allocation,42559
+(MMR) 2022 First Standard Allocation,44659
+(NER) 2023 Standard Allocation,49184
 (NER) 2021 Standard Allocation,35884
 (NER) 2022 Reserve Allocation,44884
+"(NGA) 1st Reserve Allocation 2023: Addressing Food Security Crisis in Borno, Adamawa and Yobe",48075
 (NGA) 1st Standard Allocation 2017 - Nigeria,11475
 (NGA) 2nd Standard Allocation 2017 - Nigeria,12675
 (NGA) 1st Reserve Allocation 2018 - Nigeria,14475
@@ -229,6 +263,12 @@ AllocationType,AllocationtypeId
 (NGA) 1st Reserve Allocation 2022 - Nigeria,43075
 (NGA) 2nd Reserve Allocation 2022 - Nigeria,44775
 (NGA) 1st Standard Allocation 2022 - Nigeria,43175
+(PSE) 2023 48 hours response,50967
+(PSE) 2023 2RA:Critical Humanitarian Aid for Gaza Amidst Escalating Conflict and Displacement,52367
+(PSE) 2023 Enhancing vulnerable communities and households’ access to essential needs and lifesaving basic services in oPt.,45967
+(PSE) 2023 Resilience and Well-Being for oPt: A Comprehensive Allocation for Crisis Preparedness and Response,50567
+(PSE) 2024 48 Hours Response to West Bank,53667
+(PSE) 3rd Reserve Allocation 2024 (Response to Gaza),53967
 (PSE) Gaza Reserve allocation 2017,12067
 (PSE) 1st standard allocation 2017,11067
 (PSE) 2017 EMERGENCY WINDOW: Rolling basis,9167
@@ -253,6 +293,7 @@ AllocationType,AllocationtypeId
 (PSE) 2021 Multi-Sector Needs Assessment (MSNA) in oPt,31467
 (PSE) 2nd reserve allocation 2021 (COVID related),32967
 (PSE) Support to Augusta Victoria Hospital and 2022 Multi-Sector Needs Assessment (MSNA) in oPt,40767
+(PSE) 2022 1st Reserve Allocation (PSEA),39767
 (PSE) 1st Standard Allocation 2022,41567
 (PSE) 2022 2nd Standard Allocation,44367
 (PAK) 1st Standard Allocation 2017,11160
@@ -266,6 +307,14 @@ AllocationType,AllocationtypeId
 (PAK) 2nd Reserve Allocation 2020,26360
 (PAK) 1st Reserve Allocation 2020,26160
 (PAK) 1st Reserve Allocation 2021,34760
+(SOM) Reserve Allocation 2 2023,4821
+(SOM) Reserve Allocation 3 2023,5021
+(SOM) Reserve Allocation 4 2023,5121
+(SOM) Reserve Allocation 5 2023,5221
+(SOM) Reserve Allocation 8 2023 Flood response Galkayo,5521
+(SOM) Reserve Allocation 7.1 2023 Flood response Baidoa,5421
+(SOM) Standard Allocation 1 2023,4921
+(SOM) 2024 PILOT Anticipatory Action Allocation,5721
 "(SOM) Reserve 2017 Integrated Response Round 2 (Galmudug, Togdheer, Lower Shabelle)",1921
 (SOM) Reserve 2017,1721
 (SOM) Standard Allocation 1 (Jan 2017),1821
@@ -292,18 +341,25 @@ AllocationType,AllocationtypeId
 (SOM) Reserve Allocation 3 (July 2022),4521
 (SOM) Reserve Allocation 4 (October 2022),4621
 (SOM) Standard Allocation 1 (February 2022),4221
-(SSD) 2020 Reserve Allocation 1,26820
-(SSD) 2020 Reserve Allocation 2,29720
-(SSD) 2020 Reserve Allocation 3,31220
-(SSD) 2020 1st Round Standard Allocation,24320
-(SSD) 2021 Reserve Allocation 1,36020
-(SSD) 2021 1st Round Standard Allocation,34320
-(SSD) 2022 Reserve Allocation 1,39420
-(SSD) 2022 Reserve Allocation 2,40220
-(SSD) 2022 Reserve Allocation 3,41120
-(SSD) 2022 Reserve Allocation 4,42220
-(SSD) 2022 Reserve Allocation 5,44120
-(SSD) 2022 1st Round Standard Allocation,42120
+(SSD) 2023 RESERVE ALLOCATION 3,47519
+(SSD) 2023 Reserve allocation 4,47919
+(SSD) 2023 Reserve allocation 5,48719
+(SSD) 2023 Reserve Allocation 6,50219
+(SSD) 2023 RESERVE ALLOCATION 2,47019
+(SSD) 2023 Reserve allocation 1,46919
+(SSD) 2024 Reserve allocation 1,52819
+(SSD) 2020 Reserve Allocation 1,26819
+(SSD) 2020 Reserve Allocation 2,29719
+(SSD) 2020 Reserve Allocation 3,31219
+(SSD) 2020 1st Round Standard Allocation,24319
+(SSD) 2021 Reserve Allocation 1,36019
+(SSD) 2021 1st Round Standard Allocation,34319
+(SSD) 2022 Reserve Allocation 1,39419
+(SSD) 2022 Reserve Allocation 2,40219
+(SSD) 2022 Reserve Allocation 3,41119
+(SSD) 2022 Reserve Allocation 4,42219
+(SSD) 2022 Reserve Allocation 5,44119
+(SSD) 2022 1st Round Standard Allocation,42119
 (SSD) HF Direct Cost 2017,2119
 (SSD) 2017 Reserve Allocation 1,2419
 (SSD) 2017 1st Round Standard Allocation,2219
@@ -315,31 +371,39 @@ AllocationType,AllocationtypeId
 (SSD) 2019 Reserve Allocation 2,3119
 (SSD) 2019 1st Round Standard Allocation,2819
 (SSD) 2019 2nd Round Standard Allocation,3019
-(SDN) 2020 - SHF Reserve for Emergencies (Ethiopian Refugees),30816
-(SDN) 2020 - SHF Reserve for Emergencies (Newly accessible areas in Jebel Marra and Two Areas),30916
-(SDN) 2020 Reserve for Emergencies (Multi-Sector Needs Assessment) - IOM,28616
-(SDN) 2020 - SHF Reserve for Emergencies (Floods),28016
-(SDN) 2020 - SHF Reserve for Emergencies (Polio Response),29816
-(SDN) 2020 - SHF Reserve for Emergencies,23916
-(SDN) 2020 – SHF 1st Round Standard Allocation,25816
-(SDN) 2021 - SHF Reserve for Emergencies (West Darfur Conflict),31616
-(SDN) 2021 - SHF Reserve for Emergencies (End of year allocations- Covid 19),37716
-(SDN) 2021 - SHF Reserve for Emergencies (End of year allocations- Anticipatory approach _Drought),37816
-(SDN) 2021 - SHF Reserve for Emergencies (Combating desert locust in Yabus- Blue Nile State),31716
-(SDN) 2021 - SHF Reserve for Emergencies (Support COVID Isolation Center – Khartoum State),32516
-(SDN) 2021 - SHF Reserve for Emergencies (Prepositioning of Stock),34216
-(SDN) 2021- Reserve for Emergencies (Multi-Sector Needs Assessment),33116
-(SDN) 2021 - SHF Reserve for Emergencies (Floods Response),35616
-(SDN) 2021 - SHF Reserve for Emergencies (End of year allocations- Newly Accessible Areas),37416
-(SDN) 2021 - SHF Reserve for Emergencies (End of year allocations- Conflict and displacement),37616
-(SDN) 2021 – SHF 1st Standard Allocation,33516
-(SDN) 2022- SHF Reserve for Emergencies (Drought Response),39816
-(SDN) 2022- SHF Reserve for Emergencies  (Sub-national Conflict/Dry-Spell),39916
-(SDN) 2022 - SHF Reserve for Emergencies (Prepositioning of Stock),41316
-(SDN) 2022 - SHF response to intercommunal violence across Sudan,43216
-(SDN) 2022 - SHF Reserve for Emergency (Localization),43816
-(SDN) 2022 - SHF Reserve for Emergencies (Intercommunal violence in South Kordofan and Blue Nile),45116
-(SDN) 2022 – SHF 1st Standard Allocation,39616
+(SDN) 2023 - SHF Reserve for Emergencies (Displacement and returnees’ response),46515
+(SDN) 2023- Reserve for Emergencies (Multi-Sector Needs Assessment),46715
+(SDN) 2023 - SHF Reserve for Emergencies (Flexible life-saving response to conflict-affected people in Sudan),47815
+(SDN) 2023 - SHF Reserve for Emergencies (Lifesaving Urgent Response to Sudan Crisis in hard-to-reach areas and Cholera Outbreak),52215
+(SDN) 2023 - SHF Reserve for Emergencies (Prepositioning of Stock),46615
+(SDN) 2024 - SHF Reserve for Emergencies (Early Action Food Response to Sudan Food Security Crisis in Darfur and Kordofan),53115
+(SDN) 2020 - SHF Reserve for Emergencies (Ethiopian Refugees),30815
+(SDN) 2020 - SHF Reserve for Emergencies (Newly accessible areas in Jebel Marra and Two Areas),30915
+(SDN) 2020 Reserve for Emergencies (Multi-Sector Needs Assessment) - IOM,28615
+(SDN) 2020 - SHF Reserve for Emergencies (Floods),28015
+(SDN) 2020 - SHF Reserve for Emergencies (Polio Response),29815
+(SDN) 2020 - SHF Reserve for Emergencies,23915
+(SDN) 2020 – SHF 1st Round Standard Allocation,25815
+(SDN) 2021 - SHF Reserve for Emergencies (West Darfur Conflict),31615
+(SDN) 2021 - SHF Reserve for Emergencies (End of year allocations- Covid 19),37715
+(SDN) 2021 - SHF Reserve for Emergencies (End of year allocations- Anticipatory approach _Drought),37815
+(SDN) 2021 - SHF Reserve for Emergencies (Combating desert locust in Yabus- Blue Nile State),31715
+(SDN) 2021 - SHF Reserve for Emergencies (Support COVID Isolation Center – Khartoum State),32515
+(SDN) 2021 - SHF Reserve for Emergencies (Prepositioning of Stock),34215
+(SDN) 2021- Reserve for Emergencies (Multi-Sector Needs Assessment),33115
+(SDN) 2021 - SHF Reserve for Emergencies (Floods Response),35615
+(SDN) 2021 - SHF Reserve for Emergencies (End of year allocations- Newly Accessible Areas),37415
+(SDN) 2021 - SHF Reserve for Emergencies (End of year allocations- Conflict and displacement),37615
+(SDN) 2021 – SHF 1st Standard Allocation,33515
+(SDN) 2022- SHF Reserve for Emergencies (Drought Response),39815
+(SDN) 2022- SHF Reserve for Emergencies  (Sub-national Conflict/Dry-Spell),39915
+(SDN) 2022 - SHF Reserve for Emergencies (Prepositioning of Stock),41315
+(SDN) 2022 - SHF response to intercommunal violence across Sudan,43215
+(SDN) 2022- SHF Reserve for Emergencies (Countrywide Nutrition Response),41915
+(SDN) 2022 - SHF Reserve for Emergency (Localization),43815
+(SDN) 2022 - SHF Reserve for Emergencies (Intercommunal violence in South Kordofan and Blue Nile),45115
+(SDN) 2022 - SHF Reserve for Emergencies (End of year allocation- Hard to Reach Areas in Sudan),45415
+(SDN) 2022 – SHF 1st Standard Allocation,39615
 (SDN) 2017 - SHF 1st Reserve Allocation,1515
 (SDN) 2017 - SHF 1st Protracted Displacement Pilot in Kreinik,1915
 (SDN) 2017 - SHF 2nd Reserve Allocation,1815
@@ -352,6 +416,10 @@ AllocationType,AllocationtypeId
 (SDN) 2019 - SHF Reserve for Emergencies,2615
 (SDN) 2019 – SHF 1st Round Standard Allocation,2515
 (SDN) 2019 – SHF 2nd Round Standard Allocation,2715
+(SYR) 2023 Life-saving response to the affected population by the Syria earthquake,46162
+(SYR) 2023 2nd Reserve Allocation 2023_Earthquake Response,46462
+(SYR) 2023 3rd Reserve Allocation_2023,49362
+(SYR) 2023 SA1-2023_Mitigate the impact of winter conditions on underserved areas encompassing a multisectoral approach to early recovery/resilience in areas of high need,50362
 (SYR) 1st Standard Allocation-2017,9362
 (SYR) 2nd Standard Allocation 2017,13262
 (SYR) 2017 Reserve Allocation,9962
@@ -374,10 +442,16 @@ AllocationType,AllocationtypeId
 (SYR) 1st Reserve Allocation 2021,31362
 (SYR) 2nd Reserve Allocation 2021,36262
 (SYR) 2021 3rd Reserve Allocation to Support UNHAS,38662
+(SYR) 2021 4th Reserve Allocation for Support to Medical Supplies - WHO,38762
 (SYR) 2021 1st Standard Allocation,34462
 (SYR) 1st Reserve Allocation 2022,43962
 (SYR) 2nd Reserve Allocation 2022 - Winteriaztion,44262
 (SYR) 2022 Saving lives through averting further deterioration of the nutritional situation and strengthening resilience of the most critically affected people,42062
+(TUR) 2023 1st Reserve Allocation,46070
+(TUR) 2023 3rd Reserve Allocation,47370
+(TUR) 2023 4th Reserve Allocation,51370
+(TUR) 2023 2nd Reserve Allocation,46370
+(TUR) 2023 1st Standard Allocation,50770
 (TUR) 2017 Rolling basis,9770
 (TUR) 2017 Reserve Allocation (WASH & Nutrition),13670
 (TUR) 2017 Standard Allocation,9670
@@ -408,6 +482,10 @@ AllocationType,AllocationtypeId
 (TUR) 2022 1st Reserve Allocation,43670
 (TUR) 2022 1st Standard Allocation,40670
 (TUR) 2022 2nd Standard Allocation,45370
+(UKR) 2023 Ukraine First Reserve Allocation,45881
+(UKR) UHF 2023 Second Reserve Allocation (Winterization),49581
+(UKR) 2023 Ukraine First Standard Allocation,46281
+(UKR) 2024 First Standard Allocation,52181
 (UKR) 2019 UHF 1st Standard Allocation,21781
 (UKR) 2020 UHF COVID-19 Allocation for Eastern Ukraine,24881
 (UKR) 2020 UHF COVID-19 Allocation for Non-Government Controlled Areas of Eastern Ukraine,26281
@@ -419,13 +497,27 @@ AllocationType,AllocationtypeId
 (UKR) UHF 2021 Standard Allocation_GCA,34681
 (UKR) UHF 2021 Standard Allocation_NGCA,34581
 (UKR) UHF 2022 Reserve Allocation_NGCA,38981
+(UKR) UHF 2022 Reserve Allocation_GCA,38881
 (UKR) UHF 2022 Second Reserve Allocation_Upscaling humanitarian aid,39581
 (UKR) UHF 2022 Third Reserve Allocation_Responding to humanitarian needs as a result of the military offensive in Ukraine,40481
 (UKR) 2022 Fourth Reserve Allocation (Winterization),42381
+(UKR) 2022 First Standard Allocation_Envelope 2,43481
+(UKR) 2022 First Standard Allocation_Envelope 1,43381
+(VEN) Primera Asignación Ordinaria 2023,47683
 (VEN) Primera asignación ordinaria 2021,31583
 (VEN) Segunda asignación ordinaria 2021,36183
 (VEN) Primera Asignación Ordinaria 2022,41683
 (VEN) Segunda Asignación Ordinaria 2022,44583
+(YEM) 1st Reserve Allocation 2023,46864
+(YEM) 7th Reserve Allocation 2023,51264
+(YEM) 8th Reserve Allocation 2023,51764
+(YEM) 6th Reserve Allocation 2023,49764
+(YEM) 2nd Reserve Allocation 2023,48864
+(YEM) 4th Reserve Allocation 2023,49064
+(YEM) 3rd Reserve Allocation 2023,48964
+(YEM) 5th Reserve Allocation 2023,49664
+(YEM) 9th Reserve Allocation 2023,52464
+(YEM) 1st Standard Allocation 2023,48264
 (YEM) First Standard Allocation 2017,10664
 (YEM) Second Reserve Allocation 2017 Yemen,11264
 (YEM) Second Standard Allocation 2017,12764
@@ -449,6 +541,7 @@ AllocationType,AllocationtypeId
 (YEM) 4th Reserve Allocation  2021,38564
 (YEM) 2nd Standard Allocation 2021,36764
 (YEM) 1st Standard Allocation 2021,34064
+(YEM) 3rd YHF Reserve Allocation 2022,45664
 (YEM) 1st Reserve Allocation 2022,41764
 (YEM) 2nd Reserve Allocation 2022,43564
 (YEM) 1st Standard Allocation 2022,41864
