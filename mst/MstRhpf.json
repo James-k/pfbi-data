@@ -47,5 +47,12 @@
     "RFundName": "Chad (RhPF-WCA)",
     "StartYearDate": "12-2024",
     "CBPFId": 90
+  },
+  {
+    "RFundTitle": "Asia Pacific Regional Fund",
+    "RFundAbbrv": "AP-RF",
+    "RFundName": "Asia Pacific Regional Fund",
+    "StartYearDate": "01-2025",
+    "CBPFId": 501
   }
 ]
