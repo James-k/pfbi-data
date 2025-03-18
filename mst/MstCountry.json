@@ -4414,5 +4414,21 @@
     "CBPFId": 90,
     "CERFId": 21,
     "AreaType": "Country"
+  },{
+    "id": 259,
+    "PooledFundName": "Asia Pacific Regional Fund",
+    "PooledFundNameAbbrv": "AP-RF",
+    "RegionName": "South-Eastern Asia",
+    "RegionNameArr": "Asia",
+    "SubRegionName": "South-Eastern Asia",
+    "ContinentName": "Asia",
+    "CountryCode": "TH",
+    "ISO2Code": "THA",
+    "latitude": 13.73671700,
+    "longitude": 100.52318600,
+    "CBPFFundStatus":"",
+    "CBPFId": 501,
+    "CERFId": "",
+    "AreaType": "Country"
   }
 ]
