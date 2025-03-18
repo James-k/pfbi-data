@@ -1322,5 +1322,17 @@
     "donorName": "DEZA/SDC",
     "donorType": "Private",
     "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 217,
+    "donorName": "Through United Nations Foundation, UNF",
+    "donorType": "Private Contributions through UNF",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 218,
+    "donorName": "Coca-Cola Foundation",
+    "donorType": "Private Contributions through UNF",
+    "donorISO2Code": "XPRV"
   }
 ]
