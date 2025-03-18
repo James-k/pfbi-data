@@ -9428,16 +9428,17 @@ Democratic Republic of the Congo,2025,Rapid Response,34902,CERF-COD-25-RR-FPA-34
 Democratic Republic of the Congo,2025,Rapid Response,34903,CERF-COD-25-RR-IOM-34903,Camp Coordination and Camp Management,Camp Coordination and Camp Management,10.00000029999998,100000.01,CERF
 Democratic Republic of the Congo,2025,Rapid Response,34903,CERF-COD-25-RR-IOM-34903,Shelter and Non-Food Items,Shelter and Non-Food Items,89.99999970000003,900000.06,CERF
 Lebanon,2025,Rapid Response,34930,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0,CERF
-Republic of the Sudan,2025,Underfunded Emergencies,34931,CERF-SDN-25-UF-1451(TBD),To be determined,To be determined,100.0,22000000.0,CERF
-Venezuela,2025,Underfunded Emergencies,34932,CERF-VEN-25-UF-1452(TBD),To be determined,To be determined,100.0,8000000.0,CERF
-Afghanistan,2025,Underfunded Emergencies,34933,CERF-AFG-25-UF-1453(TBD),To be determined,To be determined,100.0,19000000.0,CERF
-Mauritania,2025,Underfunded Emergencies,34934,CERF-MRT-25-UF-1454(TBD),To be determined,To be determined,100.0,4000000.0,CERF
-Honduras,2025,Underfunded Emergencies,34935,CERF-HND-25-UF-1455(TBD),To be determined,To be determined,100.0,5000000.0,CERF
-Niger,2025,Underfunded Emergencies,34936,CERF-NER-25-UF-1456(TBD),To be determined,To be determined,100.0,7000000.0,CERF
-Somalia,2025,Underfunded Emergencies,34937,CERF-SOM-25-UF-1457(TBD),To be determined,To be determined,100.0,13000000.0,CERF
-Zambia,2025,Underfunded Emergencies,34938,CERF-ZMB-25-UF-1458(TBD),To be determined,To be determined,100.0,4000000.0,CERF
-Central African Republic,2025,Underfunded Emergencies,34939,CERF-CAF-25-UF-1459(TBD),To be determined,To be determined,100.0,6000000.0,CERF
-Chad,2025,Underfunded Emergencies,34940,CERF-TCD-25-UF-1460(TBD),To be determined,To be determined,100.0,12000000.0,CERF
+Democratic Republic of the Congo,2025,Rapid Response,34931,CERF-COD-25-RR-1445(TBD),To be determined,To be determined,100.0,750000.0,CERF
+Republic of the Sudan,2025,Underfunded Emergencies,34932,CERF-SDN-25-UF-1451(TBD),To be determined,To be determined,100.0,22000000.0,CERF
+Venezuela,2025,Underfunded Emergencies,34933,CERF-VEN-25-UF-1452(TBD),To be determined,To be determined,100.0,8000000.0,CERF
+Afghanistan,2025,Underfunded Emergencies,34934,CERF-AFG-25-UF-1453(TBD),To be determined,To be determined,100.0,19000000.0,CERF
+Mauritania,2025,Underfunded Emergencies,34935,CERF-MRT-25-UF-1454(TBD),To be determined,To be determined,100.0,4000000.0,CERF
+Honduras,2025,Underfunded Emergencies,34936,CERF-HND-25-UF-1455(TBD),To be determined,To be determined,100.0,5000000.0,CERF
+Niger,2025,Underfunded Emergencies,34937,CERF-NER-25-UF-1456(TBD),To be determined,To be determined,100.0,7000000.0,CERF
+Somalia,2025,Underfunded Emergencies,34938,CERF-SOM-25-UF-1457(TBD),To be determined,To be determined,100.0,13000000.0,CERF
+Zambia,2025,Underfunded Emergencies,34939,CERF-ZMB-25-UF-1458(TBD),To be determined,To be determined,100.0,4000000.0,CERF
+Central African Republic,2025,Underfunded Emergencies,34940,CERF-CAF-25-UF-1459(TBD),To be determined,To be determined,100.0,6000000.0,CERF
+Chad,2025,Underfunded Emergencies,34941,CERF-TCD-25-UF-1460(TBD),To be determined,To be determined,100.0,12000000.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
@@ -18538,6 +18539,10 @@ oPt,2024,Standard,33696,CBPF-OPT-24-S-UN-33696,Education,,100.0,350960.0,CBPF
 oPt,2024,Standard,33752,CBPF-OPT-24-S-UN-33752,Emergency Shelter and NFI,,100.0,850003.72,CBPF
 oPt,2024,Standard,33794,CBPF-OPT-24-S-UN-33794,Education,,100.0,649999.96,CBPF
 oPt,2024,Standard,33867,CBPF-OPT-24-S-UN-33867,Protection,,100.0,250000.0,CBPF
+oPt,2025,Reserve,34834,CBPF-OPT-25-R-INGO-34834,Education,,100.0,500000.0,CBPF
+oPt,2025,Reserve,34836,CBPF-OPT-25-R-INGO-34836,Multi-purpose CASH,,100.0,600000.0,CBPF
+oPt,2025,Reserve,34842,CBPF-OPT-25-R-INGO-34842,Multi-purpose CASH,,100.0,400000.0,CBPF
+oPt,2025,Reserve,34860,CBPF-OPT-25-R-NGO-34860,"Water, Sanitation and Hygiene",,100.0,349943.56,CBPF
 oPt,2025,Reserve,34862,CBPF-OPT-25-R-NGO-34862,Education,,100.0,800051.84,CBPF
 oPt,2025,Reserve,34914,CBPF-OPT-25-R-NGO-34914,Multi-purpose CASH,,100.0,600000.0,CBPF
 oPt,2025,Reserve,34915,CBPF-OPT-25-R-NGO-34915,Health,,100.0,500000.02,CBPF

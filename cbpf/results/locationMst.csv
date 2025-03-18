@@ -10735,52 +10735,52 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 10447, Aleppo > Afrin > Afrin > Kafrmeez,Aleppo,36.206013,37.15242
 10448, Aleppo > Afrin > Afrin > Enab,Aleppo,36.206013,37.15242
 10449, Idleb > Harim > Dana > Burj Elnumra,Idleb,35.929008,36.635276
-10450, Idleb > Harim > Qourqeena > Barisha,Idleb,35.929008,36.635276
+10450, Idleb > Harim > Qourqeena > Torlaha,Idleb,35.929008,36.635276
 10451, Idleb > Harim > Qourqeena > Banabel,Idleb,35.929008,36.635276
-10452, Idleb > Harim > Qourqeena > Dier Seeta,Idleb,35.929008,36.635276
+10452, Idleb > Harim > Qourqeena > Barisha,Idleb,35.929008,36.635276
 10453, Idleb > Harim > Qourqeena > Ma'arat Manaya,Idleb,35.929008,36.635276
 10454, Idleb > Harim > Qourqeena > Koknaya,Idleb,35.929008,36.635276
-10455, Idleb > Harim > Qourqeena > Ras Elhisn,Idleb,35.929008,36.635276
-10456, Idleb > Harim > Qourqeena > Radwa,Idleb,35.929008,36.635276
-10457, Idleb > Harim > Qourqeena > Khirbet al Kahtib,Idleb,35.929008,36.635276
+10455, Idleb > Harim > Qourqeena > Radwa,Idleb,35.929008,36.635276
+10456, Idleb > Harim > Qourqeena > Khirbet al Kahtib,Idleb,35.929008,36.635276
+10457, Idleb > Harim > Qourqeena > Dier Seeta,Idleb,35.929008,36.635276
 10458, Idleb > Harim > Salqin > Betiya,Idleb,35.929008,36.635276
-10459, Aleppo > A'zaz > A'zaz > Kafr Kalbein,Aleppo,36.206013,37.15242
-10460, Idleb > Harim > Qourqeena > Qalb Lozeh,Idleb,35.929008,36.635276
-10461, Idleb > Harim > Qourqeena > Rabeeta,Idleb,35.929008,36.635276
-10462, Aleppo > A'zaz > A'zaz > Kaljibrin,Aleppo,36.206013,37.15242
-10463, Idleb > Harim > Salqin > Aljib,Idleb,35.929008,36.635276
-10464, Idleb > Harim > Harim > Mira Shaq,Idleb,35.929008,36.635276
-10465, Idleb > Harim > Salqin > Hamra,Idleb,35.929008,36.635276
-10466, Idleb > Harim > Salqin > Sayed Khalil,Idleb,35.929008,36.635276
-10467, Aleppo > A'zaz > A'zaz > Maraanaz,Aleppo,36.206013,37.15242
-10468, Aleppo > A'zaz > A'zaz > Ferziyeh,Aleppo,36.206013,37.15242
-10469, Aleppo > A'zaz > A'zaz > Manaq,Aleppo,36.206013,37.15242
-10470, Aleppo > A'zaz > A'zaz > Judaydah Ma'arin,Aleppo,36.206013,37.15242
-10471, Aleppo > A'zaz > A'zaz > Nayara,Aleppo,36.206013,37.15242
-10472, Aleppo > A'zaz > A'zaz > Krum,Aleppo,36.206013,37.15242
-10473, Idleb > Harim > Salqin > Kafrahlat Jallad,Idleb,35.929008,36.635276
-10474, Aleppo > A'zaz > A'zaz > Talil Elsham,Aleppo,36.206013,37.15242
+10459, Idleb > Harim > Salqin > Msheirfeh,Idleb,35.929008,36.635276
+10460, Aleppo > A'zaz > A'zaz > Kafr Kalbein,Aleppo,36.206013,37.15242
+10461, Idleb > Harim > Qourqeena > Qalb Lozeh,Idleb,35.929008,36.635276
+10462, Idleb > Harim > Qourqeena > Ras Elhisn,Idleb,35.929008,36.635276
+10463, Idleb > Harim > Qourqeena > Rabeeta,Idleb,35.929008,36.635276
+10464, Idleb > Harim > Salqin > Shyukh,Idleb,35.929008,36.635276
+10465, Aleppo > A'zaz > A'zaz > Kaljibrin,Aleppo,36.206013,37.15242
+10466, Idleb > Harim > Salqin > Aljib,Idleb,35.929008,36.635276
+10467, Idleb > Harim > Salqin > Hamra,Idleb,35.929008,36.635276
+10468, Idleb > Harim > Salqin > Sayed Khalil,Idleb,35.929008,36.635276
+10469, Aleppo > A'zaz > A'zaz > Maraanaz,Aleppo,36.206013,37.15242
+10470, Aleppo > A'zaz > A'zaz > Manaq,Aleppo,36.206013,37.15242
+10471, Aleppo > A'zaz > A'zaz > Ferziyeh,Aleppo,36.206013,37.15242
+10472, Aleppo > A'zaz > A'zaz > Kafr Khasher,Aleppo,36.206013,37.15242
+10473, Aleppo > A'zaz > A'zaz > Nayara,Aleppo,36.206013,37.15242
+10474, Aleppo > A'zaz > A'zaz > Judaydah Ma'arin,Aleppo,36.206013,37.15242
 10475, Idleb > Harim > Salqin > Jeser Maksour,Idleb,35.929008,36.635276
 10476, Aleppo > A'zaz > A'zaz > Niddeh,Aleppo,36.206013,37.15242
-10477, Aleppo > A'zaz > A'zaz > Tatiyeh,Aleppo,36.206013,37.15242
-10478, Aleppo > A'zaz > A'zaz > Yahmul,Aleppo,36.206013,37.15242
-10479, Aleppo > A'zaz > A'zaz > Maarin,Aleppo,36.206013,37.15242
-10480, Idleb > Harim > Salqin > Set Aateka,Idleb,35.929008,36.635276
-10481, Idleb > Harim > Harim > Ariba,Idleb,35.929008,36.635276
-10482, Idleb > Harim > Harim > Kafr Mu,Idleb,35.929008,36.635276
-10483, Aleppo > A'zaz > Suran > Zayzafun - Ekdeh,Aleppo,36.206013,37.15242
-10484, Aleppo > A'zaz > A'zaz > Al-Malikeyyeh,Aleppo,36.206013,37.15242
-10485, Aleppo > A'zaz > A'zaz > Bab Alsalameh,Aleppo,36.206013,37.15242
-10486, Aleppo > A'zaz > A'zaz > Jarez,Aleppo,36.206013,37.15242
-10487, Idleb > Harim > Harim > Kafr Hum,Idleb,35.929008,36.635276
-10488, Idleb > Harim > Qourqeena > Torlaha,Idleb,35.929008,36.635276
-10489, Idleb > Harim > Salqin > Msheirfeh,Idleb,35.929008,36.635276
-10490, Idleb > Harim > Salqin > Shyukh,Idleb,35.929008,36.635276
-10491, Aleppo > A'zaz > A'zaz > Kafr Khasher,Aleppo,36.206013,37.15242
-10492, Aleppo > A'zaz > A'zaz > Shmarekh,Aleppo,36.206013,37.15242
-10493, Aleppo > A'zaz > A'zaz > Sijraz,Aleppo,36.206013,37.15242
-10494, Idleb > Jisr-Ash-Shugur > Badama > Baksariya,Idleb,35.929008,36.635276
-10495, Idleb > Jisr-Ash-Shugur > Badama > Armala,Idleb,35.929008,36.635276
+10477, Aleppo > A'zaz > A'zaz > Yahmul,Aleppo,36.206013,37.15242
+10478, Aleppo > A'zaz > A'zaz > Krum,Aleppo,36.206013,37.15242
+10479, Aleppo > A'zaz > A'zaz > Shmarekh,Aleppo,36.206013,37.15242
+10480, Idleb > Harim > Salqin > Kafrahlat Jallad,Idleb,35.929008,36.635276
+10481, Idleb > Harim > Harim > Mira Shaq,Idleb,35.929008,36.635276
+10482, Aleppo > A'zaz > A'zaz > Talil Elsham,Aleppo,36.206013,37.15242
+10483, Idleb > Harim > Salqin > Set Aateka,Idleb,35.929008,36.635276
+10484, Aleppo > A'zaz > A'zaz > Sijraz,Aleppo,36.206013,37.15242
+10485, Idleb > Harim > Harim > Kafr Mu,Idleb,35.929008,36.635276
+10486, Aleppo > A'zaz > A'zaz > Tatiyeh,Aleppo,36.206013,37.15242
+10487, Aleppo > A'zaz > A'zaz > Al-Malikeyyeh,Aleppo,36.206013,37.15242
+10488, Aleppo > A'zaz > A'zaz > Maarin,Aleppo,36.206013,37.15242
+10489, Aleppo > A'zaz > A'zaz > Bab Alsalameh,Aleppo,36.206013,37.15242
+10490, Aleppo > A'zaz > A'zaz > Jarez,Aleppo,36.206013,37.15242
+10491, Idleb > Harim > Harim > Ariba,Idleb,35.929008,36.635276
+10492, Idleb > Harim > Harim > Kafr Hum,Idleb,35.929008,36.635276
+10493, Aleppo > A'zaz > Suran > Zayzafun - Ekdeh,Aleppo,36.206013,37.15242
+10494, Idleb > Jisr-Ash-Shugur > Badama > Armala,Idleb,35.929008,36.635276
+10495, Idleb > Jisr-Ash-Shugur > Badama > Baksariya,Idleb,35.929008,36.635276
 10496, Aleppo > Afrin > Sharan > Bafelyun,Aleppo,36.206013,37.15242
 10497, Aleppo > Afrin > Sharan > Qatmet Efrin,Aleppo,36.206013,37.15242
 10498, Aleppo > Afrin > Sharan > Shaltah,Aleppo,36.206013,37.15242
@@ -12631,9 +12631,9 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12321, Aden > Craiter,Aden,12.84865928,45.00201169
 12322, Aden > Al Mualla,Aden,12.84865928,45.00201169
 12323, Marib > Jabal Murad,Marib,15.56841151,45.76081505
-12324, Al Bayda > Az Zahir,Al Bayda,14.21742373,45.55495025
-12325, Al Hudaydah > Al Khawkhah > Al-Khoukhah,Al Hudaydah,15.00062889,43.04031959
-12326, Marib > Raghwan,Marib,15.56841151,45.76081505
+12324, Al Hudaydah > Al Khawkhah > Al-Khoukhah,Al Hudaydah,15.00062889,43.04031959
+12325, Marib > Raghwan,Marib,15.56841151,45.76081505
+12326, Al Bayda > Az Zahir,Al Bayda,14.21742373,45.55495025
 12327, Lahj > Halimayn,Lahj,12.96593663,44.41733354
 12328, Lahj > Habil Jabr,Lahj,12.96593663,44.41733354
 12329, Lahj > Yafa'a,Lahj,12.96593663,44.41733354
@@ -12650,8 +12650,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12340, Hajjah > Ash Shaghadirah,Hajjah,16.27488061,43.11225315
 12341, Hajjah > Bani Al Awam,Hajjah,16.27488061,43.11225315
 12342, Hajjah > Aflah Ash Shawm,Hajjah,16.27488061,43.11225315
-12343, Marib > Majzar,Marib,15.56841151,45.76081505
-12344, Marib > Medghal,Marib,15.56841151,45.76081505
+12343, Marib > Medghal,Marib,15.56841151,45.76081505
+12344, Marib > Majzar,Marib,15.56841151,45.76081505
 12345, Hajjah > Sharas,Hajjah,16.27488061,43.11225315
 12346, Hajjah > Al Jamimah,Hajjah,16.27488061,43.11225315
 12347, Hajjah > Wadhrah,Hajjah,16.27488061,43.11225315
@@ -12687,25 +12687,25 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12377, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
 12378, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
 12379, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
-12380, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
-12381, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
-12382, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
-12383, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
-12384, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
-12385, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
-12386, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
-12387, Shabwah > Habban,Shabwah,14.67178974,46.95556076
-12388, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
-12389, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
-12390, Shabwah > Arma,Shabwah,14.67178974,46.95556076
+12380, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
+12381, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
+12382, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
+12383, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
+12384, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
+12385, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
+12386, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
+12387, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
+12388, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
+12389, Shabwah > Arma,Shabwah,14.67178974,46.95556076
+12390, Shabwah > Habban,Shabwah,14.67178974,46.95556076
 12391, Ibb > Hubaysh,Ibb,14.05521633,44.26319019
 12392, Al Hudaydah > Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
 12393, Marib > Marib City > Mareb,Marib,15.56841151,45.76081505
 12394, Al Jawf > Bart Al Anan,Al Jawf,16.76813934,46.01014819
-12395, Shabwah > Usaylan,Shabwah,14.67178974,46.95556076
-12396, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
-12397, Marib > Bidbadah,Marib,15.56841151,45.76081505
-12398, Marib > Mahliyah,Marib,15.56841151,45.76081505
+12395, Marib > Bidbadah,Marib,15.56841151,45.76081505
+12396, Shabwah > Usaylan,Shabwah,14.67178974,46.95556076
+12397, Marib > Mahliyah,Marib,15.56841151,45.76081505
+12398, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
 12399, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
 12400, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
 12401, Al Hudaydah > Al Khawkhah > Al-Dhahyah,Al Hudaydah,15.00062889,43.04031959
@@ -12731,8 +12731,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12421, Al Jawf > Khabb wa ash Sha'af > Al-Khanq,Al Jawf,16.76813934,46.01014819
 12422, Al Bayda > Na'man,Al Bayda,14.21742373,45.55495025
 12423, Hadramaut > Al Abr > Al-Abr,Hadramaut,16.80924424,48.84638589
-12424, Yemen > Al Dhale'e > Ad Dhale'e,Al Dhale'e,13.85996808,44.67423913
-12425, Yemen > Lahj > Tuban,Lahj,12.96593663,44.41733354
+12424, Yemen > Lahj > Tuban,Lahj,12.96593663,44.41733354
+12425, Yemen > Al Dhale'e > Ad Dhale'e,Al Dhale'e,13.85996808,44.67423913
 12426, Hajjah > Aslem > Al-Waset,Hajjah,16.27488061,43.11225315
 12427, Sa'ada > Al Dhaher > Baitah,Sa'ada,17.25112185,43.50274965
 12428, Sa'ada > Al Dhaher > Al-Qaoud,Sa'ada,17.25112185,43.50274965
